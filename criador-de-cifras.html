@@ -251,7 +251,10 @@ function layout(chords){
 
 function renderSel(){
   const sel=$('songSel'); sel.innerHTML='';
-  songs.forEach(s=>{const o=document.createElement('option');o.value=s.id;o.textContent=s.title||'(sem nome)';if(s.id===curId)o.selected=true;sel.appendChild(o)});
+  /* número original do caderno (vem do "nº N" na linha do autor); músicas sem número ficam no fim */
+  const numOf=s=>{const m=(s.artist||'').match(/nº\s*(\d+)/);return m?+m[1]:null};
+  songs.map((s,i)=>({s,i,n:numOf(s)})).sort((a,b)=>(a.n??1e9)-(b.n??1e9)||a.i-b.i).forEach(({s,n})=>{
+    const o=document.createElement('option');o.value=s.id;o.textContent=(n!=null?n+'. ':'')+(s.title||'(sem nome)');if(s.id===curId)o.selected=true;sel.appendChild(o)});
 }
 function render(){
   const s=cur(); $('title').value=s.title||''; $('artist').value=s.artist||'';
