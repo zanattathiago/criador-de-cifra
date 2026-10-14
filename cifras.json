@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-14T17:57:09.536Z",
+ "saved": "2026-10-14T17:58:36.920Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -4273,8 +4273,16 @@
        "n": "F"
       },
       {
-       "p": 19,
+       "p": 14,
        "n": "G"
+      },
+      {
+       "p": 17,
+       "n": "F"
+      },
+      {
+       "p": 20,
+       "n": "E"
       }
      ]
     },
@@ -4288,6 +4296,26 @@
     },
     {
      "t": "Dilim, düşüncem sensin",
+     "c": []
+    },
+    {
+     "t": "Gözüm, kulağım sensin",
+     "c": []
+    },
+    {
+     "t": "Dilim, düşüncem sensin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İlmim, iradem sensin",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
      "c": []
     },
     {
@@ -4311,11 +4339,35 @@
      "c": []
     },
     {
+     "t": "Yok senlik, benlik; var Hû",
+     "c": []
+    },
+    {
+     "t": "Evvel, Âhir derim Hû",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
      "t": "Zâhir, Bâtın illâ Hû",
      "c": []
     },
     {
      "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "Zâhir, Bâtın illâ Hû",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "",
      "c": []
     },
     {
@@ -4331,11 +4383,35 @@
      "c": []
     },
     {
+     "t": "Zâhir oldun hem ayân",
+     "c": []
+    },
+    {
+     "t": "Görünürsün her zaman",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
      "t": "Sensin bana din iman",
      "c": []
     },
     {
      "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "Sensin bana din iman",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "",
      "c": []
     },
     {
@@ -4351,6 +4427,26 @@
      "c": []
     },
     {
+     "t": "Şefaat ettin bana",
+     "c": []
+    },
+    {
+     "t": "Doyurdun kana kana",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bakarım senden sana",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
      "t": "Bakarım senden sana",
      "c": []
     },
@@ -4363,11 +4459,35 @@
      "c": []
     },
     {
+     "t": "",
+     "c": []
+    },
+    {
      "t": "Gönlüm mi'raçgâhındır",
      "c": []
     },
     {
      "t": "Kıblem vechullahındır",
+     "c": []
+    },
+    {
+     "t": "Gönlüm mi'raçgâhındır",
+     "c": []
+    },
+    {
+     "t": "Kıblem vechullahındır",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Makâm-ı şahâdettir",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
      "c": []
     },
     {
@@ -4391,6 +4511,26 @@
      "c": []
     },
     {
+     "t": "Ayniyettedir sefâ",
+     "c": []
+    },
+    {
+     "t": "Kelâmla olmaz ifâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "SABRİ ahde et vefâ",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
      "t": "SABRİ ahde et vefâ",
      "c": []
     },
@@ -4399,7 +4539,7 @@
      "c": []
     }
    ],
-   "u": 1792000620885
+   "u": 1792000707675
   },
   {
    "id": "s1791590118691_9",
