@@ -649,6 +649,17 @@ async function ghGet(){
   }
   const j=await r.json(); return {sha:j.sha,data:JSON.parse(b64dec(j.content||''))};
 }
+/* a mesma música importada em lugares diferentes ganha ids diferentes: junta pelo número do caderno (nº N).
+   Fica a cópia com acordes; se as duas têm (ou nenhuma tem), fica a mudada por último. */
+const chordCount=s=>s.lines.reduce((a,l)=>a+((l.c&&l.c.length)||0),0);
+function dedupeByNum(list){
+  const pick=new Map(), numOf=s=>{const m=(s.artist||'').match(/nº\s*(\d+)/);return m?+m[1]:null};
+  list.forEach(s=>{const n=numOf(s); if(n==null)return; const o=pick.get(n);
+    if(!o){pick.set(n,s);return}
+    const a=chordCount(o)>0, b=chordCount(s)>0;
+    if((b&&!a)||(a===b&&(s.u||0)>(o.u||0)))pick.set(n,s); });
+  return list.filter(s=>{const n=numOf(s); return n==null||pick.get(n)===s});
+}
 function canon(list,del){const a=[...list].filter(s=>s.id!=='exemplo').sort((x,y)=>x.id<y.id?-1:1);const d={};Object.keys(del||{}).sort().forEach(k=>d[k]=del[k]);return JSON.stringify({a,d})}
 function mergeRemote(rd){
   const rs=Array.isArray(rd.songs)?rd.songs:[], del=Object.assign({},deleted);
@@ -658,6 +669,7 @@ function mergeRemote(rd){
     if(i===undefined){at.set(r.id,out.length);out.push(r)} else if((r.u||0)>(out[i].u||0))out[i]=r; });
   let res=out.filter(s=>!(del[s.id]&&del[s.id]>=(s.u||0)));
   if(res.some(s=>s.id!=='exemplo'))res=res.filter(s=>!(s.id==='exemplo'&&!s.u)); /* o exemplo some quando há músicas de verdade */
+  res=dedupeByNum(res);
   if(!res.length)res=[sample];
   return {list:res,del,localChanged:canon(res,del)!==canon(songs,deleted),needPush:canon(res,del)!==canon(rs,rd.deleted||{})};
 }
