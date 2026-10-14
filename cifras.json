@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-14T17:47:25.776Z",
+ "saved": "2026-10-14T17:49:38.716Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -3718,23 +3718,76 @@
     },
     {
      "t": "Bülbüllere açtı ilkbahar gülü",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 27,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Aşıklara esti seherin yeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 26,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Kuruldu muhabbet kadehler dolu",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Allah Allah daim Hu diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 11,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      },
+      {
+       "p": 28,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Hak diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 7,
+       "n": "F"
+      },
+      {
+       "p": 12,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "",
@@ -3742,23 +3795,76 @@
     },
     {
      "t": "İçmişiz doluyu olmuşuz sekran",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 27,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Fikrimizde yoktur cennet ve niran",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 30,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Dilizde ancaj sohbet-i Rahman",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Allah Allah daim Hu diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 11,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      },
+      {
+       "p": 28,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Hak diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 7,
+       "n": "F"
+      },
+      {
+       "p": 12,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "",
@@ -3766,23 +3872,76 @@
     },
     {
      "t": "İçelim badeyi sarhoş olunca",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 27,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Yakalım aşk odun suzan olunca",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 28,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Yanalım yanalım ta kül olunca",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Allah Allah daim Hu diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 11,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      },
+      {
+       "p": 28,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Hak diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 7,
+       "n": "F"
+      },
+      {
+       "p": 12,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "",
@@ -3790,23 +3949,76 @@
     },
     {
      "t": "Gelin ey kardeşler sürelim demi",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 29,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Fırsat elde iken dyrmayın geri",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 29,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Bize fayda vermez zahidin yolu",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Allah Allah daim Hu diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 11,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      },
+      {
+       "p": 28,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Hak diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 7,
+       "n": "F"
+      },
+      {
+       "p": 12,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "",
@@ -3814,23 +4026,76 @@
     },
     {
      "t": "Pir seyyidimiz ol Muhammed Nur-i",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 30,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Varis-i rasüldür Gavs'tır zuhuru",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 30,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Bize ta'lim etti sırr-ı Tevhidi",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Allah Allah daim Hu diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 11,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      },
+      {
+       "p": 28,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Hak diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 7,
+       "n": "F"
+      },
+      {
+       "p": 12,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "",
@@ -3838,26 +4103,79 @@
     },
     {
      "t": "Gel ey FEHMİ sen de Hakk'ı fikreyle",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 34,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Uyandır kalbini daim zikreyle",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 28,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Fenadan bekaya bir sefereyle",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Allah Allah daim Hu diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 11,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      },
+      {
+       "p": 28,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Hak diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 7,
+       "n": "F"
+      },
+      {
+       "p": 12,
+       "n": "E"
+      }
+     ]
     }
    ],
-   "u": 1792000037252
+   "u": 1792000174318
   },
   {
    "id": "s1791590118691_8",
