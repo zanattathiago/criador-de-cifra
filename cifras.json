@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-14T17:34:54.910Z",
+ "saved": "2026-10-14T17:35:33.578Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -3268,16 +3268,38 @@
       {
        "p": 20,
        "n": "E"
+      },
+      {
+       "p": 41,
+       "n": "Am"
       }
      ]
     },
     {
      "t": "Buyruğun tut Rahmân'in tevhide gel tevhide",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 20,
+       "n": "E"
+      },
+      {
+       "p": 41,
+       "n": "Am"
+      }
+     ]
     },
     {
      "t": "Tazelensin imanın tevhide gel tevhide",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Tazelensin imanın tevhide gel tevhide",
@@ -3360,7 +3382,7 @@
      "c": []
     }
    ],
-   "u": 1791999286310
+   "u": 1791999325045
   },
   {
    "id": "s1791590118691_7",
