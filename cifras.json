@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-14T17:33:25.313Z",
+ "saved": "2026-10-14T17:34:54.910Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -3260,7 +3260,16 @@
    "lines": [
     {
      "t": "Buyruğun tut Rahmân'in tevhide gel tevhide",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 20,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "Buyruğun tut Rahmân'in tevhide gel tevhide",
@@ -3350,7 +3359,8 @@
      "t": "Hak la ilahe illallah",
      "c": []
     }
-   ]
+   ],
+   "u": 1791999286310
   },
   {
    "id": "s1791590118691_7",
