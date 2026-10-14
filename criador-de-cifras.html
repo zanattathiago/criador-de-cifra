@@ -134,10 +134,6 @@ textarea#editor{width:100%;min-height:420px;font-family:var(--mono);font-size:va
       <button id="tDown" aria-label="Baixar meio tom">−½</button>
       <button id="tUp" aria-label="Subir meio tom">+½</button>
     </div>
-    <div class="group">
-      <button id="fillBtn" title="Copia os acordes da estrofe e do refrão que você já fez para o resto da música">Completar pelo padrão</button>
-      <button id="undoBtn" hidden>Desfazer</button>
-    </div>
     <div class="group" title="Quando ligado, ao clicar numa sílaba o aplicativo já fica ouvindo o violão">
       <button id="autoHear">Ouvir violão ao clicar</button>
     </div>
@@ -595,80 +591,6 @@ function bindDel(){const b=$('delBtn');b.onclick=()=>{const w=$('delWrap');w.inn
 
 
 
-/* ---------- completar acordes pelo padrão (por sílabas) ---------- */
-const VOW=/[aeıioöuüâîûAEIİOÖUÜÂÎÛ]/, LET=/[A-Za-zÀ-ÿğĞıİşŞçÇ'’]/;
-function sylStarts(t){
-  const st=[]; let wordStart=-1, firstInWord=true;
-  for(let i=0;i<t.length;i++){
-    const ch=t[i];
-    if(!LET.test(ch)){wordStart=-1;continue}
-    if(wordStart<0){wordStart=i;firstInWord=true}
-    if(VOW.test(ch)){
-      let s0;
-      if(firstInWord)s0=wordStart;
-      else s0=(i>0&&LET.test(t[i-1])&&!VOW.test(t[i-1]))?i-1:i;
-      st.push(s0); firstInWord=false;
-    }
-  }
-  return st;
-}
-function sylIndex(t,p,st){
-  if(!st.length)return 0;
-  if(t[p]===undefined||!t[p].trim()){ const k=st.findIndex(x=>x>=p); if(k>=0&&t[p]!==undefined)return k; }
-  let k=0; for(let j=0;j<st.length;j++) if(st[j]<=p)k=j; return k;
-}
-function mapChords(src,dst){
-  const ss=sylStarts(src.t), ds=sylStarts(dst);
-  const out=[];
-  src.c.forEach(c=>{
-    let p;
-    if(c.p>=src.t.length&&src.t.length){ p=dst.length+(c.p-src.t.length) }
-    else if(!ss.length||!ds.length){ p=Math.round(c.p*(dst.length/Math.max(1,src.t.length))) }
-    else{
-      const k=sylIndex(src.t,c.p,ss);
-      const k2=ss.length===ds.length?k:Math.round(k*(ds.length-1)/Math.max(1,ss.length-1));
-      p=ds[Math.min(k2,ds.length-1)];
-    }
-    while(out.some(o=>o.p===p))p++;
-    out.push({p,n:c.n});
-  });
-  return out;
-}
-const norm=t=>t.toLowerCase().replace(/[^a-zà-ÿğışçöüâîû]/g,'');
-const isMarker=t=>/^\s*\(.*\)\s*$/.test(t)||/^\s*nakarat\s*:?\s*$/i.test(t)||/^\s*(chorus|refr[aã]o)\b/i.test(t);
-let undoState=null;
-function fillPattern(){
-  if(mode==='edit')setMode('chords');
-  const L=cur().lines;
-  const isText=l=>l.t.trim()&&!isMarker(l.t);
-  const exact=new Map(); L.forEach(l=>{if(isText(l)&&l.c.length&&!exact.has(norm(l.t)))exact.set(norm(l.t),l)});
-  /* modelo do verso: primeiro bloco de linhas seguidas com acordes que não se repetem (não é refrão) */
-  const counts=new Map(); L.forEach(l=>{if(isText(l)){const k=norm(l.t);counts.set(k,(counts.get(k)||0)+1)}});
-  let verse=[], i=0;
-  while(i<L.length){
-    if(isText(L[i])&&L[i].c.length&&counts.get(norm(L[i].t))===1){
-      while(i<L.length&&(isText(L[i])&&L[i].c.length&&counts.get(norm(L[i].t))===1||!L[i].t.trim())){if(L[i].t.trim())verse.push(L[i]);i++}
-      break;
-    } i++;
-  }
-  if(!exact.size){toast('Coloque os acordes de uma estrofe primeiro');return}
-  undoState={id:curId,lines:JSON.parse(JSON.stringify(L))};
-  let filled=0, k=0;
-  L.forEach(l=>{
-    if(!isText(l)){ if(isMarker(l.t))k=0; return }
-    if(l.c.length){ if(counts.get(norm(l.t))>1)k=0; else k++; return }
-    const ex=exact.get(norm(l.t));
-    if(ex){ l.c=ex.c.map(c=>({p:c.p,n:c.n})); filled++; k=0; return }
-    if(!verse.length)return;
-    l.c=mapChords(verse[k%verse.length],l.t); k++; filled++;
-  });
-  save(); render();
-  $('undoBtn').hidden=!filled;
-  toast(filled?('Acordes colocados em '+filled+' linhas. Confira e ajuste o que precisar.'):'Não havia linhas sem acorde para completar');
-}
-$('fillBtn').onclick=fillPattern;
-$('undoBtn').onclick=()=>{ if(!undoState)return; const s=songs.find(x=>x.id===undoState.id); if(s){s.lines=undoState.lines; curId=s.id; save(); renderSel(); render(); toast('Desfeito')} undoState=null; $('undoBtn').hidden=true; };
-$('songSel').addEventListener('change',()=>{undoState=null;$('undoBtn').hidden=true});
 
 
 /* ---------- backup do repertório ---------- */
