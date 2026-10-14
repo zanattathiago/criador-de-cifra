@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-14T17:42:47.122Z",
+ "saved": "2026-10-14T17:45:09.986Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -3359,16 +3359,7 @@
      "c": []
     },
     {
-     "t": "Hak la ilahe illallah",
-     "c": [
-      {
-       "p": 0,
-       "n": "E"
-      }
-     ]
-    },
-    {
-     "t": "Hak la ilahe illallah",
+     "t": "Hak la ilahe illallah (2x)",
      "c": [
       {
        "p": 0,
@@ -3481,16 +3472,7 @@
      "c": []
     },
     {
-     "t": "Hak la ilahe illallah",
-     "c": [
-      {
-       "p": 0,
-       "n": "E"
-      }
-     ]
-    },
-    {
-     "t": "Hak la ilahe illallah",
+     "t": "Hak la ilahe illallah (2x)",
      "c": [
       {
        "p": 0,
@@ -3603,16 +3585,7 @@
      "c": []
     },
     {
-     "t": "Hak la ilahe illallah",
-     "c": [
-      {
-       "p": 0,
-       "n": "E"
-      }
-     ]
-    },
-    {
-     "t": "Hak la ilahe illallah",
+     "t": "Hak la ilahe illallah (4x)",
      "c": [
       {
        "p": 0,
@@ -3625,16 +3598,7 @@
      "c": []
     },
     {
-     "t": "Hak la ilahe illallah",
-     "c": [
-      {
-       "p": 0,
-       "n": "E"
-      }
-     ]
-    },
-    {
-     "t": "Hak la ilahe illallah",
+     "t": "Hak la ilahe illallah (4x - batida crescente)",
      "c": [
       {
        "p": 0,
@@ -3647,28 +3611,7 @@
      "c": []
     },
     {
-     "t": "Hak la ilahe illallah",
-     "c": [
-      {
-       "p": 0,
-       "n": "Am"
-      },
-      {
-       "p": 11,
-       "n": "G"
-      },
-      {
-       "p": 14,
-       "n": "F"
-      },
-      {
-       "p": 19,
-       "n": "E"
-      }
-     ]
-    },
-    {
-     "t": "Hak la ilahe illallah",
+     "t": "Hak la ilahe illallah (4x)",
      "c": [
       {
        "p": 0,
@@ -3689,7 +3632,7 @@
      ]
     }
    ],
-   "u": 1791999758706
+   "u": 1791999901464
   },
   {
    "id": "s1791590118691_7",
