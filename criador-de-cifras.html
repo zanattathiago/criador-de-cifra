@@ -120,6 +120,7 @@ textarea#editor{width:100%;min-height:420px;font-family:var(--mono);font-size:va
       <button id="bkSave" title="Baixa um arquivo com todas as músicas e acordes">Salvar backup</button>
       <button id="bkOpen" title="Carrega um backup salvo antes">Abrir backup</button>
       <input type="file" id="bkFile" accept=".json,application/json" hidden>
+      <button id="ghBtn" title="Guarda as cifras no seu GitHub, para abrir em qualquer computador ou celular">Salvar no GitHub</button>
     </div>
   </header>
 
@@ -175,6 +176,18 @@ textarea#editor{width:100%;min-height:420px;font-family:var(--mono);font-size:va
     </div>
   </div>
 </div>
+<div id="tokModal" class="modal" hidden role="dialog" aria-modal="true" aria-labelledby="tokTitle">
+  <div class="mbox" style="width:min(520px,100%)">
+    <div class="mhead"><h2 id="tokTitle">Salvar as cifras no GitHub</h2>
+      <p>As cifras ficam no arquivo <b>cifras.json</b> do repositório <b>criador-de-cifra</b>. Qualquer computador ou celular que abrir o site carrega as músicas de lá. Para <b>salvar</b>, este navegador precisa de uma chave do GitHub, que fica guardada só aqui.</p></div>
+    <div style="padding:14px 20px;display:flex;flex-direction:column;gap:8px">
+      <label for="tokIn" style="font-weight:600">Chave do GitHub (token)</label>
+      <input id="tokIn" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…" style="font-family:var(--mono);border:1px solid var(--line);background:var(--bg);border-radius:9px;padding:9px 10px;min-width:0">
+      <p class="status" id="tokMsg" style="font-size:13px">Crie em <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens/new</a>: em <i>Repository access</i> escolha só <b>criador-de-cifra</b>, e em <i>Permissions</i> dê <b>Contents: Read and write</b>.</p>
+    </div>
+    <div class="mfoot"><button id="tokOff" class="danger">Desconectar este navegador</button><div class="row"><button id="tokCancel">Cancelar</button><button id="tokOk" class="primary">Conectar</button></div></div>
+  </div>
+</div>
 <div id="scrim" class="scrim" hidden></div>
 <div id="pop" class="pop" hidden role="dialog" aria-label="Escolher acorde">
   <div class="ph"><span id="popWhere"></span><button id="popClose" aria-label="Fechar">✕</button></div>
@@ -223,13 +236,15 @@ const sample={id:'exemplo',title:'Ciranda, Cirandinha',artist:'Cantiga popular �
  {t:'Era pouco e se acabou',c:[{p:14,n:'C'}]}
 ]};
 
-let songs, curId, mode='chords', fontPx=18;
-try{const s=JSON.parse(localStorage.getItem(KEY)||'null'); if(s&&s.songs&&s.songs.length){songs=s.songs;curId=s.cur}}catch(e){}
+let songs, curId, mode='chords', fontPx=18, deleted={};
+try{const s=JSON.parse(localStorage.getItem(KEY)||'null'); if(s&&s.songs&&s.songs.length){songs=s.songs;curId=s.cur;deleted=s.deleted||{}}}catch(e){}
 if(!songs){songs=[sample];curId=sample.id}
 try{const f=+localStorage.getItem(FKEY); if(f>=12&&f<=40)fontPx=f}catch(e){}
 const $=id=>document.getElementById(id);
 const cur=()=>songs.find(s=>s.id===curId)||songs[0];
-let saveT; function save(){clearTimeout(saveT);saveT=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify({songs,cur:curId}))}catch(e){}},250)}
+let saveT; function persist(){try{localStorage.setItem(KEY,JSON.stringify({songs,cur:curId,deleted}))}catch(e){}}
+/* save(false) = só guarda qual música está aberta; save() = a música atual mudou (marca a hora, para juntar com o GitHub) */
+function save(touch){ if(touch!==false){const c=cur(); if(c)c.u=Date.now(); if(window.ghChanged)window.ghChanged()} clearTimeout(saveT);saveT=setTimeout(persist,250)}
 function toast(m){const t=document.createElement('div');t.className='toast';t.textContent=m;document.body.appendChild(t);setTimeout(()=>t.remove(),1800)}
 
 /* posições de exibição (evita acordes encavalados) */
@@ -543,7 +558,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('pop').hidden)cl
 
 function setMode(m){
   if(m===mode)return;
-  if(mode==='edit'){cur().lines=fromText($('editor').value);save()}
+  if(mode==='edit'){const nl=fromText($('editor').value); const ch=JSON.stringify(nl)!==JSON.stringify(cur().lines); cur().lines=nl; save(ch)}
   mode=m; $('modeChords').classList.toggle('on',m==='chords'); $('modeEdit').classList.toggle('on',m==='edit');
   $('cifra').hidden=m!=='chords'; $('editor').hidden=m!=='edit';
   $('hint').textContent=m==='edit'?'Digite ou cole a letra aqui. Pode colar uma cifra pronta: linhas só com acordes ficam em cima da linha de baixo. Depois clique em “Colocar acordes”.':'Clique em qualquer letra para colocar um acorde em cima dela. Clique num acorde para trocar, mover ou apagar.';
@@ -556,7 +571,7 @@ function setFont(d){fontPx=Math.min(40,Math.max(12,fontPx+d));try{localStorage.s
 $('fDown').onclick=()=>setFont(-2); $('fUp').onclick=()=>setFont(2);
 $('title').addEventListener('input',e=>{cur().title=e.target.value;save();renderSel()});
 $('artist').addEventListener('input',e=>{cur().artist=e.target.value;save()});
-$('songSel').onchange=e=>{if(mode==='edit')setMode('chords');curId=e.target.value;save();render()};
+$('songSel').onchange=e=>{if(mode==='edit')setMode('chords');curId=e.target.value;save(false);render()};
 $('newBtn').onclick=()=>{if(mode==='edit')setMode('chords');const s={id:'s'+Date.now(),title:'Nova música',artist:'',lines:[]};songs.unshift(s);curId=s.id;save();renderSel();render();setMode('edit');$('title').select()};
 function fullText(){const s=cur();return (s.title?s.title+'\n':'')+(s.artist?s.artist+'\n':'')+'\n'+(mode==='edit'?$('editor').value:toText(s))}
 $('copyBtn').onclick=()=>{
@@ -567,7 +582,7 @@ $('copyBtn').onclick=()=>{
 /* exclusão com confirmação na própria página */
 function resetDel(){$('delWrap').innerHTML='<button id="delBtn" class="danger">Excluir</button>';bindDel()}
 bindDel();
-function bindDel(){const b=$('delBtn');b.onclick=()=>{const w=$('delWrap');w.innerHTML='<span class="confirm">Excluir esta música? <button id="delYes" class="danger">Sim</button><button id="delNo">Não</button></span>';$('delNo').onclick=resetDel;$('delYes').onclick=()=>{songs=songs.filter(s=>s.id!==curId);if(!songs.length)songs=[{id:'s'+Date.now(),title:'Nova música',artist:'',lines:[]}];curId=songs[0].id;save();resetDel();if(mode==='edit')setMode('chords');renderSel();render()}}}
+function bindDel(){const b=$('delBtn');b.onclick=()=>{const w=$('delWrap');w.innerHTML='<span class="confirm">Excluir esta música? <button id="delYes" class="danger">Sim</button><button id="delNo">Não</button></span>';$('delNo').onclick=resetDel;$('delYes').onclick=()=>{deleted[curId]=Date.now();songs=songs.filter(s=>s.id!==curId);if(!songs.length)songs=[{id:'s'+Date.now(),title:'Nova música',artist:'',lines:[]}];curId=songs[0].id;save(false);if(window.ghChanged)window.ghChanged();resetDel();if(mode==='edit')setMode('chords');renderSel();render()}}}
 
 /* download via capacidade, quando disponível */
 (async()=>{try{
@@ -680,7 +695,7 @@ $('bkFile').onchange=async e=>{
     if(mode==='edit')setMode('chords');
     let added=0, updated=0;
     list.forEach(x=>{
-      const song={id:x.id||('s'+Date.now()+Math.random().toString(36).slice(2,6)),title:x.title||'',artist:x.artist||'',lines:x.lines.map(l=>({t:String(l.t||''),c:(l.c||[]).map(c=>({p:+c.p||0,n:String(c.n)}))}))};
+      const song={id:x.id||('s'+Date.now()+Math.random().toString(36).slice(2,6)),u:Date.now(),title:x.title||'',artist:x.artist||'',lines:x.lines.map(l=>({t:String(l.t||''),c:(l.c||[]).map(c=>({p:+c.p||0,n:String(c.n)}))}))};
       const k=songs.findIndex(s=>s.id===song.id);
       if(k>=0){songs[k]=song;updated++} else {songs.push(song);added++}
     });
@@ -688,6 +703,87 @@ $('bkFile').onchange=async e=>{
     toast('Backup aberto: '+added+' novas, '+updated+' atualizadas');
   }catch(err){ toast('Este arquivo não é um backup do Criador de Cifras') }
 };
+
+/* ---------- cifras guardadas no GitHub (cifras.json no repositório) ---------- */
+/* Ler é livre (repositório público). Salvar precisa de uma chave (token) guardada só neste navegador.
+   Cada música tem a hora da última mudança (u): ao juntar, fica a versão mais nova de cada uma. */
+const GH={api:'https://api.github.com/repos/zanattathiago/criador-de-cifra/contents/cifras.json',branch:'main'}, TKEY='criador-cifras.ghtoken';
+let ghToken=''; try{ghToken=localStorage.getItem(TKEY)||''}catch(e){}
+let ghDirty=false, ghT=null, ghBusy=false, ghState='';
+const b64enc=str=>{const by=new TextEncoder().encode(str);let bin='';for(let i=0;i<by.length;i+=0x8000)bin+=String.fromCharCode.apply(null,by.subarray(i,i+0x8000));return btoa(bin)};
+const b64dec=b=>new TextDecoder().decode(Uint8Array.from(atob(b.replace(/\s/g,'')),c=>c.charCodeAt(0)));
+function ghHead(){const h={Accept:'application/vnd.github+json'};if(ghToken)h.Authorization='Bearer '+ghToken;return h}
+async function ghGet(){
+  let r;
+  try{ r=await fetch(GH.api+'?ref='+GH.branch+'&t='+Date.now(),{headers:ghHead(),cache:'no-store'}) }catch(e){ throw {code:'net'} }
+  if(r.status===404)return {sha:null,data:{songs:[],deleted:{}}};
+  if(r.status===401)throw {code:'auth'};
+  if(!r.ok){ /* sem chave o GitHub limita as leituras: tenta o arquivo publicado no próprio site */
+    if(!ghToken){ try{const f=await fetch('cifras.json?t='+Date.now(),{cache:'no-store'}); if(f.ok)return {sha:null,readOnly:true,data:await f.json()}}catch(e){} }
+    throw {code:'http',status:r.status};
+  }
+  const j=await r.json(); return {sha:j.sha,data:JSON.parse(b64dec(j.content||''))};
+}
+function canon(list,del){const a=[...list].filter(s=>s.id!=='exemplo').sort((x,y)=>x.id<y.id?-1:1);const d={};Object.keys(del||{}).sort().forEach(k=>d[k]=del[k]);return JSON.stringify({a,d})}
+function mergeRemote(rd){
+  const rs=Array.isArray(rd.songs)?rd.songs:[], del=Object.assign({},deleted);
+  Object.entries(rd.deleted||{}).forEach(([k,v])=>{if(!(del[k]>=v))del[k]=v});
+  const out=songs.map(s=>s), at=new Map(out.map((s,i)=>[s.id,i]));
+  rs.forEach(r=>{ if(!r||!r.id||!Array.isArray(r.lines))return; const i=at.get(r.id);
+    if(i===undefined){at.set(r.id,out.length);out.push(r)} else if((r.u||0)>(out[i].u||0))out[i]=r; });
+  let res=out.filter(s=>!(del[s.id]&&del[s.id]>=(s.u||0)));
+  if(res.some(s=>s.id!=='exemplo'))res=res.filter(s=>!(s.id==='exemplo'&&!s.u)); /* o exemplo some quando há músicas de verdade */
+  if(!res.length)res=[sample];
+  return {list:res,del,localChanged:canon(res,del)!==canon(songs,deleted),needPush:canon(res,del)!==canon(rs,rd.deleted||{})};
+}
+function paintGh(){
+  const b=$('ghBtn'), t={'':'Salvar no GitHub',ok:'✓ Salvo no GitHub',wait:'• Salvando em breve',busy:'Salvando…',err:'⚠ Não salvou no GitHub',auth:'⚠ Chave do GitHub inválida'};
+  b.textContent=ghToken?(t[ghState]||t.ok):'Salvar no GitHub';
+  b.title=ghToken?'Clique para salvar agora. As cifras também são salvas sozinhas alguns segundos depois de cada mudança.':'Guarda as cifras no seu GitHub, para abrir em qualquer computador ou celular';
+}
+async function ghSync(push){
+  if(ghBusy){ if(push){ghDirty=true;clearTimeout(ghT);ghT=setTimeout(()=>ghSync(true),3000)} return }
+  ghBusy=true; if(push&&ghToken){ghState='busy';paintGh()}
+  try{
+    for(let tries=0;tries<2;tries++){
+      const {sha,data,readOnly}=await ghGet();
+      const m=mergeRemote(data||{});
+      if(m.localChanged){
+        songs=m.list; deleted=m.del; if(!songs.find(s=>s.id===curId))curId=songs[0].id; persist();
+        renderSel(); if(mode==='chords'&&$('pop').hidden)render();
+      } else deleted=m.del;
+      if(!push||!ghToken||readOnly||!m.needPush){ ghDirty=false; if(ghToken){ghState='ok';paintGh()} return }
+      const body={message:'Atualiza as cifras ('+songs.length+' músicas)',branch:GH.branch,
+        content:b64enc(JSON.stringify({app:'criador-de-cifras',version:1,saved:new Date().toISOString(),songs,deleted},null,1))};
+      if(sha)body.sha=sha;
+      const r=await fetch(GH.api,{method:'PUT',headers:Object.assign({'Content-Type':'application/json'},ghHead()),body:JSON.stringify(body)});
+      if(r.ok){ghDirty=false;ghState='ok';paintGh();return}
+      if(r.status===401||r.status===403||r.status===404)throw {code:'auth'};
+      if(r.status!==409&&r.status!==422)throw {code:'http',status:r.status};
+      /* outro aparelho salvou no meio do caminho: junta de novo e tenta mais uma vez */
+    }
+    throw {code:'http',status:409};
+  }catch(e){
+    if(ghToken){ ghState=e&&e.code==='auth'?'auth':'err'; paintGh(); if(push)toast(ghState==='auth'?'A chave do GitHub não tem permissão. Clique no botão do GitHub para trocar.':'Não consegui salvar no GitHub agora. Tento de novo na próxima mudança.') }
+  }finally{ ghBusy=false }
+}
+window.ghChanged=()=>{ if(!ghToken)return; ghDirty=true; ghState='wait'; paintGh(); clearTimeout(ghT); ghT=setTimeout(()=>ghSync(true),8000) };
+document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='hidden'&&ghDirty&&ghToken){clearTimeout(ghT);ghSync(true)} });
+addEventListener('beforeunload',e=>{ if(ghDirty&&ghToken){e.preventDefault();e.returnValue=''} });
+function openTok(){ $('tokIn').value=''; $('tokOff').hidden=!ghToken; $('tokModal').hidden=false; setTimeout(()=>$('tokIn').focus(),0) }
+$('ghBtn').onclick=()=>{ if(!ghToken){openTok();return} if(ghState==='auth'){openTok();return} clearTimeout(ghT); ghSync(true) };
+$('ghBtn').addEventListener('contextmenu',e=>{e.preventDefault();openTok()});
+$('tokCancel').onclick=()=>{$('tokModal').hidden=true};
+$('tokOff').onclick=()=>{ghToken='';try{localStorage.removeItem(TKEY)}catch(e){}ghState='';paintGh();$('tokModal').hidden=true;toast('Este navegador não salva mais no GitHub')};
+$('tokOk').onclick=async()=>{
+  const v=$('tokIn').value.trim(); if(!v){$('tokIn').focus();return}
+  ghToken=v; try{localStorage.setItem(TKEY,v)}catch(e){} $('tokModal').hidden=true;
+  ghDirty=true; await ghSync(true);
+  if(ghState==='ok')toast('Conectado. As cifras estão salvas no GitHub.');
+};
+$('tokIn').addEventListener('keydown',e=>{if(e.key==='Enter')$('tokOk').click()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('tokModal').hidden)$('tokModal').hidden=true});
+paintGh();
 
 /* ---------- importar PDF (processado no seu navegador) ---------- */
 /* Separador de ilahis: PDF (itens de texto do pdf.js) -> músicas só em turco */
@@ -872,7 +968,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('modal').hidden)
 $('mOk').onclick=()=>{
   if(mode==='edit')setMode('chords');
   const add=found.filter((_,k)=>$('imp'+k)&&$('imp'+k).checked).map((s,j)=>({
-    id:'s'+Date.now()+'_'+j, title:s.title, artist:[s.artist,'nº '+s.num].filter(Boolean).join(' · '),
+    id:'s'+Date.now()+'_'+j, u:Date.now(), title:s.title, artist:[s.artist,'nº '+s.num].filter(Boolean).join(' · '),
     lines:s.text.split('\n').map(t=>({t:t,c:[]}))
   }));
   if(!add.length)return;
@@ -882,6 +978,7 @@ $('mOk').onclick=()=>{
 
 if(!songs.find(s=>s.id===curId))curId=songs[0].id;
 renderSel(); render();
+ghSync(!!ghToken);
 })();
 </script>
 
