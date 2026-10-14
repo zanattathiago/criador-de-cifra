@@ -1,0 +1,12412 @@
+{
+ "app": "criador-de-cifras",
+ "version": 1,
+ "saved": "2026-10-14T13:59:31Z",
+ "songs": [
+  {
+   "id": "s1791590118691_0",
+   "title": "Allah Diyelim",
+   "artist": "Yunus Emre · nº 1",
+   "lines": [
+    {
+     "t": "Allah diyelim daim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": []
+    },
+    {
+     "t": "Yolda duralim kaim",
+     "c": [
+      {
+       "p": 17,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": [
+      {
+       "p": 7,
+       "n": "G"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Yolda duralim kaim",
+     "c": [
+      {
+       "p": 1,
+       "n": "F"
+      },
+      {
+       "p": 15,
+       "n": "G"
+      },
+      {
+       "p": 17,
+       "n": "C"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": [
+      {
+       "p": 7,
+       "n": "G"
+      },
+      {
+       "p": 19,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sen sanmadığın yerde",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 16,
+       "n": "G"
+      },
+      {
+       "p": 19,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Şayet açıla perde",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "G"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Derman erişe derde",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "Bb"
+      },
+      {
+       "p": 11,
+       "n": "Am"
+      },
+      {
+       "p": 14,
+       "n": "G"
+      },
+      {
+       "p": 17,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 4,
+       "n": "Dm"
+      },
+      {
+       "p": 16,
+       "n": "G"
+      },
+      {
+       "p": 19,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Derman erişe derde",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "Bb"
+      },
+      {
+       "p": 11,
+       "n": "Am"
+      },
+      {
+       "p": 14,
+       "n": "G"
+      },
+      {
+       "p": 17,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 4,
+       "n": "Dm"
+      },
+      {
+       "p": 15,
+       "n": "G"
+      },
+      {
+       "p": 19,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gündüz olalım sâim",
+     "c": []
+    },
+    {
+     "t": "Gece olalım kaim",
+     "c": []
+    },
+    {
+     "t": "Allah diyelim daim",
+     "c": []
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": []
+    },
+    {
+     "t": "Allah diyelim daim",
+     "c": []
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "N'etti bu YUNUS n'etti",
+     "c": []
+    },
+    {
+     "t": "Bir doğru yola gitti",
+     "c": []
+    },
+    {
+     "t": "Bir şeyh eteğin tuttu",
+     "c": []
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": []
+    },
+    {
+     "t": "Bir şeyh eteğin tuttu",
+     "c": []
+    },
+    {
+     "t": "Mevla görelim n'eyler",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_1",
+   "title": "Inile ey derdli gönül inile",
+   "artist": "Niyazi Misri · nº 2",
+   "lines": [
+    {
+     "t": "İnile ey derdli gönül inile,",
+     "c": []
+    },
+    {
+     "t": "Ehl-i derdin inleyecek çağıdır.",
+     "c": []
+    },
+    {
+     "t": "Gel timâr et yaremi sen âşk ile",
+     "c": []
+    },
+    {
+     "t": "Yarelerin onulacak çağıdır.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat:",
+     "c": []
+    },
+    {
+     "t": "Dem bu dem, dem bu dem",
+     "c": []
+    },
+    {
+     "t": "Dem bu demdir, Dem bu dem",
+     "c": []
+    },
+    {
+     "t": "Gün bu gün, Gün bu gün",
+     "c": []
+    },
+    {
+     "t": "Gün bu gündür Gün bu gün",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şol ki gafletle yatıp etmez talep,",
+     "c": []
+    },
+    {
+     "t": "Gövdesinde yokmu ola can aceb.",
+     "c": []
+    },
+    {
+     "t": "İşte vahdet gülleri açıldı hep,",
+     "c": []
+    },
+    {
+     "t": "Bülbülün efgân edecek çağıdır.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yok kararı gönlümün bilmem neden,",
+     "c": []
+    },
+    {
+     "t": "Kast eder bin pâre ola bu beden,",
+     "c": []
+    },
+    {
+     "t": "Var ise gitmek gerek bu areden,",
+     "c": []
+    },
+    {
+     "t": "Aslına azmeyleyecek çağıdır.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ey Niyâzî dünyâda eyler huzûr,",
+     "c": []
+    },
+    {
+     "t": "Şol kişi ki olmaya ehli gurûr,",
+     "c": []
+    },
+    {
+     "t": "Hakk'ı anla etmeden bundan mürür",
+     "c": []
+    },
+    {
+     "t": "Mevtin elçisi gelecek çağıdır.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat (x2)",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_2",
+   "title": "Sevgi Baht Olmuş",
+   "artist": "nº 3",
+   "lines": [
+    {
+     "t": "Sevgi baht olmuş ezelden bize",
+     "c": []
+    },
+    {
+     "t": "Sizde bir türlü bizde bir türlü",
+     "c": []
+    },
+    {
+     "t": "Alaca düşmüş Allah Allah gördüğümüze",
+     "c": []
+    },
+    {
+     "t": "Sizde bir türlü bizde bir türlü",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Donandı dağlar bahar olunca",
+     "c": []
+    },
+    {
+     "t": "Gölgem kayboldu gönlüm dolunca",
+     "c": []
+    },
+    {
+     "t": "Güzeli görmek Allah Allah boylu boyunca",
+     "c": []
+    },
+    {
+     "t": "Sizde bir türlü bizde bir türlü",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ey oğul birdir kap değişse su",
+     "c": []
+    },
+    {
+     "t": "Varlik bir gölge benlik bir pusu",
+     "c": []
+    },
+    {
+     "t": "Ne diyelim ki Allah Allah Râbb'in duygusu",
+     "c": []
+    },
+    {
+     "t": "Sizde bir türlü bizde bir türlü",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_3",
+   "title": "Bizde hay olan Hakk’tır",
+   "artist": "Hafiz Ahmet Soyyi̇ğı̇ t · nº 4",
+   "lines": [
+    {
+     "t": "Bizde hay olan Hakk'tır",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "İlmimiz ilmûllahtır",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Sözlerimiz mutlaktır",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 6,
+       "n": "C/Bb"
+      },
+      {
+       "p": 12,
+       "n": "Am"
+      },
+      {
+       "p": 19,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "La ilâhe illallah",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 9,
+       "n": "Dm"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat:",
+     "c": []
+    },
+    {
+     "t": "Can Allah Canım Allah",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 10,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Canlar sana kurban Allah",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Hayy Qalbi Zikrullah",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 11,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "La ilâhe ilallah Muhamedun Resulallah",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 17,
+       "n": "F"
+      },
+      {
+       "p": 27,
+       "n": "G"
+      },
+      {
+       "p": 36,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cüz'i irâdemizden",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Soyunduk tâ ezelden",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Hakk'tır iradê eden",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 9,
+       "n": "C/Bb"
+      },
+      {
+       "p": 10,
+       "n": "Am"
+      },
+      {
+       "p": 16,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "La ilâhe illallah",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 9,
+       "n": "Dm"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kulağımızdan duyan",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Hem Gözümüzden göre",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Kudreti bizde olan",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 5,
+       "n": "C/Bb"
+      },
+      {
+       "p": 11,
+       "n": "Am"
+      },
+      {
+       "p": 15,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "La ilâhe illallah",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 9,
+       "n": "Dm"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Âyet inzâl eyleyen",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Mânâsın fehmeyleyen",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 4,
+       "n": "C/Bb"
+      },
+      {
+       "p": 11,
+       "n": "Am"
+      },
+      {
+       "p": 16,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Dilimizden söyleyen",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "La ilâhe illallah",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 9,
+       "n": "Dm"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bir mertebede candır",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Bir mertebede cânân",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Bir mertebede insan",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "C/Bb"
+      },
+      {
+       "p": 11,
+       "n": "Am"
+      },
+      {
+       "p": 16,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "La ilâhe illallah",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 9,
+       "n": "Dm"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hakk'ın nice esmâsı",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "AHMED de bir tânesi",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Içinde hazinesi",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 4,
+       "n": "C/Bb"
+      },
+      {
+       "p": 9,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "La ilâhe illallah",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 9,
+       "n": "Dm"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_4",
+   "title": "Erler Demine",
+   "artist": "nº 5",
+   "lines": [
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Erler demine destur alalım",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Erler demine destur alalım",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 6,
+       "n": "C/B"
+      },
+      {
+       "p": 13,
+       "n": "Am"
+      },
+      {
+       "p": 20,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Pervaneye bak ibret alalım",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Pervaneye bak ibret alalım",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşkın ateşine gel bir yanalım",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 14,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Aşkın ateşine gel bir yanalım",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 14,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Pervaneye bak ibret alalım",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Pervaneye bak ibret alalım",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dost, dost, dost, dost",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 12,
+       "n": "Dm"
+      },
+      {
+       "p": 18,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Devrana girüp seyran edelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Devrana girüp seyran edelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 8,
+       "n": "C/B"
+      },
+      {
+       "p": 14,
+       "n": "Am"
+      },
+      {
+       "p": 21,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Eyvah       demeden Allah diyelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 3,
+       "n": "Am"
+      },
+      {
+       "p": 8,
+       "n": "C/B"
+      },
+      {
+       "p": 12,
+       "n": "Am"
+      },
+      {
+       "p": 20,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illallâh, lâ ilâhe illallâh Lâ ilâhe illallâh, Hu",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      },
+      {
+       "p": 37,
+       "n": "G"
+      },
+      {
+       "p": 46,
+       "n": "G/B"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ey yolcu biraz gel dinle beni",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Ey yolcu biraz gel dinle beni",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Kervan geçiyor sen kalma geri",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Kervan geçiyor sen kalma geri",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yusuf denilen dünya güzeli",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Yusuf denilen dünya güzeli",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Fethetti bugün kalb-i seferi",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Fethetti bugün kalb-i seferi",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dost, dost, dost, dost",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 12,
+       "n": "Dm"
+      },
+      {
+       "p": 18,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Devrana girüp seyran edelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Devrana girüp seyran edelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 8,
+       "n": "C/B"
+      },
+      {
+       "p": 14,
+       "n": "Am"
+      },
+      {
+       "p": 21,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Eyvah       demeden Allah diyelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 3,
+       "n": "Am"
+      },
+      {
+       "p": 8,
+       "n": "C/B"
+      },
+      {
+       "p": 12,
+       "n": "Am"
+      },
+      {
+       "p": 20,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illallâh, lâ ilâhe illallâh Lâ ilâhe illallâh, Hu",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      },
+      {
+       "p": 37,
+       "n": "G"
+      },
+      {
+       "p": 46,
+       "n": "G/B"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Günler geceler durmaz geçiyor",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Günler geceler durmaz geçiyor",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Sermayen olan ömrün bitiyor",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Sermayen olan ömrün bitiyor",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bülbüllere bak efgan ediyor",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Bülbüllere bak efgan ediyor",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "Bb"
+      }
+     ]
+    },
+    {
+     "t": "Ey gonca açıl mevsim geçiyor",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Ey gonca açıl mevsim geçiyor",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dost, dost, dost, dost",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 6,
+       "n": "C/E"
+      },
+      {
+       "p": 12,
+       "n": "Dm"
+      },
+      {
+       "p": 18,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Devrana girüp seyran edelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Devrana girüp seyran edelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 8,
+       "n": "C/B"
+      },
+      {
+       "p": 14,
+       "n": "Am"
+      },
+      {
+       "p": 21,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Eyvah       demeden Allah diyelim",
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 3,
+       "n": "Am"
+      },
+      {
+       "p": 8,
+       "n": "C/B"
+      },
+      {
+       "p": 12,
+       "n": "Am"
+      },
+      {
+       "p": 20,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illallâh, lâ ilâhe illallâh Lâ ilâhe illallâh, Hu",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      },
+      {
+       "p": 37,
+       "n": "G"
+      },
+      {
+       "p": 46,
+       "n": "G/B"
+      }
+     ]
+    },
+    {
+     "t": "Lâ ilâhe illallâh, lâ ilâhe illallâh Lâ ilâhe illallâh, Hu",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      },
+      {
+       "p": 37,
+       "n": "G"
+      },
+      {
+       "p": 46,
+       "n": "G/B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_5",
+   "title": "Bu Aşk Bir Bahr-i Ummandır",
+   "artist": "nº 6",
+   "lines": [
+    {
+     "t": "Bu aşk bir bahr-i ummândır",
+     "c": []
+    },
+    {
+     "t": "buna hadd ü kenâr olmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Delîlim sırr-ı Kur'ân'dır",
+     "c": []
+    },
+    {
+     "t": "bunu bilende âr olmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Süre geldik ezelîden",
+     "c": []
+    },
+    {
+     "t": "pîrim Muhammed Alî'den",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şerâb-ı lâ-yezâlîden",
+     "c": []
+    },
+    {
+     "t": "içenlerde humâr olmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Eğer âşık isen yâre",
+     "c": []
+    },
+    {
+     "t": "sakın aldanma ağyâre",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Düş İbrâhîm gibi nâre",
+     "c": []
+    },
+    {
+     "t": "bu gülşende yanâr olmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kıyamazsan bâş ü câna",
+     "c": []
+    },
+    {
+     "t": "uzak dur girme meydâna",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu meydânda nice başlar",
+     "c": []
+    },
+    {
+     "t": "kesilir hiç sorar olmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hakk ile hak olanlara",
+     "c": []
+    },
+    {
+     "t": "kendi özün bilenlere",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dost yolunda ölenlere",
+     "c": []
+    },
+    {
+     "t": "kan bahâsı dinâr olmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bak şu Mansûr'un işine",
+     "c": []
+    },
+    {
+     "t": "halkı üşürmüş başına",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ene'l-Hakk'ın firâşına",
+     "c": []
+    },
+    {
+     "t": "düşenlere timâr olmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Seyfullah sözünde mestdir",
+     "c": []
+    },
+    {
+     "t": "şeyhinden aldığı destdir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dîvâne-râ kalem nîstdir",
+     "c": []
+    },
+    {
+     "t": "ne söylese kınâr olmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Salatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleyke ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Aleyke ya Habiballah",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_6",
+   "title": "Buyruğun tut Rahmân'in",
+   "artist": "Aziz Mahmud Hüdayi · nº 7",
+   "lines": [
+    {
+     "t": "Buyruğun tut Rahmân'in tevhide gel tevhide",
+     "c": []
+    },
+    {
+     "t": "Buyruğun tut Rahmân'in tevhide gel tevhide",
+     "c": []
+    },
+    {
+     "t": "Tazelensin imanın tevhide gel tevhide",
+     "c": []
+    },
+    {
+     "t": "Tazelensin imanın tevhide gel tevhide",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hak la ilahe illallah",
+     "c": []
+    },
+    {
+     "t": "Hak la ilahe illallah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sen sen ile sanırsın faniye aldanırsın",
+     "c": []
+    },
+    {
+     "t": "Sen sen ile sanırsın faniye aldanırsın",
+     "c": []
+    },
+    {
+     "t": "Hoş bir gün uyanırsın tevhide gel tevhide",
+     "c": []
+    },
+    {
+     "t": "Hoş bir gün uyanırsın tevhide gel tevhide",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hak la ilahe illallah",
+     "c": []
+    },
+    {
+     "t": "Hak la ilahe illallah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hüdai'yi guş eyle aşka gelip cuş eyle",
+     "c": []
+    },
+    {
+     "t": "Hüdai'yi guş eyle aşka gelip cuş eyle",
+     "c": []
+    },
+    {
+     "t": "Bu kevserden nuş eyle tevhide gel tevhide",
+     "c": []
+    },
+    {
+     "t": "Bu kevserden nuş eyle tevhide gel tevhide",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hak la ilahe illallah",
+     "c": []
+    },
+    {
+     "t": "Hak la ilahe illallah",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_7",
+   "title": "Ervahi alemde saflar kuruldu",
+   "artist": "Hasan Fehmi Tezdoğan · nº 8",
+   "lines": [
+    {
+     "t": "Ervahi alemde saflar kuruldu",
+     "c": []
+    },
+    {
+     "t": "\"Elestü\" hitabı nida olundu",
+     "c": []
+    },
+    {
+     "t": "Onda ikrar eden bunda bilindi",
+     "c": []
+    },
+    {
+     "t": "Allah Allah daim Hu diyelim biz",
+     "c": []
+    },
+    {
+     "t": "Hak diyelim biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bülbüllere açtı ilkbahar gülü",
+     "c": []
+    },
+    {
+     "t": "Aşıklara esti seherin yeli",
+     "c": []
+    },
+    {
+     "t": "Kuruldu muhabbet kadehler dolu",
+     "c": []
+    },
+    {
+     "t": "Allah Allah daim Hu diyelim biz",
+     "c": []
+    },
+    {
+     "t": "Hak diyelim biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İçmişiz doluyu olmuşuz sekran",
+     "c": []
+    },
+    {
+     "t": "Fikrimizde yoktur cennet ve niran",
+     "c": []
+    },
+    {
+     "t": "Dilizde ancaj sohbet-i Rahman",
+     "c": []
+    },
+    {
+     "t": "Allah Allah daim Hu diyelim biz",
+     "c": []
+    },
+    {
+     "t": "Hak diyelim biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İçelim badeyi sarhoş olunca",
+     "c": []
+    },
+    {
+     "t": "Yakalım aşk odun suzan olunca",
+     "c": []
+    },
+    {
+     "t": "Yanalım yanalım ta kül olunca",
+     "c": []
+    },
+    {
+     "t": "Allah Allah daim Hu diyelim biz",
+     "c": []
+    },
+    {
+     "t": "Hak diyelim biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gelin ey kardeşler sürelim demi",
+     "c": []
+    },
+    {
+     "t": "Fırsat elde iken dyrmayın geri",
+     "c": []
+    },
+    {
+     "t": "Bize fayda vermez zahidin yolu",
+     "c": []
+    },
+    {
+     "t": "Allah Allah daim Hu diyelim biz",
+     "c": []
+    },
+    {
+     "t": "Hak diyelim biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Pir seyyidimiz ol Muhammed Nur-i",
+     "c": []
+    },
+    {
+     "t": "Varis-i rasüldür Gavs'tır zuhuru",
+     "c": []
+    },
+    {
+     "t": "Bize ta'lim etti sırr-ı Tevhidi",
+     "c": []
+    },
+    {
+     "t": "Allah Allah daim Hu diyelim biz",
+     "c": []
+    },
+    {
+     "t": "Hak diyelim biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gel ey FEHMİ sen de Hakk'ı fikreyle",
+     "c": []
+    },
+    {
+     "t": "Uyandır kalbini daim zikreyle",
+     "c": []
+    },
+    {
+     "t": "Fenadan bekaya bir sefereyle",
+     "c": []
+    },
+    {
+     "t": "Allah Allah daim Hu diyelim biz",
+     "c": []
+    },
+    {
+     "t": "Hak diyelim biz",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_8",
+   "title": "Aldın cânımı benden",
+   "artist": "nº 9",
+   "lines": [
+    {
+     "t": "Tom: D (drone)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aldın cânımı benden,",
+     "c": []
+    },
+    {
+     "t": "Yıktın varımı neden?",
+     "c": []
+    },
+    {
+     "t": "Gönlüm ayrılmaz senden",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gözüm, kulağım sensin",
+     "c": []
+    },
+    {
+     "t": "Dilim, düşüncem sensin",
+     "c": []
+    },
+    {
+     "t": "İlmim, iradem sensin",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yok senlik, benlik; var Hû",
+     "c": []
+    },
+    {
+     "t": "Evvel, Âhir derim Hû",
+     "c": []
+    },
+    {
+     "t": "Zâhir, Bâtın illâ Hû",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Zâhir oldun hem ayân",
+     "c": []
+    },
+    {
+     "t": "Görünürsün her zaman",
+     "c": []
+    },
+    {
+     "t": "Sensin bana din iman",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şefaat ettin bana",
+     "c": []
+    },
+    {
+     "t": "Doyurdun kana kana",
+     "c": []
+    },
+    {
+     "t": "Bakarım senden sana",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gönlüm mi'raçgâhındır",
+     "c": []
+    },
+    {
+     "t": "Kıblem vechullahındır",
+     "c": []
+    },
+    {
+     "t": "Makâm-ı şahâdettir",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ayniyettedir sefâ",
+     "c": []
+    },
+    {
+     "t": "Kelâmla olmaz ifâ",
+     "c": []
+    },
+    {
+     "t": "SABRİ ahde et vefâ",
+     "c": []
+    },
+    {
+     "t": "Her yüzden nazarım sen",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_9",
+   "title": "Hak mürşidden sen al ders",
+   "artist": "Hafiz Ahmet Soyyi̇ğı̇ t · nº 10",
+   "lines": [
+    {
+     "t": "Hak mürşidden sen al ders",
+     "c": []
+    },
+    {
+     "t": "Dünyaya etme heves",
+     "c": []
+    },
+    {
+     "t": "Ukbayı dahi geç es",
+     "c": []
+    },
+    {
+     "t": "De Allah Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Zikret Hakk'ı her nefes",
+     "c": []
+    },
+    {
+     "t": "Gayriden meylini kes",
+     "c": []
+    },
+    {
+     "t": "Dinle alemde tek ses",
+     "c": []
+    },
+    {
+     "t": "De Allah Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hiç bir şey yoktur abes",
+     "c": []
+    },
+    {
+     "t": "Var olan her şey enfes",
+     "c": []
+    },
+    {
+     "t": "Zevk eyle nefes nefes",
+     "c": []
+    },
+    {
+     "t": "De Allah Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Vehmindir demir kodes",
+     "c": []
+    },
+    {
+     "t": "Aşk-ı Mevla ile es",
+     "c": []
+    },
+    {
+     "t": "Hem ortadan kalkar nefs",
+     "c": []
+    },
+    {
+     "t": "De Allah Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Rivayet etti Enes",
+     "c": []
+    },
+    {
+     "t": "Tevhide eyleyen pes",
+     "c": []
+    },
+    {
+     "t": "Kurtulur nardan derdes",
+     "c": []
+    },
+    {
+     "t": "De Allah Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "AHMED sen olma nekes",
+     "c": []
+    },
+    {
+     "t": "Her şey fani ALLAH bes",
+     "c": []
+    },
+    {
+     "t": "Bu andır bezm-i elest",
+     "c": []
+    },
+    {
+     "t": "De Allah Allah Allah",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_10",
+   "title": "Vasıl Olmaz Kimse Hakka",
+   "artist": "nº 11",
+   "lines": [
+    {
+     "t": "Vasıl olmaz kimse Hakka, cümleden dûr olmadan,",
+     "c": []
+    },
+    {
+     "t": "Kenz açılmaz şol gönülde, tâki pür nur olmadan",
+     "c": []
+    },
+    {
+     "t": "Sür çıkar ağyarı dilden, ta tecelli ide Hak,",
+     "c": []
+    },
+    {
+     "t": "Padişah konmaz serâya, hane mamur olmadan",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mûtü kable ente mûtü, sırrını fehm eyleyen",
+     "c": []
+    },
+    {
+     "t": "Haşr-ü neşri gördü burda, nefha-i sûr olmadan",
+     "c": []
+    },
+    {
+     "t": "Sen müyesser eyle yarab bizlere beytin tavaf",
+     "c": []
+    },
+    {
+     "t": "Ilmin ile amil eyle vâde tekmil olmadan",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hak cemalin kâbesini, kıldı aşıklar tavaf",
+     "c": []
+    },
+    {
+     "t": "Yerde kâbe gök yüzünde, beyti mamur olmadan",
+     "c": []
+    },
+    {
+     "t": "Mest olup mestâne geldim, tâ ezelden tâ ebed",
+     "c": []
+    },
+    {
+     "t": "İçmişim aşkın şerabın, âb-ı engûr olmadan",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mest olanların kelamı, kendınden gelmez veli",
+     "c": []
+    },
+    {
+     "t": "Pes en-el Hak nice söyler, kişi Mansur olmadan",
+     "c": []
+    },
+    {
+     "t": "Bir acep sevdaya düşmüş tutuşur Şems'i müdam",
+     "c": []
+    },
+    {
+     "t": "Hakk'a makbul olmak ister halka menfur olmadan",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_11",
+   "title": "Her kime açılsa hicab",
+   "artist": "nº 12",
+   "lines": [
+    {
+     "t": "Her kime açılsa hicab",
+     "c": []
+    },
+    {
+     "t": "Hep gördüğü didar olur",
+     "c": []
+    },
+    {
+     "t": "Gözüne sed olmaz serab",
+     "c": []
+    },
+    {
+     "t": "Hep gördüğü didar olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dünya ve ukbadan geçer",
+     "c": []
+    },
+    {
+     "t": "Vahdet ile kanat açar",
+     "c": []
+    },
+    {
+     "t": "Şer ve sevabından geçer",
+     "c": []
+    },
+    {
+     "t": "Hep gördüğü didar olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Söyler kelam bakar sana",
+     "c": []
+    },
+    {
+     "t": "Görmez gözü hiç masiva",
+     "c": []
+    },
+    {
+     "t": "Vermiş gönül Hak'tan yana",
+     "c": []
+    },
+    {
+     "t": "Hep gördüğü didar olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ol sırra ermiş mutlaka",
+     "c": []
+    },
+    {
+     "t": "Kalbi secde etmiş Hakk'a",
+     "c": []
+    },
+    {
+     "t": "Seyranı var Kaf'tan Kaf'a",
+     "c": []
+    },
+    {
+     "t": "Hep gördüğü didar olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Görmez hiç ol nar-ı azab",
+     "c": []
+    },
+    {
+     "t": "Geçmeyecek köprü sırat",
+     "c": []
+    },
+    {
+     "t": "Dünyada çün vermiş hesab",
+     "c": []
+    },
+    {
+     "t": "Hep gördüğü didar olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bunlardır Hakk'ın kulları",
+     "c": []
+    },
+    {
+     "t": "Takdir'e bağlı işleri",
+     "c": []
+    },
+    {
+     "t": "Kur'an okur hep dilleri",
+     "c": []
+    },
+    {
+     "t": "Hep gördüğü didar olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "FEHMİ'ye ol haşdaş olur",
+     "c": []
+    },
+    {
+     "t": "Yolunda ol canbaş verir",
+     "c": []
+    },
+    {
+     "t": "Sırrına ol sırdaş olur",
+     "c": []
+    },
+    {
+     "t": "Hep gördüğü didar olur",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_12",
+   "title": "Dermân aradım derdime",
+   "artist": "Niyazi Misri · nº 13",
+   "lines": [
+    {
+     "t": "Dermân aradım derdime",
+     "c": []
+    },
+    {
+     "t": "Derdim bana dermân imiş",
+     "c": []
+    },
+    {
+     "t": "Bürhân aradım aslıma",
+     "c": []
+    },
+    {
+     "t": "Aslım bana bürhân imiş",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sağ u solum gözler idim",
+     "c": []
+    },
+    {
+     "t": "Dost yüzünü görsem deyû",
+     "c": []
+    },
+    {
+     "t": "Ben taşrada arar idim",
+     "c": []
+    },
+    {
+     "t": "Ol cân içinde cân imiş",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Öyle sanırdım ayrıyam",
+     "c": []
+    },
+    {
+     "t": "Dost gayrıdır ben gayrıyam",
+     "c": []
+    },
+    {
+     "t": "Benden görüp işiteni",
+     "c": []
+    },
+    {
+     "t": "Bildim ki ol cânân imiş",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Savm-u salât u hac ile",
+     "c": []
+    },
+    {
+     "t": "Sanma ki biter zâhid işin",
+     "c": []
+    },
+    {
+     "t": "İnsan-ı kâmil olmağa",
+     "c": []
+    },
+    {
+     "t": "Lâzım olan irfân imiş",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kande gelir yolun senin",
+     "c": []
+    },
+    {
+     "t": "Ya kande varır menzilin",
+     "c": []
+    },
+    {
+     "t": "Nerden gelip gittiğini",
+     "c": []
+    },
+    {
+     "t": "Anlamayan hayvân imiş",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mürşid gerektir bildire",
+     "c": []
+    },
+    {
+     "t": "Hakk'ı sana hakka'l-yakîn",
+     "c": []
+    },
+    {
+     "t": "Mürşîdi olmayanların",
+     "c": []
+    },
+    {
+     "t": "Bildikleri gümân imiş",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Her mürşîde dil verme",
+     "c": []
+    },
+    {
+     "t": "Kim yolunu sarpa uğradır",
+     "c": []
+    },
+    {
+     "t": "Mürşîdi kâmil olanın",
+     "c": []
+    },
+    {
+     "t": "Gâyet yolu âsân imiş",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Anla hemen bir sözdürür",
+     "c": []
+    },
+    {
+     "t": "Yokuş değildir düzdürür",
+     "c": []
+    },
+    {
+     "t": "Âlem kamu bir yüzdürür",
+     "c": []
+    },
+    {
+     "t": "Gören onu hayrân imiş",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İşte Niyâzî'nin sözün",
+     "c": []
+    },
+    {
+     "t": "Bir nesne örtmez Hak yüzün",
+     "c": []
+    },
+    {
+     "t": "Hak'tan âyân bir nesne yok",
+     "c": []
+    },
+    {
+     "t": "Gözsüzlere pinhân imiş",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_13",
+   "title": "Ne güzeldir tevhid yolu",
+   "artist": "Mehmet Çelikçeken · nº 14",
+   "lines": [
+    {
+     "t": "Erdi bize hidayetin",
+     "c": []
+    },
+    {
+     "t": "Suçumuzu tümaffettin",
+     "c": []
+    },
+    {
+     "t": "Şükür zikri nasip ettin",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ol elestü zamanında",
+     "c": []
+    },
+    {
+     "t": "Beli dedik hitabına",
+     "c": []
+    },
+    {
+     "t": "Bulduk seni hep şu anda",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mürşidin telkinin duyduk",
+     "c": []
+    },
+    {
+     "t": "Sebilillah onda bulduk",
+     "c": []
+    },
+    {
+     "t": "Hamdık, piştik, yandık, olduk",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nispet fiilden soyunduk",
+     "c": []
+    },
+    {
+     "t": "El ayak depreşmez olduk",
+     "c": []
+    },
+    {
+     "t": "Dirildik hep Hakla dolduk",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Tüm işleri yapan sensin",
+     "c": []
+    },
+    {
+     "t": "Fail mutlak mevcut sensin",
+     "c": []
+    },
+    {
+     "t": "Derdimize derman sensin",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nispetimiz ifna ettik",
+     "c": []
+    },
+    {
+     "t": "Sıfatınla hep giyindik",
+     "c": []
+    },
+    {
+     "t": "Rabbim seni senle bildik",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bilenler zatın ayan",
+     "c": []
+    },
+    {
+     "t": "Mülk senin sensin var olan",
+     "c": []
+    },
+    {
+     "t": "Sana uyan çekmez hiç gam",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İnandık hep kitabına",
+     "c": []
+    },
+    {
+     "t": "Amel ettik senden sana",
+     "c": []
+    },
+    {
+     "t": "Yeter dedik nikabına",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yokluktur bu yolun sonu",
+     "c": []
+    },
+    {
+     "t": "İşleyen sensin ey ulu",
+     "c": []
+    },
+    {
+     "t": "Olduk Hakk'ın halis kulu",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Karar kılmaz deli gönlüm",
+     "c": []
+    },
+    {
+     "t": "Teslim oldum sana döndüm",
+     "c": []
+    },
+    {
+     "t": "MEHMET demez bildim, oldum",
+     "c": []
+    },
+    {
+     "t": "Ne güzeldir tevhit yolu",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_14",
+   "title": "Seninle Allah’ım",
+   "artist": "Mehmet Çelikçeken · nº 15",
+   "lines": [
+    {
+     "t": "Zikrederim sema ederim",
+     "c": []
+    },
+    {
+     "t": "Lâ faile illâllah derim",
+     "c": []
+    },
+    {
+     "t": "Senden geldim sana giderim",
+     "c": []
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bakar gözümüz ibret ile",
+     "c": []
+    },
+    {
+     "t": "Huzur ile vardık secdeye",
+     "c": []
+    },
+    {
+     "t": "İbadet ettik şükür ile",
+     "c": []
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Seninle olmayı bizlere",
+     "c": []
+    },
+    {
+     "t": "Ayıramaz cennet cehennem",
+     "c": []
+    },
+    {
+     "t": "Bizler olmak isteriz hemen",
+     "c": []
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Abit eder taat ibadet",
+     "c": []
+    },
+    {
+     "t": "Arzu eder cennete girmek",
+     "c": []
+    },
+    {
+     "t": "Bizler isteriz seni görmek",
+     "c": []
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bütün fiillerimiz senin",
+     "c": []
+    },
+    {
+     "t": "Kuvvet, kudret, irade senin",
+     "c": []
+    },
+    {
+     "t": "Mehmet derki canım ve tenim",
+     "c": []
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "29.11.1987",
+     "c": []
+    },
+    {
+     "t": "Mehmet Çelikçeken",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_15",
+   "title": "Aşk",
+   "artist": "Mehmet Çelikçeken · nº 16",
+   "lines": [
+    {
+     "t": "Aşksız iman tahkik değil",
+     "c": []
+    },
+    {
+     "t": "Aşksız insan, insan değil",
+     "c": []
+    },
+    {
+     "t": "Aşksız yapılan tüm işler",
+     "c": []
+    },
+    {
+     "t": "Hak katında makbul değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşkla yokluğa gidilir",
+     "c": []
+    },
+    {
+     "t": "Yoklukla ALLAH bilinir",
+     "c": []
+    },
+    {
+     "t": "Gönül tercümanı dildir",
+     "c": []
+    },
+    {
+     "t": "Aşktan nasipsiz dil değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşk gerektir dervişlere",
+     "c": []
+    },
+    {
+     "t": "Aşk ile ererler zevke",
+     "c": []
+    },
+    {
+     "t": "Hakkı talep etmeyene",
+     "c": []
+    },
+    {
+     "t": "Teklif dahi lazım değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Özünde aşkı bulanlar",
+     "c": []
+    },
+    {
+     "t": "Aleme aşkla bakarlar",
+     "c": []
+    },
+    {
+     "t": "Hakkı görmeyen şaşılar",
+     "c": []
+    },
+    {
+     "t": "Kördür gözü açık değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bende aşığım diyenler",
+     "c": []
+    },
+    {
+     "t": "Benliğini vermeyenler",
+     "c": []
+    },
+    {
+     "t": "Nefsin yolunda gidenler",
+     "c": []
+    },
+    {
+     "t": "Aşkı hiçte tatmış değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşktır görünen dervişte",
+     "c": []
+    },
+    {
+     "t": "Leyla Mecnun ve Şirin'de",
+     "c": []
+    },
+    {
+     "t": "Aşk olmazsa bir kişide",
+     "c": []
+    },
+    {
+     "t": "Kendinden haberdar değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kim ki aşkı rehber eder",
+     "c": []
+    },
+    {
+     "t": "Hakla Hakkı şuhut eder",
+     "c": []
+    },
+    {
+     "t": "Haktan ona gelir haber",
+     "c": []
+    },
+    {
+     "t": "Alelade haber değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşkla insanlar bilişir",
+     "c": []
+    },
+    {
+     "t": "Aşkla işler kolaylaşır",
+     "c": []
+    },
+    {
+     "t": "Acılar bala dönüşür",
+     "c": []
+    },
+    {
+     "t": "Bal bu aşktan tatlı değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşkla hayat güzel olur",
+     "c": []
+    },
+    {
+     "t": "İnsan aşkla huzur bulur",
+     "c": []
+    },
+    {
+     "t": "Gönül evi cennet olur",
+     "c": []
+    },
+    {
+     "t": "Hayaldeki cennet değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Zikrullah aşkın kaynağı",
+     "c": []
+    },
+    {
+     "t": "Aşk deli eder insanı",
+     "c": []
+    },
+    {
+     "t": "Maşukunu ister canı",
+     "c": []
+    },
+    {
+     "t": "Aşık maşuk ayrı değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşk hakka döndürür yüzü",
+     "c": []
+    },
+    {
+     "t": "Nispet gider kalır özü",
+     "c": []
+    },
+    {
+     "t": "Mehmet aşkla söyler sözü",
+     "c": []
+    },
+    {
+     "t": "Boşa atılır söz değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "12.10.1993",
+     "c": []
+    },
+    {
+     "t": "Mehmet Çelikçeken",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_16",
+   "title": "Ehli tevhidim diyenler",
+   "artist": "Mehmet Çelikçeken · nº 17",
+   "lines": [
+    {
+     "t": "Ey ehli Tevhid kardeşler",
+     "c": []
+    },
+    {
+     "t": "Hakikat gönlünü verenler",
+     "c": []
+    },
+    {
+     "t": "Öğütümü dinleyenler",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Öğüt vermek ne haddime",
+     "c": []
+    },
+    {
+     "t": "Benimki bir mukaddime",
+     "c": []
+    },
+    {
+     "t": "Sığındım hoş görünüze",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nefsi mizana koymalı",
+     "c": []
+    },
+    {
+     "t": "İrfaniyetle dolmalı",
+     "c": []
+    },
+    {
+     "t": "Mert, doğru, dürüst olmalı",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gurur kibirden geçmeli",
+     "c": []
+    },
+    {
+     "t": "Tevazuyla yükselmeli",
+     "c": []
+    },
+    {
+     "t": "Kendini aciz bilmeli",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şeriat başının tacı",
+     "c": []
+    },
+    {
+     "t": "Zikrullah gönlünün ilacı",
+     "c": []
+    },
+    {
+     "t": "Hiçbir zaman olmaz acı",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sözlerinde samimidir",
+     "c": []
+    },
+    {
+     "t": "Namazında daimidir",
+     "c": []
+    },
+    {
+     "t": "Güzel ahlak sahibidir",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Fenafillah ile solgun",
+     "c": []
+    },
+    {
+     "t": "Hakkın benliğiyle dolgun",
+     "c": []
+    },
+    {
+     "t": "Kemalatla olmuş olgun",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah faildir diyorsan",
+     "c": []
+    },
+    {
+     "t": "Kimseyle çekişmiyorsan",
+     "c": []
+    },
+    {
+     "t": "Dostluğa layık olan can",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Severken sevilir onlar",
+     "c": []
+    },
+    {
+     "t": "Halden dilden anlar onlar",
+     "c": []
+    },
+    {
+     "t": "Halk içinde gizli onlar",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ölüm dirilmek demektir",
+     "c": []
+    },
+    {
+     "t": "Ölmeyen nefsle dirilir",
+     "c": []
+    },
+    {
+     "t": "Mehmet sözünde samimidir",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "26.09.2016",
+     "c": []
+    },
+    {
+     "t": "Mehmet Çelikçeken",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_17",
+   "title": "Olur",
+   "artist": "Mehmet Çelikçeken · nº 18",
+   "lines": [
+    {
+     "t": "Muhlis olan himmet bulur",
+     "c": []
+    },
+    {
+     "t": "Gider riya, haset, gurur",
+     "c": []
+    },
+    {
+     "t": "Hak mürşide teslim olan",
+     "c": []
+    },
+    {
+     "t": "İnsan gibi irşad olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu meclise dahil olan",
+     "c": []
+    },
+    {
+     "t": "Geçer sırattan mizandan",
+     "c": []
+    },
+    {
+     "t": "Gönül olur ona mekân",
+     "c": []
+    },
+    {
+     "t": "Allah ondan razı olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Halkı seven Hakkı seven",
+     "c": []
+    },
+    {
+     "t": "Kesrette vahdeti gören",
+     "c": []
+    },
+    {
+     "t": "Mürşidin gönlüne giren",
+     "c": []
+    },
+    {
+     "t": "Kalbi huzurlu şad olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gaflet varsa sende eğer",
+     "c": []
+    },
+    {
+     "t": "Halkın yüzü perde meğer",
+     "c": []
+    },
+    {
+     "t": "Tevhit hicabı refeder",
+     "c": []
+    },
+    {
+     "t": "Her gördüğü cemal olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu işlerin var hikmeti",
+     "c": []
+    },
+    {
+     "t": "Neden niçin dememeli",
+     "c": []
+    },
+    {
+     "t": "Her işe beli demeli",
+     "c": []
+    },
+    {
+     "t": "Şerler hayra tebdil olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kelamı Haktan duyamaz",
+     "c": []
+    },
+    {
+     "t": "Kalbini şirkten yuyamaz",
+     "c": []
+    },
+    {
+     "t": "Tecelliye erenler az",
+     "c": []
+    },
+    {
+     "t": "Bu işin sonu ne olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hakkın muradı isteği",
+     "c": []
+    },
+    {
+     "t": "Seçmiş demirci Mehmet'i",
+     "c": []
+    },
+    {
+     "t": "Hak benliğinin bedeli",
+     "c": []
+    },
+    {
+     "t": "Ölüm ile tamam olur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "12.10.2001",
+     "c": []
+    },
+    {
+     "t": "Mehmet Çelikçeken",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_18",
+   "title": "Kendindedir Kendinde",
+   "artist": "Mehmet Çelikçeken · nº 19",
+   "lines": [
+    {
+     "t": "Arkadaş beni dinle",
+     "c": []
+    },
+    {
+     "t": "Ne varsa bu alemde",
+     "c": []
+    },
+    {
+     "t": "Arama başka yerde",
+     "c": []
+    },
+    {
+     "t": "Kendindedir kendinde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ben çok fakirim dersin",
+     "c": []
+    },
+    {
+     "t": "Sendekini görmezsin",
+     "c": []
+    },
+    {
+     "t": "Sen gizli hazinesin",
+     "c": []
+    },
+    {
+     "t": "Kendindedir kendinde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aklın, fikrin, gözlerin",
+     "c": []
+    },
+    {
+     "t": "Dünyalara vermezsin",
+     "c": []
+    },
+    {
+     "t": "Sen nelere bedelsin",
+     "c": []
+    },
+    {
+     "t": "Kendindedir kendinde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aç gözünü et şuhud",
+     "c": []
+    },
+    {
+     "t": "Hayret et eyle sükut",
+     "c": []
+    },
+    {
+     "t": "Ceberrutla melekut",
+     "c": []
+    },
+    {
+     "t": "Kendindedir kendinde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İşin gücün ağyarlık",
+     "c": []
+    },
+    {
+     "t": "Kalbine gelir darlık",
+     "c": []
+    },
+    {
+     "t": "Şeytan denilen varlık",
+     "c": []
+    },
+    {
+     "t": "Kendindedir kendinde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nemrut, firavun, şeytan",
+     "c": []
+    },
+    {
+     "t": "Geçmişte değil şu an",
+     "c": []
+    },
+    {
+     "t": "Seni yoldan çıkaran",
+     "c": []
+    },
+    {
+     "t": "Kendindedir kendinde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Var ise sende gurur",
+     "c": []
+    },
+    {
+     "t": "Gönlünde yoktur huzur",
+     "c": []
+    },
+    {
+     "t": "Gördüğün bütün kusur",
+     "c": []
+    },
+    {
+     "t": "Kendimdedir kendimde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Çek kendini aradan",
+     "c": []
+    },
+    {
+     "t": "Kalır seni yaratan",
+     "c": []
+    },
+    {
+     "t": "Yaratanı ararsan",
+     "c": []
+    },
+    {
+     "t": "Kendindedir kendinde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aldın mürşit nefesi",
+     "c": []
+    },
+    {
+     "t": "Mehmet yerin neresi",
+     "c": []
+    },
+    {
+     "t": "Canımın cananesi",
+     "c": []
+    },
+    {
+     "t": "Kendindedir kendinde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "12.10.2001",
+     "c": []
+    },
+    {
+     "t": "Mehmet Çelikçeken",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_19",
+   "title": "La ilâhe illâllah",
+   "artist": "Mehmet Çelikçeken · nº 20",
+   "lines": [
+    {
+     "t": "Kuranda derki Allah",
+     "c": []
+    },
+    {
+     "t": "Hem dahi resülullah",
+     "c": []
+    },
+    {
+     "t": "Zikrin alâsı budur",
+     "c": []
+    },
+    {
+     "t": "La ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Keder bununla gider",
+     "c": []
+    },
+    {
+     "t": "Zulmetler nura döner",
+     "c": []
+    },
+    {
+     "t": "Cennete dahil eder",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah'ın istediği",
+     "c": []
+    },
+    {
+     "t": "Şirk etmeyin dediği",
+     "c": []
+    },
+    {
+     "t": "Nebilerin tebliği",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Vallahi budur iman",
+     "c": []
+    },
+    {
+     "t": "Zerrece kalmaz güman",
+     "c": []
+    },
+    {
+     "t": "Mümin olursun inan",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gayemiz Hakka ermek",
+     "c": []
+    },
+    {
+     "t": "Vahdet gülünü dermek",
+     "c": []
+    },
+    {
+     "t": "Canını vermek gerek",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Görünen Hak değil mi",
+     "c": []
+    },
+    {
+     "t": "Aç gözünü yeter ki",
+     "c": []
+    },
+    {
+     "t": "Cümle kâinat der ki",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bütün fiiller Hakkın",
+     "c": []
+    },
+    {
+     "t": "Sakın sanma ben yaptım",
+     "c": []
+    },
+    {
+     "t": "Sana senden çok yakın",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sen bilmezsin vallahi",
+     "c": []
+    },
+    {
+     "t": "Bilen Haktır billahi",
+     "c": []
+    },
+    {
+     "t": "Çeker aradan seni",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Denizde bir damlasın",
+     "c": []
+    },
+    {
+     "t": "Vücut mutlak Allah'ın",
+     "c": []
+    },
+    {
+     "t": "Hiç varlığın kalmasın",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Büyüktür yüce Allah",
+     "c": []
+    },
+    {
+     "t": "Ondan gayrı yok ilah",
+     "c": []
+    },
+    {
+     "t": "Muhammed resulullah",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Demircinin isteği",
+     "c": []
+    },
+    {
+     "t": "Fenafillah gayesi",
+     "c": []
+    },
+    {
+     "t": "Yoktur başka sohbeti",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah,",
+     "c": []
+    },
+    {
+     "t": "Muhammedün resullullah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "08.09.2007",
+     "c": []
+    },
+    {
+     "t": "Mehmet Çelikçeken",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_20",
+   "title": "Hak peygamberime",
+   "artist": "Mehmet Çelikçeken · nº 21",
+   "lines": [
+    {
+     "t": "Günahımız çoktur bizim",
+     "c": []
+    },
+    {
+     "t": "Muhtacız hidayetine",
+     "c": []
+    },
+    {
+     "t": "Yarabbi çevir yönümü",
+     "c": []
+    },
+    {
+     "t": "Döndür hak peygamberime",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Elest bezmi sardı bizi",
+     "c": []
+    },
+    {
+     "t": "Anladım mürşidin telkinini",
+     "c": []
+    },
+    {
+     "t": "Ezelden vermişim sözü",
+     "c": []
+    },
+    {
+     "t": "Sözüm hak peygamberime",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mürşit aynadır resule",
+     "c": []
+    },
+    {
+     "t": "Aldı harem ismetine",
+     "c": []
+    },
+    {
+     "t": "Geldik göz göze değdi hem",
+     "c": []
+    },
+    {
+     "t": "Dizim Hak peygamberime",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dünya ukbâ yok olmadan",
+     "c": []
+    },
+    {
+     "t": "Olamaz hak nuru ayan",
+     "c": []
+    },
+    {
+     "t": "Olsun sevdiklerim kurban",
+     "c": []
+    },
+    {
+     "t": "Canım Hak peygamberime",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bildim, anladım özümü",
+     "c": []
+    },
+    {
+     "t": "Özden gelen sözümü",
+     "c": []
+    },
+    {
+     "t": "Kalmadı varlığım döndü",
+     "c": []
+    },
+    {
+     "t": "Özüm Hak peygamberime",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşık olan didar bulur",
+     "c": []
+    },
+    {
+     "t": "Her neye baksan hep odur",
+     "c": []
+    },
+    {
+     "t": "Bakmam gayrıya artık ben",
+     "c": []
+    },
+    {
+     "t": "Döndüm Hak peygamberime",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Seni sevmeyen mümin olmaz",
+     "c": []
+    },
+    {
+     "t": "Hiçbir dem huzur bulamaz",
+     "c": []
+    },
+    {
+     "t": "Misafir olsun açıktır",
+     "c": []
+    },
+    {
+     "t": "Gönlüm Hak peygamberime",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mehmet peygamberi sever",
+     "c": []
+    },
+    {
+     "t": "Akseder nuru gönülde",
+     "c": []
+    },
+    {
+     "t": "Hem tertemiz bir aynadır",
+     "c": []
+    },
+    {
+     "t": "Yüzüm hak peygamberime",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_21",
+   "title": "Acizim",
+   "artist": "Mehmet Çelikçeken · nº 22",
+   "lines": [
+    {
+     "t": "İsyanla geçmekte zaman Allah'ım",
+     "c": []
+    },
+    {
+     "t": "Yüce dergahına nasıl varayım",
+     "c": []
+    },
+    {
+     "t": "Huzuruna çıkacak yüz yok amma",
+     "c": []
+    },
+    {
+     "t": "Yok başka kapı kime sığınayım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İsterim nefsime hâkim olayım",
+     "c": []
+    },
+    {
+     "t": "Var otuz senelik alışkanlığım",
+     "c": []
+    },
+    {
+     "t": "Yapışmış üstüme canavar gibi",
+     "c": []
+    },
+    {
+     "t": "Yıkmak için yardımına muhtacım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Zikrinle kuluna inayet ettin",
+     "c": []
+    },
+    {
+     "t": "Allah dedim bana aşkını verdin",
+     "c": []
+    },
+    {
+     "t": "Lütfunla bana kendini bildirdin",
+     "c": []
+    },
+    {
+     "t": "Ya senden gayrı kime şükredeyim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dostlarını dost ettirdin bizlere",
+     "c": []
+    },
+    {
+     "t": "Dostun elinden nur verdin gözlere",
+     "c": []
+    },
+    {
+     "t": "Nefsi emmareden çektin kendine",
+     "c": []
+    },
+    {
+     "t": "Rabbim seni seninle zikredeyim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nimetlerin saymak ile tükenmez",
+     "c": []
+    },
+    {
+     "t": "Yüce zatın bu akılla bilinmez",
+     "c": []
+    },
+    {
+     "t": "Huzuruna varlık ile girilmez",
+     "c": []
+    },
+    {
+     "t": "Azamet içinde aciz biriyim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Önce öldürdün fenafillah ettin",
+     "c": []
+    },
+    {
+     "t": "Mümin kulumun diyetiyim dedin",
+     "c": []
+    },
+    {
+     "t": "Demirci kulun, fakir Mehmet'in",
+     "c": []
+    },
+    {
+     "t": "Derki ebedi seninle diriyim.",
+     "c": []
+    },
+    {
+     "t": "Derki ebedi seninle diriyim.",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_22",
+   "title": "Sen bir âşıksın ma'şukun nerde?",
+   "artist": "Hasan Fehmi Tezdoğan · nº 23",
+   "lines": [
+    {
+     "t": "Sen bir âşıksın ma'şukun nerde?",
+     "c": []
+    },
+    {
+     "t": "Haber almışsın uzak bir yerde",
+     "c": []
+    },
+    {
+     "t": "Sil gözünü gör Ma'bûdun nerde?",
+     "c": []
+    },
+    {
+     "t": "Abid olur mu Ma'bûd'a perde?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şirk sekri sende tuğyân eylemiş",
+     "c": []
+    },
+    {
+     "t": "Yol bulamazsın zevk-i Tevhîd'e",
+     "c": []
+    },
+    {
+     "t": "Soyun dal sende bahr-ı muhîte",
+     "c": []
+    },
+    {
+     "t": "Cevher bulunmaz her bir nehirde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bülbül zevk almaz altın kafeste",
+     "c": []
+    },
+    {
+     "t": "Nice durursun bu zulmette",
+     "c": []
+    },
+    {
+     "t": "Uçur şâd eyle murg-ı rûhunu",
+     "c": []
+    },
+    {
+     "t": "Seyrân eylesin enfûs âfak ta",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşık olanlar irfân buldular",
+     "c": []
+    },
+    {
+     "t": "Zevke erdiler aklın ardında",
+     "c": []
+    },
+    {
+     "t": "Mecnûn olmadan Leylâ bulunmaz",
+     "c": []
+    },
+    {
+     "t": "Akıl kalır mı dâr-ı mahbûbda?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mürüvvet ettin beni bu derde",
+     "c": []
+    },
+    {
+     "t": "Herkim koyduysa olsun cennette",
+     "c": []
+    },
+    {
+     "t": "Mecnûn'a bir şey suâl olunmaz",
+     "c": []
+    },
+    {
+     "t": "Yamadı kalem, levh-i mahfûzda",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cemâl-i yâre bakarken FEHMİ",
+     "c": []
+    },
+    {
+     "t": "Tavhîd hançerin duymadı cânda",
+     "c": []
+    },
+    {
+     "t": "Cemâl-i yâre bakarken FEHMİ",
+     "c": []
+    },
+    {
+     "t": "Tavhîd hançerin duymadı cânda",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_23",
+   "title": "Hânende bulduk sefâ",
+   "artist": "nº 24",
+   "lines": [
+    {
+     "t": "Hânende bulduk sefâ çilesi verdi vefâ (2x)",
+     "c": []
+    },
+    {
+     "t": "Gönülde bir hoş sedâ Yâ Muhammed Mustafa (2x)",
+     "c": []
+    },
+    {
+     "t": "Yâ Aliy'el Mürtezâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Tekrarı lütûf bana Feyzi şan katar şâna (2x)",
+     "c": []
+    },
+    {
+     "t": "Gönülde bir hoş sedâ Yâ Muhammed Mustafa (2x)",
+     "c": []
+    },
+    {
+     "t": "Yâ Aliy'el Mürtezâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bitmez asla çileler Aşkımı hep küreler (2x)",
+     "c": []
+    },
+    {
+     "t": "Gönülde bir hoş sedâ Yâ Muhammed Mustafa (2x)",
+     "c": []
+    },
+    {
+     "t": "Yâ Aliy'el Mürtezâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gelmedi bir peygamber Ahmedi gibi değer (2x)",
+     "c": []
+    },
+    {
+     "t": "Gönülde bir hoş sedâ Yâ Muhammed Mustafa (2x)",
+     "c": []
+    },
+    {
+     "t": "Yâ Aliy'el Mürtezâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "TALİP buldu Allah'ı Ruhunda yatar Şah'ı (2x)",
+     "c": []
+    },
+    {
+     "t": "Gönülde bir hoş sedâ Yâ Muhammed Mustafa (2x)",
+     "c": []
+    },
+    {
+     "t": "Yâ Aliy'el Mürtezâ",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_24",
+   "title": "Ben Melamet Hırkasını",
+   "artist": "nº 25",
+   "lines": [
+    {
+     "t": "Ben Melamet Hırkasını Kendim Giydim Eynime",
+     "c": []
+    },
+    {
+     "t": "Ar U Namus Şişesini Taşa Çaldım Kime Ne?",
+     "c": []
+    },
+    {
+     "t": "Haydar Haydar Taşa Çaldım Kime Ne?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gah Çıkarım Gökyüzüne Seyrederim Alemi",
+     "c": []
+    },
+    {
+     "t": "Gah İnerim Yeryüzüne Seyreder Alem Beni",
+     "c": []
+    },
+    {
+     "t": "Haydar Haydar Seyreder Alem Beni",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sofular Haram Demişler Bu Aşkın Badesine",
+     "c": []
+    },
+    {
+     "t": "Ben Doldurur Ben İçerim Günah Benim Kime Ne?",
+     "c": []
+    },
+    {
+     "t": "Haydar Haydar Günah Benim Kime Ne?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nesimi'ye Sormuşlar Yarin İlen Hoş Musun",
+     "c": []
+    },
+    {
+     "t": "Hoş Oluyum Olmuyayım O Yar Benim Kime Ne?",
+     "c": []
+    },
+    {
+     "t": "Haydar Haydar O Yar Benim Kime Ne?",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_25",
+   "title": "Ya Fatıma Ya Fatıma",
+   "artist": "nº 26",
+   "lines": [
+    {
+     "t": "(entra direto, sem Allah, Allah, Allah)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ya Fatıma Ya Fatıma. Canlar kurban olsun sana (2x)",
+     "c": []
+    },
+    {
+     "t": "Nübüvvetten bir parça. Resul kızı Fatıma (2x)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Rasulullahın gözbebeği Hem de ciğerparesi (2x)",
+     "c": []
+    },
+    {
+     "t": "Onun soyundan gelir Peygamberimin nesli (2x)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ya Fatıma Ya Fatıma Canlar kurban olsun sana (2x)",
+     "c": []
+    },
+    {
+     "t": "Nübüvvetten bir parça Resul kızı Fatıma (2x)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sen canların cananısın Hanımların sultanısın (2x)",
+     "c": []
+    },
+    {
+     "t": "Farukinin anasısın Rasul kızı Fatıma (2x)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ya Fatıma Ya Fatıma Canlar kurban olsun sana (2x)",
+     "c": []
+    },
+    {
+     "t": "Nübüvvetten bir parça Resul kızı Fatıma (2x)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ah annemiz can annemiz Cennet hurisi annemiz (2x)",
+     "c": []
+    },
+    {
+     "t": "Onun soyu tertemiz Resul kızı Fatıma",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ya Fatıma Ya Fatıma Canlar kurban olsun sana (2x)",
+     "c": []
+    },
+    {
+     "t": "Nübüvvetten bir parça Resul kızı Fatıma (2x)",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_26",
+   "title": "Bu aklü fikr ile",
+   "artist": "Yunus Emre · nº 27",
+   "lines": [
+    {
+     "t": "Bu aklü fikr ile Mevlâ bulunmaz",
+     "c": []
+    },
+    {
+     "t": "Bu ne yaradırki derman bulunmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yâ Allah Yâ Allah Allah Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Deryalar içinde susuz gezerim",
+     "c": []
+    },
+    {
+     "t": "Beni kandıracak umman bulunmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yâ Allah Yâ Allah Allah Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşkın pazarında canlar satılır",
+     "c": []
+    },
+    {
+     "t": "Satarım canımı alan bulunmaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yâ Allah Yâ Allah Allah Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yûnus öldü deyu salâ verirler",
+     "c": []
+    },
+    {
+     "t": "Ölen hayvan imiş âşıklar ölmez",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yâ Allah Yâ Allah Allah Allah Allah",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_27",
+   "title": "Şeyhimin İlleri",
+   "artist": "Yunus Emre · nº 28",
+   "lines": [
+    {
+     "t": "Dm sem allah allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şeyhimin illeri",
+     "c": []
+    },
+    {
+     "t": "Uzaktır yolları",
+     "c": []
+    },
+    {
+     "t": "Açılmış gülleri",
+     "c": []
+    },
+    {
+     "t": "Dermeye kim gelir?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat:",
+     "c": []
+    },
+    {
+     "t": "İllallah İllallah",
+     "c": []
+    },
+    {
+     "t": "Lâ İlâhe İllallah",
+     "c": []
+    },
+    {
+     "t": "İllallah İllallah",
+     "c": []
+    },
+    {
+     "t": "Muhammed Resulullah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şeyhimin özünü",
+     "c": []
+    },
+    {
+     "t": "Severim sözünü",
+     "c": []
+    },
+    {
+     "t": "Mübarek yüzünü",
+     "c": []
+    },
+    {
+     "t": "Görmeye kim gelir?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şeyhimin şem'ine",
+     "c": []
+    },
+    {
+     "t": "Bu canım pervane",
+     "c": []
+    },
+    {
+     "t": "Saladır âşıklar",
+     "c": []
+    },
+    {
+     "t": "Yanmağa kim gelir?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ahd ile vefalar",
+     "c": []
+    },
+    {
+     "t": "Zevk ile safalar",
+     "c": []
+    },
+    {
+     "t": "Bu yolda cefalar",
+     "c": []
+    },
+    {
+     "t": "Çekmeğe kim gelir?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nakarat",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ah ile göz yaşı",
+     "c": []
+    },
+    {
+     "t": "Yunus'un haldaşı",
+     "c": []
+    },
+    {
+     "t": "Zehr ile şol aşı",
+     "c": []
+    },
+    {
+     "t": "Yemeğe kim gelir?",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_28",
+   "title": "Nuri Cemali",
+   "artist": "nº 29",
+   "lines": [
+    {
+     "t": "Am sem allah allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nuri Cemali",
+     "c": []
+    },
+    {
+     "t": "Hakkın visali",
+     "c": []
+    },
+    {
+     "t": "Eyler Tecelli",
+     "c": []
+    },
+    {
+     "t": "dil olsa hali",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Talibi Hak-san",
+     "c": []
+    },
+    {
+     "t": "Rehber dilersen",
+     "c": []
+    },
+    {
+     "t": "Hasen la Hüseyn",
+     "c": []
+    },
+    {
+     "t": "Muhammed Ali",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Allah",
+     "c": []
+    },
+    {
+     "t": "Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gönülde sıdkı",
+     "c": []
+    },
+    {
+     "t": "yak Nuri aşkı",
+     "c": []
+    },
+    {
+     "t": "Zikreyle Hak-kı",
+     "c": []
+    },
+    {
+     "t": "ruzi layali",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Canan gereksen",
+     "c": []
+    },
+    {
+     "t": "Vuslat dilersen",
+     "c": []
+    },
+    {
+     "t": "Çal tatlı nefsen",
+     "c": []
+    },
+    {
+     "t": "Sei-fi Celali",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Allah",
+     "c": []
+    },
+    {
+     "t": "Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kıl şeyhe hizmet",
+     "c": []
+    },
+    {
+     "t": "Ver kalbe safvet",
+     "c": []
+    },
+    {
+     "t": "Bulursun elbet",
+     "c": []
+    },
+    {
+     "t": "Bedr-i Kemali",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah Allah",
+     "c": []
+    },
+    {
+     "t": "Hu Allah Hu",
+     "c": []
+    },
+    {
+     "t": "Allah Hu Allah",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_29",
+   "title": "Ya Resulullah",
+   "artist": "nº 30",
+   "lines": [
+    {
+     "t": "Ya Resulullah",
+     "c": []
+    },
+    {
+     "t": "Ya Habib Allah",
+     "c": []
+    },
+    {
+     "t": "Ya Shafi Allah",
+     "c": []
+    },
+    {
+     "t": "Ya Nabi Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Salallah Hu Allah Muhamed",
+     "c": []
+    },
+    {
+     "t": "Salallah Hu Aleyhi Wassalam",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_30",
+   "title": "Ben aşkın narına",
+   "artist": "nº 31",
+   "lines": [
+    {
+     "t": "Dm modo grego intro semi ralento",
+     "c": []
+    },
+    {
+     "t": "1 allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ben aşkın narına pervane geldim",
+     "c": []
+    },
+    {
+     "t": "İsmail'im canı kurbana geldim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Leyla'nın Zülüfü göründü bana",
+     "c": []
+    },
+    {
+     "t": "Mecnun'um ben bunda divane geldim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yakup gibi ağlar iken Ken'an'da",
+     "c": []
+    },
+    {
+     "t": "Yusuf'un didarın görmeğe geldim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Musa olup bir dem asayı alıp",
+     "c": []
+    },
+    {
+     "t": "Emriyle Fir'avn'un cengine geldim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şol Zülkarneyn gibi alem gezerken",
+     "c": []
+    },
+    {
+     "t": "Menba-i mağribin gölüne geldim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bir gece Muhammed ile mi'racta",
+     "c": []
+    },
+    {
+     "t": "Ev edna bahrını seyrana geldim",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kenz-i mahfi idim ilm-i ezelde",
+     "c": []
+    },
+    {
+     "t": "TALİBİ'yim tende mihmane geldim",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_31",
+   "title": "Ibadallah",
+   "artist": "nº 32",
+   "lines": [
+    {
+     "t": "Tom: Am harmônico",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ibadallah Rijalallah",
+     "c": []
+    },
+    {
+     "t": "Aghitsuna Bi ahlillah",
+     "c": []
+    },
+    {
+     "t": "Wa kunu 'Aunana fillaah",
+     "c": []
+    },
+    {
+     "t": "Asa nahdho Bi fadhlillaah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Wa ya anjab... Wa ya anjab...",
+     "c": []
+    },
+    {
+     "t": "Wa ya sadat wa ya ahbab",
+     "c": []
+    },
+    {
+     "t": "Wa antum ya ulil albab",
+     "c": []
+    },
+    {
+     "t": "Ta 'alau wan shuru lillah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sa alnakum sa alnakum",
+     "c": []
+    },
+    {
+     "t": "Waliz zulfa rojau nakum",
+     "c": []
+    },
+    {
+     "t": "Wa fi amrin qoshod nakum",
+     "c": []
+    },
+    {
+     "t": "Fa syuddu 'azmakum lillah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Fa ya robbi bi sadati",
+     "c": []
+    },
+    {
+     "t": "Tahaqqoq li isyaroti",
+     "c": []
+    },
+    {
+     "t": "Asa ta'ti bisyaroti",
+     "c": []
+    },
+    {
+     "t": "Wa yash fu waq tuna lillah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bikasyfil hujbi 'an 'ainî",
+     "c": []
+    },
+    {
+     "t": "Wa rof'il baini min bainî",
+     "c": []
+    },
+    {
+     "t": "Wa thomsil kaifi wal aini",
+     "c": []
+    },
+    {
+     "t": "Binûril wajhi yâ Allâh",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sholâtullâhi Maulânâ..",
+     "c": []
+    },
+    {
+     "t": "'alâ man bil Hudâ jânâ",
+     "c": []
+    },
+    {
+     "t": "Wa man bil haqqi aulânâ..",
+     "c": []
+    },
+    {
+     "t": "Syafî'il kholqi 'indallâh..",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_32",
+   "title": "Allah Allah sükren lillah",
+   "artist": "nº 33",
+   "lines": [
+    {
+     "t": "Allah Allah şükren lillah zikren lillah ya Kerim Allah",
+     "c": []
+    },
+    {
+     "t": "Allah Allah şükren lillah zikren lillah ya Medet Allah",
+     "c": []
+    },
+    {
+     "t": "Allah Allah şükren lillah zikren lillah ya Kerim Allah",
+     "c": []
+    },
+    {
+     "t": "Allah Allah şükren lillah zikren lillah ya Medet Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Deyyân Allah Allah Mennân Allah Allah",
+     "c": []
+    },
+    {
+     "t": "Kayyum Allah Allah Tevvab Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kadir Allah Alim Allah Gaffar Allah Kahhar Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ya Evvel ya Ahir ya Zâhir ya Bâtin",
+     "c": []
+    },
+    {
+     "t": "ya Bâki Allah Allah ya Nâfi Allah Allah",
+     "c": []
+    },
+    {
+     "t": "Ya Hayuu Ya Qayumm Ya Sattar Ya Jabbar",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Deyyân Allah Allah Mennân Allah Allah",
+     "c": []
+    },
+    {
+     "t": "Kayyum Allah Allah Tevvab Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Rahman Allah Hannan Allah",
+     "c": []
+    },
+    {
+     "t": "Rezzak Allah ya Aziz Allah Allah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah Allah şükren lillah zikren lillah ya Kerim Allah",
+     "c": []
+    },
+    {
+     "t": "Allah Allah şükren lillah zikren lillah ya medet Allah",
+     "c": []
+    },
+    {
+     "t": "Allah Allah şükren lillah zikren lillah ya Kerim Allah",
+     "c": []
+    },
+    {
+     "t": "Allah Allah şükren lillah zikren lillah ya medet Allah",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_33",
+   "title": "Ah Ey Sipihr-i Gaddar",
+   "artist": "nº 34",
+   "lines": [
+    {
+     "t": "Âh ey sipihr-i gaddâr",
+     "c": []
+    },
+    {
+     "t": "Vey tâli-i sitemkâr",
+     "c": []
+    },
+    {
+     "t": "Rahmetmedin bu zâre",
+     "c": []
+    },
+    {
+     "t": "Her demde kıldın azâr",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Derd ile yandı cismim",
+     "c": []
+    },
+    {
+     "t": "Kan ile doldu çeşmim",
+     "c": []
+    },
+    {
+     "t": "Mahvoldu ism ü resmim",
+     "c": []
+    },
+    {
+     "t": "Kaldım garîb ü nâçâr",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Derdim benim bilinmez",
+     "c": []
+    },
+    {
+     "t": "Eşk-i terim silinmez",
+     "c": []
+    },
+    {
+     "t": "Emvâc-ı gamım dinmez",
+     "c": []
+    },
+    {
+     "t": "Mânend-i seyl-i enhâr",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kurtulmadım elemden",
+     "c": []
+    },
+    {
+     "t": "Derd ü belâ vü gamdan",
+     "c": []
+    },
+    {
+     "t": "Mecrûh olup sitemden",
+     "c": []
+    },
+    {
+     "t": "Sînemde yâreler var",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bilinmez oldu hâlim",
+     "c": []
+    },
+    {
+     "t": "Kalmadı hiç mecâlim",
+     "c": []
+    },
+    {
+     "t": "Çerh-i felekse zâlim",
+     "c": []
+    },
+    {
+     "t": "Cevr eylemekde her bâr",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dâim yanar derûnum",
+     "c": []
+    },
+    {
+     "t": "Hem zâr ü hem zebûnum",
+     "c": []
+    },
+    {
+     "t": "Müstağrak-ı cünûnum",
+     "c": []
+    },
+    {
+     "t": "Bend-i gama giriftâr",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ağyâr eder cefâyı",
+     "c": []
+    },
+    {
+     "t": "Yar eylemez vefâyı",
+     "c": []
+    },
+    {
+     "t": "Bilmem niçin Zekâî",
+     "c": []
+    },
+    {
+     "t": "Bu mihnete sezâ vâr",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_34",
+   "title": "Ya Rabbi Aşkın Ver Bana",
+   "artist": "Seyyid Nizamoğlu · nº 35",
+   "lines": [
+    {
+     "t": "Ya Rabbi aşkın ver bana, efendim",
+     "c": []
+    },
+    {
+     "t": "Hu diyeyim (Allah Allah) döne döne",
+     "c": []
+    },
+    {
+     "t": "Aşkın ile yana yana, efendim",
+     "c": []
+    },
+    {
+     "t": "Hu diyeyim (Allah Allah) döne döne",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Koma hiç benliğim bende, efendim",
+     "c": []
+    },
+    {
+     "t": "Varlığım yok (Allah Allah) eyle Sende",
+     "c": []
+    },
+    {
+     "t": "Seni görüp her mekânda, efendim",
+     "c": []
+    },
+    {
+     "t": "Hû diyeyim (Allah Allah) döne döne",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Çahe düştüm Yusuf gibi, efendim",
+     "c": []
+    },
+    {
+     "t": "Derde düştüm (Allah Allah) Eyyup gibi",
+     "c": []
+    },
+    {
+     "t": "Ağlayayım Yakup gibi, efendim",
+     "c": []
+    },
+    {
+     "t": "Hu diyeyim (Allah Allah) döne döne",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Senden gayrısın al benden, efendim",
+     "c": []
+    },
+    {
+     "t": "Ayırma ben (Allah Allah) kulun senden",
+     "c": []
+    },
+    {
+     "t": "Sevdir bana seni candan, efendim",
+     "c": []
+    },
+    {
+     "t": "Hû diyeyim (Allah Allah) döne döne",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gönlümde ağyar kalmasın, efendim",
+     "c": []
+    },
+    {
+     "t": "Senden gayrı (Allah Allah) yâr olmasın",
+     "c": []
+    },
+    {
+     "t": "N'olduğum kimse bilmesin, efendim",
+     "c": []
+    },
+    {
+     "t": "Hû diyeyim (Allah Allah) döne döne",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şevkin ver bana döneyim, efendim",
+     "c": []
+    },
+    {
+     "t": "Tâ kül olunca (Allah Allah) yanayım",
+     "c": []
+    },
+    {
+     "t": "Gördüğüm seni sanayım, efendim",
+     "c": []
+    },
+    {
+     "t": "Hû diyeyim (Allah Allah) döne döne",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mevlam koma beni bana, efendim",
+     "c": []
+    },
+    {
+     "t": "Al gönlümü (Allah Allah) senden yana",
+     "c": []
+    },
+    {
+     "t": "Müştakın oluben sana, efendim",
+     "c": []
+    },
+    {
+     "t": "Hu diyeyim (Allah Allah) döne döne",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Seyyid Nizamoğlu kuldur, efendim",
+     "c": []
+    },
+    {
+     "t": "İster güldür (Allah Allah) ister öldür",
+     "c": []
+    },
+    {
+     "t": "Aşkınla gönlümü doldur, efendim",
+     "c": []
+    },
+    {
+     "t": "Hu diyeyim (Allah Allah) döne döne",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_35",
+   "title": "Küsmeyemmi şu feleğe",
+   "artist": "nº 36",
+   "lines": [
+    {
+     "t": "Küsmeyemmi şu feleğe",
+     "c": []
+    },
+    {
+     "t": "Sattı beni bir keleğe",
+     "c": []
+    },
+    {
+     "t": "Vurdular ince eleğe huuu",
+     "c": []
+    },
+    {
+     "t": "Benim şahım hu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Halvetiyem huu hem",
+     "c": []
+    },
+    {
+     "t": "Melamiyem huu",
+     "c": []
+    },
+    {
+     "t": "Bektaşiyem huu hem",
+     "c": []
+    },
+    {
+     "t": "Uşakiyem huu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dağları bürüdü duman",
+     "c": []
+    },
+    {
+     "t": "Yalvarırım şeyhim aman",
+     "c": []
+    },
+    {
+     "t": "Benim halim oldu yaman huu",
+     "c": []
+    },
+    {
+     "t": "Benim şahım huu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Halvetiyem huu hem",
+     "c": []
+    },
+    {
+     "t": "Melamiyem huu",
+     "c": []
+    },
+    {
+     "t": "Kadiriyem huu hem",
+     "c": []
+    },
+    {
+     "t": "Rifaiyem huu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Benim şeyhim bir kişidir",
+     "c": []
+    },
+    {
+     "t": "Ak sakallı pir kişidir",
+     "c": []
+    },
+    {
+     "t": "Erenlerin yoldaşıdır huuu",
+     "c": []
+    },
+    {
+     "t": "Benim şahım huu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Halvetiyem huu hem",
+     "c": []
+    },
+    {
+     "t": "Melamiyem huu",
+     "c": []
+    },
+    {
+     "t": "Bektasiyem huuu hem",
+     "c": []
+    },
+    {
+     "t": "Uşakiyem huuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Benim şeyhim beratlıdır",
+     "c": []
+    },
+    {
+     "t": "Sözleri baldan tatlidir",
+     "c": []
+    },
+    {
+     "t": "Hak yanında kiymetlidir huu",
+     "c": []
+    },
+    {
+     "t": "Benim şahım huu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Halvetiyem huuu hem",
+     "c": []
+    },
+    {
+     "t": "Melamiyem huuu",
+     "c": []
+    },
+    {
+     "t": "Mevleviyem huuu hem",
+     "c": []
+    },
+    {
+     "t": "Celvetiyem huuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bindim şeyhin gemisine",
+     "c": []
+    },
+    {
+     "t": "Çıktım derya kıyısına",
+     "c": []
+    },
+    {
+     "t": "Giden bulur Huu",
+     "c": []
+    },
+    {
+     "t": "Benim şahım huu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Halvetiyem huuu hem",
+     "c": []
+    },
+    {
+     "t": "Melamiyem huuu",
+     "c": []
+    },
+    {
+     "t": "Kadiriyem huuu hem",
+     "c": []
+    },
+    {
+     "t": "Rifaiyem huuu.",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_36",
+   "title": "Ey gönül bakma cihâna",
+   "artist": "nº 37",
+   "lines": [
+    {
+     "t": "Ey gönül bakma cihâna gün gelir seyrân gider",
+     "c": []
+    },
+    {
+     "t": "Durma ağla gözlerim gel bu kafesden cân gider",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sağlığı sen bil ganîmet gönlünü Allah'a ver",
+     "c": []
+    },
+    {
+     "t": "Çağrılır kabre girersin sonra bu meydân gider",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sıdk ile Allah'a kul ol mâl-i dünya fitnedir",
+     "c": []
+    },
+    {
+     "t": "Bir kefen giyip gidersin servet ü sâmân gider",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Uyma gel ehl-i zamâna çokça sohbet eyleme",
+     "c": []
+    },
+    {
+     "t": "Çünkü onlar ehl-i Hakk'a her cihetle yân gider",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cümle halk ehl-i seferdir devr-i Âdem'den beri",
+     "c": []
+    },
+    {
+     "t": "Pençe-i mevte takılmış günde bin kervân gider",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hazır ol mevte Kelâmî gâfil olma bir nefes",
+     "c": []
+    },
+    {
+     "t": "Dost gider düşmân gider ağyâr gider ihvân gider",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_37",
+   "title": "Ey zahid gel zühdünü ko",
+   "artist": "nº 38",
+   "lines": [
+    {
+     "t": "Ey zahid gel zühdünü ko Aşka eyle iktidâ",
+     "c": []
+    },
+    {
+     "t": "Göresin hep ehl-i aşk Olmuşlar halka muktedâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cümle kervandır bu âlem Ehl-i aşktır rehnümâ",
+     "c": []
+    },
+    {
+     "t": "Gel kârib ol kaçma zinhar Sen kalırsın bînevâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Çünkü \"yuhibbune\" geldi Ol ganî Hak'tan bize",
+     "c": []
+    },
+    {
+     "t": "Nidelim gayre muhabbet Çün değil emr-i hüdâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Etme rağbet perhîze sen Gel beru ey hoşimend",
+     "c": []
+    },
+    {
+     "t": "Niceler perhîzle bunda Oldular Hak'tan cüdâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Rûzu şeb tâat ibâdet Eylemez vasl-ı likâ",
+     "c": []
+    },
+    {
+     "t": "Aşk ile yoldaş olanlar Buldular derde devâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ara bul mürşid-i kâmil Çünkü oldur haknümâ",
+     "c": []
+    },
+    {
+     "t": "Hep erenler füyûzât Oldu ol yüzden hidâ",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "TALİBÎ'yle sohbet eyle Her sözüne tut sîmâ",
+     "c": []
+    },
+    {
+     "t": "Sehpâ-yı aşkın şarâbın İçirir hre dem sana",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_38",
+   "title": "Aşksız Olmaz",
+   "artist": "Mehmet Çelikçeken · nº 39",
+   "lines": [
+    {
+     "t": "Hak mürşide teslim ol ver elini",
+     "c": []
+    },
+    {
+     "t": "Bağla bir süre göz, kulak, dilini",
+     "c": []
+    },
+    {
+     "t": "Sözlerime dikkat et al hikmeti",
+     "c": []
+    },
+    {
+     "t": "Aşkın yoksa şayet bu iş olmaz ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nefsinin türlü oyunları vardır",
+     "c": []
+    },
+    {
+     "t": "Geçtiğin sırattır, incedir, dardır",
+     "c": []
+    },
+    {
+     "t": "Genişliği sana aşkın kadardır",
+     "c": []
+    },
+    {
+     "t": "Aşkın yoksa şayet bu iş olmaz ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Varlıklarını zikirle yakan ol",
+     "c": []
+    },
+    {
+     "t": "Hasedi, kini, inadı atan ol",
+     "c": []
+    },
+    {
+     "t": "Enfüs afaka hikmetle bakan ol",
+     "c": []
+    },
+    {
+     "t": "Aşkın yoksa şayet bu iş olmaz ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mürşidi sanma ibaret bedenden",
+     "c": []
+    },
+    {
+     "t": "Bağlanasın ona candan, gönülden",
+     "c": []
+    },
+    {
+     "t": "Hayat bahşeder sana nefesinden",
+     "c": []
+    },
+    {
+     "t": "Aşkın yoksa şayet bu iş olmaz ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Öğrendiklerini sok yaşantıya",
+     "c": []
+    },
+    {
+     "t": "Seyyiatın dönüşsün hasenata",
+     "c": []
+    },
+    {
+     "t": "Erişirsin kardeş mutlak huzura",
+     "c": []
+    },
+    {
+     "t": "Aşkın yoksa şayet bu iş olmaz ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gaflete düşme sakın yüz çevirme",
+     "c": []
+    },
+    {
+     "t": "Allah derdi verir sevdiklerine",
+     "c": []
+    },
+    {
+     "t": "Erenler sabırla erdi kemale",
+     "c": []
+    },
+    {
+     "t": "Aşkın yoksa şayet bu iş olmaz ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Varlıkta yoklukta Allah'ı zikret",
+     "c": []
+    },
+    {
+     "t": "Mülkün Allah'ın olduğunu fikr et",
+     "c": []
+    },
+    {
+     "t": "Neden niçin deme tevhidi zevk et",
+     "c": []
+    },
+    {
+     "t": "Aşkın yoksa şayet bu iş olmaz ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Harama helâle çok dikkat eyle",
+     "c": []
+    },
+    {
+     "t": "Nefsine uyma mücadele eyle",
+     "c": []
+    },
+    {
+     "t": "Mehmet durma sen aşk tedarik eyle",
+     "c": []
+    },
+    {
+     "t": "Aşkın yoksa şayet bu iş olmaz ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "15.09.1988",
+     "c": []
+    },
+    {
+     "t": "Mehmet Çelikçeken",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_39",
+   "title": "Ya Hazreti Muhammed",
+   "artist": "nº 40",
+   "lines": [
+    {
+     "t": "Geldin aleme rahmet",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "Hep varsın ezel ebed",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sen ölmedin dirisin",
+     "c": []
+    },
+    {
+     "t": "Müminin gönlündesin",
+     "c": []
+    },
+    {
+     "t": "Canıma can verensin",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gafletlere dalarız",
+     "c": []
+    },
+    {
+     "t": "Şaşkın şaşkın ararız",
+     "c": []
+    },
+    {
+     "t": "Sensiz biz ne yaparız",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Zulmetleri yıkansın",
+     "c": []
+    },
+    {
+     "t": "Nebilere imamsın",
+     "c": []
+    },
+    {
+     "t": "Şüphesiz ev ednasın",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nisbetlerim yok oldu",
+     "c": []
+    },
+    {
+     "t": "Bütün alem nur oldu",
+     "c": []
+    },
+    {
+     "t": "Gönlüm sevginle doldu",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ömür sensiz bir gazel",
+     "c": []
+    },
+    {
+     "t": "Alem seninle güzel",
+     "c": []
+    },
+    {
+     "t": "Bize rahmetin özel",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nefisleri bozansın",
+     "c": []
+    },
+    {
+     "t": "Köleliği yıkansın",
+     "c": []
+    },
+    {
+     "t": "Gönlümdeki sultansın",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şefaat ettin bana",
+     "c": []
+    },
+    {
+     "t": "Gönlüm hep senden yana",
+     "c": []
+    },
+    {
+     "t": "Sonsuz salavat sana",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ümmet ümmetim dedin",
+     "c": []
+    },
+    {
+     "t": "Kendini feda ettin",
+     "c": []
+    },
+    {
+     "t": "Bize rahmet getirdin",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Seçtin aldın sen beni",
+     "c": []
+    },
+    {
+     "t": "Verdin bana kendini",
+     "c": []
+    },
+    {
+     "t": "Bırakma şu köleni",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sensiz mümin olunmaz",
+     "c": []
+    },
+    {
+     "t": "Münafıklar duyamaz",
+     "c": []
+    },
+    {
+     "t": "Mehmet sana hiç doymaz",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "28.02.1999",
+     "c": []
+    },
+    {
+     "t": "Mehmet Çelikçeken",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_40",
+   "title": "Tende cânım canda",
+   "artist": "Niyazi Misri · nº 41",
+   "lines": [
+    {
+     "t": "Tende cânım canda cânânımdır Allâh hû diyen,",
+     "c": []
+    },
+    {
+     "t": "Dilde sırrım sırda sübhânımdır Allâh hû diyen.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dest-i kudretle yazılmış yüzüne âyât-ı Hakk,",
+     "c": []
+    },
+    {
+     "t": "Gönlümün tahtında sultânımdır Allâh hû diyen.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cümle â'zâdan gelir zikr-i \"Enel Hak\" nârası,",
+     "c": []
+    },
+    {
+     "t": "Cism içinde zâr u efgânımdır Allâh hû diyen.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Geceler tâ subh olunca inledir bu dert beni,",
+     "c": []
+    },
+    {
+     "t": "Derdimin içinde dermânımdır Allâh hû diyen.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yere göğe sığmayan bir mü'minin kalbindedir,",
+     "c": []
+    },
+    {
+     "t": "Katremin içinde ummânımdır Allâh hû diyen.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kisve-i tenden muarrâ seyreder bu gökleri,",
+     "c": []
+    },
+    {
+     "t": "Çark uran abdâl-ı uryânımdır Allâh hû diyen.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Her kişiye kendiden yakın olan dost zâtıdır,",
+     "c": []
+    },
+    {
+     "t": "Ey Niyâzî dilde mihmânımdır Allâh hû diyen",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_41",
+   "title": "Haktan Bize Haber Verdi Erenler",
+   "artist": "Sun’ullah Gaybi · nº 42",
+   "lines": [
+    {
+     "t": "Hak'tan bize haber verdi erenler",
+     "c": []
+    },
+    {
+     "t": "Gönülde iste bul Hakk'ı dediler",
+     "c": []
+    },
+    {
+     "t": "Hakk'ın cemalini ıyan görenler",
+     "c": []
+    },
+    {
+     "t": "Gönülde ise bul Hakk'ı dediler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gönül imiş çünkü Hakk'ın durağı",
+     "c": []
+    },
+    {
+     "t": "Anda yanar imiş zatın çerağı",
+     "c": []
+    },
+    {
+     "t": "Bine gör aşk imiş Hakk'ın burağı",
+     "c": []
+    },
+    {
+     "t": "Gönülde iste bul Hakk'ı dediler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Maksud olan bu alemde insandır",
+     "c": []
+    },
+    {
+     "t": "İnsan dedikleri gönülde candır",
+     "c": []
+    },
+    {
+     "t": "Can değildir hakıykat-i canandır",
+     "c": []
+    },
+    {
+     "t": "Gönülde iste bul Hakk'ı dediler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bir noktadır yerden göğe bu alem",
+     "c": []
+    },
+    {
+     "t": "Sıfattır ol zatıdır can-ı adem",
+     "c": []
+    },
+    {
+     "t": "Nafahtü'den geldi bize gelen dem",
+     "c": []
+    },
+    {
+     "t": "Gönülde iste bul Hakk'ı dediler",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gönül ili Hakk'ın gizli ilidir",
+     "c": []
+    },
+    {
+     "t": "Andan haber bilen gerçek velidir",
+     "c": []
+    },
+    {
+     "t": "Gaybi Hakk'ın giden gönül yoludur",
+     "c": []
+    },
+    {
+     "t": "Gönülde iste bul Hakk'ı dediler",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_42",
+   "title": "Nerden Bilsin",
+   "artist": "Sun’ullah Gaybi · nº 43",
+   "lines": [
+    {
+     "t": "Canı olmayan zahid cananı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Canı olmayan zahid cananı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 9,
+       "n": "C"
+      },
+      {
+       "p": 19,
+       "n": "Bb"
+      },
+      {
+       "p": 29,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Bi derd olan münafık Lokman'ı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 21,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Bi derd olan münafık Lokman'ı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 21,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "La Ilaha Ila Allah La Ilaha Ila Allah",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Muhabbetle gelendir aşk ile menzil alan",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Muhabbetle gelendir aşk ile menzil alan",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 9,
+       "n": "C"
+      },
+      {
+       "p": 19,
+       "n": "Bb"
+      },
+      {
+       "p": 29,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Aşka canın vermeyen sultanı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 21,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Aşka canın vermeyen sultanı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 21,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "La Ilaha Ila Allah La Ilaha Ila Allah",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dilediği özüdür özünü bilmez zahid",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Dilediği özüdür özünü bilmez zahid",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 9,
+       "n": "C"
+      },
+      {
+       "p": 19,
+       "n": "Bb"
+      },
+      {
+       "p": 29,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Zahid özün bilmedi irfanı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 19,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Zahid özün bilmedi irfanı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 19,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "La Ilaha Ila Allah La Ilaha Ila Allah",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sufi halvet içinde riya ile Hu çeker",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Sufi halvet içinde riya ile Hu çeker",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 9,
+       "n": "C"
+      },
+      {
+       "p": 19,
+       "n": "Bb"
+      },
+      {
+       "p": 29,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Baykuş virane bekler gülşeni neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 21,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Baykuş virane bekler gülşeni neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 21,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "La Ilaha Ila Allah La Ilaha Ila Allah",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cümlenin canı Gaybi zahitler inkar eder",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 19,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Cümlenin canı Gaybi zahitler inkar eder",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 9,
+       "n": "C"
+      },
+      {
+       "p": 19,
+       "n": "Bb"
+      },
+      {
+       "p": 29,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Sahraya düşen damla ummanı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 21,
+       "n": "A7"
+      }
+     ]
+    },
+    {
+     "t": "Sahraya düşen damla ummanı neden bilsin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 21,
+       "n": "A7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_43",
+   "title": "Ey garib bülbül diyârın",
+   "artist": "Niyazi Misri · nº 44",
+   "lines": [
+    {
+     "t": "Ey garib bülbül diyârın kândedir (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Bir haber ver gülizârın kândedir",
+     "c": []
+    },
+    {
+     "t": "Sen bu ilde kimseye yâr olmadın (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Var senin elbette yârin kândedir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Arttı günden güne feryâdın senin (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Âh-u efgân oldu mu'tâdın senin",
+     "c": []
+    },
+    {
+     "t": "Aşk içinde kimdir üstâdın senin (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Bu senin sabr-u karârın kândedir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bir enisin yok aceb hasrettesin (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Rahatı terk eyledin mihnettesin",
+     "c": []
+    },
+    {
+     "t": "Gece gündüz bilmeyüp hayrettesin (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Yâ senin leyl-ü nehârın kândedir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ne göründü güle karşı gözüne (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Ne büründü baktığınca özüne",
+     "c": []
+    },
+    {
+     "t": "Kimse mahrem olmadı hiç râzına (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Bilmediler şeh-süvârın kândedir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gökte uçarken seni indirdiler (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Çâr-ı unsur bendlerine urdular",
+     "c": []
+    },
+    {
+     "t": "Nûr iken adın Niyâzî dediler (Allah Allah Allah)",
+     "c": []
+    },
+    {
+     "t": "Şol ezelki itibârın kândedir",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_44",
+   "title": "Şükür Allahım",
+   "artist": "Mehmet Çelikçeken · nº 45",
+   "lines": [
+    {
+     "t": "Sana şükürler olsun ey Allah'ım",
+     "c": []
+    },
+    {
+     "t": "Bu yolun kıymetin bildir Allah'ım",
+     "c": []
+    },
+    {
+     "t": "Tevhidle açtın sana çıkan yolu",
+     "c": []
+    },
+    {
+     "t": "Bütün yollar sana çıkar Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bazen alarız biz hemen gaflete",
+     "c": []
+    },
+    {
+     "t": "Uyanıp gafletten doğru vahdete",
+     "c": []
+    },
+    {
+     "t": "Vahdeti anlarız biz gaflet ile",
+     "c": []
+    },
+    {
+     "t": "Gafletindahi nimettir Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gaflet perdesini aldın gözümden",
+     "c": []
+    },
+    {
+     "t": "Konuşurken dilim, sözüm sözünden",
+     "c": []
+    },
+    {
+     "t": "Görüyorsun gözümden, tuttun elimden",
+     "c": []
+    },
+    {
+     "t": "Elde, dilde, gözde senin Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nimetini iki türlü anladık",
+     "c": []
+    },
+    {
+     "t": "Anladık da biz hayretlerde kaldık",
+     "c": []
+    },
+    {
+     "t": "Şükretmek için biz secdeye vardık",
+     "c": []
+    },
+    {
+     "t": "Ne kadar şükretsek azdır Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bizler Muhammedi melamileriz",
+     "c": []
+    },
+    {
+     "t": "Emri nehyi bilir secde ederiz",
+     "c": []
+    },
+    {
+     "t": "Böyle öğretti bizlere Rabbimiz",
+     "c": []
+    },
+    {
+     "t": "Secde sıfatından sana Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mehmet'in dertleri çoktur sayılmaz",
+     "c": []
+    },
+    {
+     "t": "Derdi dermanıdır etmez itiraz",
+     "c": []
+    },
+    {
+     "t": "Rızayı bulur da hiç derdi kalmaz",
+     "c": []
+    },
+    {
+     "t": "Lütfü ikramındır bize Allah'ım",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_45",
+   "title": "Allahım",
+   "artist": "Mehmet Çelikçeken · nº 46",
+   "lines": [
+    {
+     "t": "Gelin kardeşlerim",
+     "c": []
+    },
+    {
+     "t": "zikrullaha gelin",
+     "c": []
+    },
+    {
+     "t": "Kurtuluş bundadır",
+     "c": []
+    },
+    {
+     "t": "tevhide yönelin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Lâfında kalmayın",
+     "c": []
+    },
+    {
+     "t": "yaşantıya girin",
+     "c": []
+    },
+    {
+     "t": "Her işi Allah'a",
+     "c": []
+    },
+    {
+     "t": "Hakka nisbet edin",
+     "c": []
+    },
+    {
+     "t": "Razı ol Allah'ım",
+     "c": []
+    },
+    {
+     "t": "razı ol bizlerden",
+     "c": []
+    },
+    {
+     "t": "Ayırma bizleri",
+     "c": []
+    },
+    {
+     "t": "hep sevdiklerinden",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Derdi sen verirsin",
+     "c": []
+    },
+    {
+     "t": "dermanı içinde",
+     "c": []
+    },
+    {
+     "t": "Derdim derman oldu",
+     "c": []
+    },
+    {
+     "t": "nuru tevhidinle",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sen varsın Allah'ım",
+     "c": []
+    },
+    {
+     "t": "dilimde, kalbimde",
+     "c": []
+    },
+    {
+     "t": "Görünüş duruşun",
+     "c": []
+    },
+    {
+     "t": "çeşit tecellide",
+     "c": []
+    },
+    {
+     "t": "Aşkını ver Allah'ım",
+     "c": []
+    },
+    {
+     "t": "sabrını ver Allah'ım",
+     "c": []
+    },
+    {
+     "t": "Sabreden kulunda",
+     "c": []
+    },
+    {
+     "t": "sen varsın Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mülk senin Allah'ım",
+     "c": []
+    },
+    {
+     "t": "verirsin alırsın",
+     "c": []
+    },
+    {
+     "t": "Senden bilmeyeni",
+     "c": []
+    },
+    {
+     "t": "narınla yakarsın",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hatamız pek çoktur",
+     "c": []
+    },
+    {
+     "t": "affeyle Allah'ım",
+     "c": []
+    },
+    {
+     "t": "Dilersen kulunu",
+     "c": []
+    },
+    {
+     "t": "cennete koyarsın",
+     "c": []
+    },
+    {
+     "t": "Rahimsin Allah'ım",
+     "c": []
+    },
+    {
+     "t": "kerimsin Allah'ım",
+     "c": []
+    },
+    {
+     "t": "Rahmetin gazabı",
+     "c": []
+    },
+    {
+     "t": "geçmiştir Allah'ım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Elestü hitabı",
+     "c": []
+    },
+    {
+     "t": "bu demdir hep bu dem",
+     "c": []
+    },
+    {
+     "t": "Harfsiz sözsüz hitap",
+     "c": []
+    },
+    {
+     "t": "gelir şeş cihetten",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Tanıdık biz seni",
+     "c": []
+    },
+    {
+     "t": "bin bir çeşit yüzden",
+     "c": []
+    },
+    {
+     "t": "Bilensin Allah'ım",
+     "c": []
+    },
+    {
+     "t": "görürsün gözümden",
+     "c": []
+    },
+    {
+     "t": "Razıyım Allah'ım",
+     "c": []
+    },
+    {
+     "t": "razıyım kaderden",
+     "c": []
+    },
+    {
+     "t": "Ayırma bir nefes",
+     "c": []
+    },
+    {
+     "t": "beni cemâlinden",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Düşürme yarabbi",
+     "c": []
+    },
+    {
+     "t": "düşürme gaflete",
+     "c": []
+    },
+    {
+     "t": "En kısa yolundan",
+     "c": []
+    },
+    {
+     "t": "eriştir vahdete",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bizler aciz kuluz",
+     "c": []
+    },
+    {
+     "t": "ne var elimizde",
+     "c": []
+    },
+    {
+     "t": "Sevdin seçtin bizi",
+     "c": []
+    },
+    {
+     "t": "lütfettin Mehmet'e",
+     "c": []
+    },
+    {
+     "t": "Şükürler ALLAH'IM",
+     "c": []
+    },
+    {
+     "t": "sonsuz şükür san",
+     "c": []
+    },
+    {
+     "t": "Düşürme nefsime",
+     "c": []
+    },
+    {
+     "t": "çevir senden yana",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_46",
+   "title": "Guzel Asik",
+   "artist": "nº 47",
+   "lines": [
+    {
+     "t": "Güzel aşık cevrimizi",
+     "c": []
+    },
+    {
+     "t": "Çekemezsin demedim mi?",
+     "c": []
+    },
+    {
+     "t": "Bu bir rıza lokmasıdır",
+     "c": []
+    },
+    {
+     "t": "Yiyemezsin demedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yemeyenler kalır naçar",
+     "c": []
+    },
+    {
+     "t": "Gözlerinden kanlar saçar",
+     "c": []
+    },
+    {
+     "t": "Bu bir demdir gelir geçer",
+     "c": []
+    },
+    {
+     "t": "Duyamazsın demedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Demedim mi, demedim mi?",
+     "c": []
+    },
+    {
+     "t": "Gönül sana söylemedim mi?",
+     "c": []
+    },
+    {
+     "t": "Ah demedim mi, demedim mi?",
+     "c": []
+    },
+    {
+     "t": "Gönül sana söylemedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu bir demdir gelir geçer",
+     "c": []
+    },
+    {
+     "t": "Duyamazsın demedim mi?",
+     "c": []
+    },
+    {
+     "t": "Bu bir demdir gelir geçer",
+     "c": []
+    },
+    {
+     "t": "Duyamazsın demedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu marifet bir dilektir",
+     "c": []
+    },
+    {
+     "t": "Bilene büyük devlettir",
+     "c": []
+    },
+    {
+     "t": "Yensiz yakasız gömlektir",
+     "c": []
+    },
+    {
+     "t": "Giyemezsin demedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Girelim Ali sırrına",
+     "c": []
+    },
+    {
+     "t": "Varalım meydan yerine",
+     "c": []
+    },
+    {
+     "t": "Can ü başı Hak yoluna",
+     "c": []
+    },
+    {
+     "t": "Koyamazsın demedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Demedim mi, demedim mi?",
+     "c": []
+    },
+    {
+     "t": "Gönül sana söylemedim mi?",
+     "c": []
+    },
+    {
+     "t": "Ah demedim mi, demedim mi?",
+     "c": []
+    },
+    {
+     "t": "Gönül sana söylemedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Can ü başı Hak yoluna",
+     "c": []
+    },
+    {
+     "t": "Koyamazsın demedim mi?",
+     "c": []
+    },
+    {
+     "t": "Can ü başı Hak yoluna",
+     "c": []
+    },
+    {
+     "t": "Koyamazsın demedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Pir Sultan Abdal Şahımız",
+     "c": []
+    },
+    {
+     "t": "Arşa çıkar efganımız",
+     "c": []
+    },
+    {
+     "t": "On İk'imam katarımız",
+     "c": []
+    },
+    {
+     "t": "Uyamazsın demedim mi?",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Âşıklar harabat olur",
+     "c": []
+    },
+    {
+     "t": "Hakk katında kutlu olur",
+     "c": []
+    },
+    {
+     "t": "Muhabbet baldan tatlıdır",
+     "c": []
+    },
+    {
+     "t": "Doyamazsın demedim mi?",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_47",
+   "title": "Gamdan beni azad et",
+   "artist": "nº 48",
+   "lines": [
+    {
+     "t": "Gamdan beni azad et",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Nureddin",
+     "c": []
+    },
+    {
+     "t": "Biçareyim imdad et",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Nureddin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Biçare şeref asa",
+     "c": []
+    },
+    {
+     "t": "Billah olurum rüsva",
+     "c": []
+    },
+    {
+     "t": "Tutmazsan elimden ferda",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Nureddin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sen hem rehber-i Haksın",
+     "c": []
+    },
+    {
+     "t": "Hem mürşid-i mutlaksın",
+     "c": []
+    },
+    {
+     "t": "Kutbiyyette elyaksın",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Nureddin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Her yâre-i bimare",
+     "c": []
+    },
+    {
+     "t": "Cerrahi eder çare",
+     "c": []
+    },
+    {
+     "t": "Geldim sana timare",
+     "c": []
+    },
+    {
+     "t": "Ya Hazreti Nureddin",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_48",
+   "title": "Mualla gavs-ı Sübhani",
+   "artist": "nº 49",
+   "lines": [
+    {
+     "t": "Mualla gavs-ı Sübhani",
+     "c": []
+    },
+    {
+     "t": "Mukaddes kutb-ür-Rabbani",
+     "c": []
+    },
+    {
+     "t": "Emin-i sırrı Yezdâni",
+     "c": []
+    },
+    {
+     "t": "Abdülkadir-i Geylâni",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Alel yalel, Ya Seyyide aynî",
+     "c": []
+    },
+    {
+     "t": "Alel yalel, Ya Ruhî aynî",
+     "c": []
+    },
+    {
+     "t": "Ya Hay Ya Hay Ya Hay Ya Hadi",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Zehi simâ-i nurani",
+     "c": []
+    },
+    {
+     "t": "Zehi ferhunde pişâni",
+     "c": []
+    },
+    {
+     "t": "Kemal-i hüsn-i insani",
+     "c": []
+    },
+    {
+     "t": "Abdülkadir-i Geylâni",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Alel yalel, Ya Seyyide aynî",
+     "c": []
+    },
+    {
+     "t": "Alel yalel, Ya Ruhî aynî",
+     "c": []
+    },
+    {
+     "t": "Ya Hay Ya Hay Ya Hay Ya Hadi",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Medet pâdişah-ı Geylâni",
+     "c": []
+    },
+    {
+     "t": "Kerem yâ kutb-u Rabbani",
+     "c": []
+    },
+    {
+     "t": "Ki mahrumum ne gerdani",
+     "c": []
+    },
+    {
+     "t": "Abdülkadir-i Geylâni",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Alel yalel, Ya Seyyide aynî",
+     "c": []
+    },
+    {
+     "t": "Alel yalel, Ya Ruhî aynî",
+     "c": []
+    },
+    {
+     "t": "Ya Hay Ya Hay Ya Hay Ya Hadi",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_49",
+   "title": "Bu dem bu devrânda Pîr Aşkına",
+   "artist": "nº 50",
+   "lines": [
+    {
+     "t": "Bu dem bu devrânda Pîr aşkına",
+     "c": []
+    },
+    {
+     "t": "Yol erkânda Allah aşkına",
+     "c": []
+    },
+    {
+     "t": "Muhammed'le Ali'nin aşkına",
+     "c": []
+    },
+    {
+     "t": "Hû diyelim biz Allah aşkına",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allahümme Salli Alâ Muhammed",
+     "c": []
+    },
+    {
+     "t": "Allahümme Seyyidinâ Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Toplanıp cem olalım dost aşkına",
+     "c": []
+    },
+    {
+     "t": "Can verelim canân aşkına",
+     "c": []
+    },
+    {
+     "t": "Kur'andaki Ehl-i Beyt aşkına",
+     "c": []
+    },
+    {
+     "t": "Hû diyelim biz Allah aşkına",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allahümme Salli Alâ Muhammed",
+     "c": []
+    },
+    {
+     "t": "Allahümme Seyyidinâ Muhammed",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yolda oniki imam aşkına",
+     "c": []
+    },
+    {
+     "t": "Demde kırklar meclisi aşkına",
+     "c": []
+    },
+    {
+     "t": "TALİP'te ÜMMİ SİNAN aşkına",
+     "c": []
+    },
+    {
+     "t": "Hây diyelim biz Allah aşkına",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allahümme Salli Alâ Muhammed",
+     "c": []
+    },
+    {
+     "t": "Allahümme Seyyidinâ Muhammed",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_50",
+   "title": "Erenlerin Sohbeti",
+   "artist": "nº 51",
+   "lines": [
+    {
+     "t": "Erenlerin sohbeti",
+     "c": []
+    },
+    {
+     "t": "Ele giresi değil",
+     "c": []
+    },
+    {
+     "t": "İkrar ile gelenler",
+     "c": []
+    },
+    {
+     "t": "Mahrum kalası değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İkrar gerek bir ere",
+     "c": []
+    },
+    {
+     "t": "Göz açıp didar göre",
+     "c": []
+    },
+    {
+     "t": "Sarraf gerek gevhere",
+     "c": []
+    },
+    {
+     "t": "Nâdan bilesi değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bir pınarın başına",
+     "c": []
+    },
+    {
+     "t": "Bir testiyi koysalar",
+     "c": []
+    },
+    {
+     "t": "Kırk yıl anda durursa",
+     "c": []
+    },
+    {
+     "t": "Kendi dolası değil",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ümmi Sinan yol âyan",
+     "c": []
+    },
+    {
+     "t": "Oluptur belli beyân",
+     "c": []
+    },
+    {
+     "t": "Dervişlik yolu hemân",
+     "c": []
+    },
+    {
+     "t": "Tac u hırkası değil",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_51",
+   "title": "Sadr-ı Cemî'-i Mürselîn",
+   "artist": "nº 52",
+   "lines": [
+    {
+     "t": "Sadr-ı cemî'-i mürselîn sensin yâ Resûlallâh",
+     "c": []
+    },
+    {
+     "t": "Bedr-i eflâk-i yakîn sensin yâ Resûlallâh",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nûrun sirâc-ı vehhâc âlemler sana muhtâc",
+     "c": []
+    },
+    {
+     "t": "Sâhib-i tâc ü mi'râc sensin yâ Resûlallâh",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Âyine-i Rahmânî nûr-ı pâk-i Sübhânî",
+     "c": []
+    },
+    {
+     "t": "Sırr-ı seb'u'l-mesânî sensin yâ Resûlallâh",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şâhidin Leyle-i İsrâ sübhânellezî esrâ",
+     "c": []
+    },
+    {
+     "t": "Câmi'-i cümle-i esmâ sensin yâ Resûlallâh",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ey menba'-ı lutf u cûd yerin makâm-ı Mahmûd",
+     "c": []
+    },
+    {
+     "t": "Yaradılmışdan maksûd sensin yâ Resûlallâh",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cânlar içinde cânân ma'den-i ilm ü 'irfân",
+     "c": []
+    },
+    {
+     "t": "Ceddim ve pîrim sultân sensin yâ Resûlallâh",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Açan râh-ı tevhîdi bulan sırr-ı tefrîdi",
+     "c": []
+    },
+    {
+     "t": "Hüdâyî'nin ümîdi sensin yâ Resûlallâh",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_52",
+   "title": "Dü Cihânın Mefhâri",
+   "artist": "nº 53",
+   "lines": [
+    {
+     "t": "Dü cihânın mefhâri",
+     "c": []
+    },
+    {
+     "t": "Enbiyâlar serveri",
+     "c": []
+    },
+    {
+     "t": "Aşkına ben müşteri",
+     "c": []
+    },
+    {
+     "t": "Koymuşam cân ü seri",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sultan, Burhan, Deyyan, Sultan",
+     "c": []
+    },
+    {
+     "t": "Yâ Hay Yâ Hay Yâ Hay Allah Hû",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bâğ-ı sıdkın bülbülü",
+     "c": []
+    },
+    {
+     "t": "Çâr-ı yârin bir gülü",
+     "c": []
+    },
+    {
+     "t": "Ol Ebû Bekr-i Velî",
+     "c": []
+    },
+    {
+     "t": "Aşıkan ser defteri",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sultan, Burhan, Deyyan, Sultan",
+     "c": []
+    },
+    {
+     "t": "Yâ Hay Yâ Hay Yâ Hay Allah Hû",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mü'minlerin evveli",
+     "c": []
+    },
+    {
+     "t": "Şâh-ı Merdân-ı Ali",
+     "c": []
+    },
+    {
+     "t": "Kıldı dîni münceli",
+     "c": []
+    },
+    {
+     "t": "Yıktı bâb-ı Hayber'i",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sultan, Burhan, Deyyan, Sultan",
+     "c": []
+    },
+    {
+     "t": "Yâ Hay Yâ Hay Yâ Hay Allah Hû",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bunların aşkıyla sen",
+     "c": []
+    },
+    {
+     "t": "Eyle gel Mahvî beden",
+     "c": []
+    },
+    {
+     "t": "Ol Hüseyn ile Hasen",
+     "c": []
+    },
+    {
+     "t": "Şehîdân ser defteri",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sultan, Burhan, Deyyan, Sultan",
+     "c": []
+    },
+    {
+     "t": "Yâ Hay Yâ Hay Yâ Hay Allah Hû",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_53",
+   "title": "Aşkın İle Aşıklar",
+   "artist": "Yunus Emre · nº 54",
+   "lines": [
+    {
+     "t": "Aşkın ile aşıklar yansın yâ Resulallah",
+     "c": []
+    },
+    {
+     "t": "İçip aşkın şarabın kansın Yâ Resulallah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şol seni seven kişi verir yoluna başı",
+     "c": []
+    },
+    {
+     "t": "İki cihan güneşi sensin Yâ Resulallah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şol seni sevenlere kıl şefaat anlara",
+     "c": []
+    },
+    {
+     "t": "Mü'min olan tenlere cansın Yâ Resulallah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşık oldum didare bülbülüm şol gülzâre",
+     "c": []
+    },
+    {
+     "t": "Seni sevmeyen nâre yansın Yâ Resulallah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşık Yûnus'un canı ilm-ü şefaat kânı",
+     "c": []
+    },
+    {
+     "t": "Alemler sultanı sensin Ya Resulallah",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_54",
+   "title": "Allah Allah rabbünâ",
+   "artist": "nº 55",
+   "lines": [
+    {
+     "t": "Allah Allah rabbünâ",
+     "c": []
+    },
+    {
+     "t": "Yâ men ayni sadiri",
+     "c": []
+    },
+    {
+     "t": "Sultân küllü evliyâ",
+     "c": []
+    },
+    {
+     "t": "Pîrim Abdülkâdir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bağdâdi dâru's safâ",
+     "c": []
+    },
+    {
+     "t": "Dâru'l mekarr-ı vefâ",
+     "c": []
+    },
+    {
+     "t": "Nûr-i çeşm-i Mustafâ",
+     "c": []
+    },
+    {
+     "t": "Pîrim Abdülkâdir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah Allah rabbünâ",
+     "c": []
+    },
+    {
+     "t": "Yâ men ayni sadiri",
+     "c": []
+    },
+    {
+     "t": "Sultân küllü evliyâ",
+     "c": []
+    },
+    {
+     "t": "Pîrim Abdülkâdir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bağdâdi kum hâvirî",
+     "c": []
+    },
+    {
+     "t": "İrham hayrul mahiri",
+     "c": []
+    },
+    {
+     "t": "Ve alâ kamber Ali",
+     "c": []
+    },
+    {
+     "t": "Şeyhî Abdülkâdir",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah Allah rabbünâ",
+     "c": []
+    },
+    {
+     "t": "Yâ men ayni sadiri",
+     "c": []
+    },
+    {
+     "t": "Sultân küllü evliyâ",
+     "c": []
+    },
+    {
+     "t": "Pîrim Abdülkâdir",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_55",
+   "title": "Aynayi Tuttum",
+   "artist": "nº 56",
+   "lines": [
+    {
+     "t": "Aynayı tuttum yüzüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 9,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali göründü gözüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 10,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "Nazar kıldım ben özüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 13,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali göründü gözüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 10,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Âdem Baba Havvâ ile",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 10,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Hem \"allemel esmâ\" ile",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 13,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "Çarh-ı felek semâ ile",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 13,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali göründü gözüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 10,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hazreti Nûh Neciyullah",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 12,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Hem İbrahim Halîlullah",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 12,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "Sînâ'daki Kelîmullah",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 10,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali göründü gözüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 10,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Îsâ-yı rûhullah oldur",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 10,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "İki âlemde şâh oldur",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 9,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "Müminlere penâh oldur",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 10,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali göründü gözüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 12,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ali evvel Ali âhir",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 10,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali bâtın Ali zâhir",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 11,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "Ali tayyib Ali tâhir",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 11,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali göründü gözüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 10,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ali cândır Ali cânân",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 11,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali dîndir Ali îmân",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 11,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "Ali rahîm Ali rahmân",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 10,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali göründü gözüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 10,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hilmî gedâ Hilmî kemter",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 11,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Gözüm görür dilim söyler",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 12,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "Her nereye kılsam nazar",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 11,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ali göründü gözüme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 10,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Subhan Allah Sultan Allah",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 13,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Subhan Allah Sultan Allah",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 13,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Ya Mustafa Seyyhem lillah",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 11,
+       "n": "Bm"
+      }
+     ]
+    },
+    {
+     "t": "Ya Mustafa Seyyhem lillah",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 11,
+       "n": "Bm"
+      }
+     ]
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_56",
+   "title": "Biz",
+   "artist": "Mehmet Çelikçeken · nº 57",
+   "lines": [
+    {
+     "t": "Bize sapık derler imiş",
+     "c": []
+    },
+    {
+     "t": "Sapmayız Haktan asla biz",
+     "c": []
+    },
+    {
+     "t": "Diyen kendi sapık imiş",
+     "c": []
+    },
+    {
+     "t": "Ayineyiz çün Hakka biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Söyleriz de anlamazsın",
+     "c": []
+    },
+    {
+     "t": "Anlamadan sapık dersin",
+     "c": []
+    },
+    {
+     "t": "Eline geçeni yersin",
+     "c": []
+    },
+    {
+     "t": "Sanma bilmeyiz seni biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kurân ilmi sonsuz dersin",
+     "c": []
+    },
+    {
+     "t": "Bildim oldum zannedersin",
+     "c": []
+    },
+    {
+     "t": "Allah muhit sen bir hiçsin",
+     "c": []
+    },
+    {
+     "t": "Bir zerreyiz bu yerde biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Surete bakıp aldanma",
+     "c": []
+    },
+    {
+     "t": "Hakka bak kusur arama",
+     "c": []
+    },
+    {
+     "t": "Bizi Haktan gayri sanma",
+     "c": []
+    },
+    {
+     "t": "Vuslat etmişiz dosta biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Artık diline hâkim ol",
+     "c": []
+    },
+    {
+     "t": "Tenezzül tevazulu ol",
+     "c": []
+    },
+    {
+     "t": "Hakkın zikriyle dolu ol",
+     "c": []
+    },
+    {
+     "t": "Rahmet edelim sana biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Korkmayız hiç kınanmaktan",
+     "c": []
+    },
+    {
+     "t": "Korkarız gönül yıkmaktan",
+     "c": []
+    },
+    {
+     "t": "Hele hakkı unutmaktan",
+     "c": []
+    },
+    {
+     "t": "Zikrederiz her anda biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şehadete ermişizdir",
+     "c": []
+    },
+    {
+     "t": "Tahkik iman etmişizdir",
+     "c": []
+    },
+    {
+     "t": "Kalbimiz tam mutbaindir",
+     "c": []
+    },
+    {
+     "t": "Etmeyiz asla şüphe biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cesuruz Hakkı söyleriz",
+     "c": []
+    },
+    {
+     "t": "Alan değil veren eliz",
+     "c": []
+    },
+    {
+     "t": "Şefkatli merhametliyiz",
+     "c": []
+    },
+    {
+     "t": "Affederiz hep yine biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Biatımız Allah'adır",
+     "c": []
+    },
+    {
+     "t": "Gidişimiz yokluğadır",
+     "c": []
+    },
+    {
+     "t": "Yokluğumuz ayinedir",
+     "c": []
+    },
+    {
+     "t": "Görünürüz her şende biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Halktan Hakkı sevenleriz",
+     "c": []
+    },
+    {
+     "t": "Severken hem seviliriz",
+     "c": []
+    },
+    {
+     "t": "Zahir batın bir eyleriz",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidiz çünkü biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sözümüz kelamı haktır",
+     "c": []
+    },
+    {
+     "t": "Gönülleri aydınlatır",
+     "c": []
+    },
+    {
+     "t": "Bu sözlerin özü aşktır",
+     "c": []
+    },
+    {
+     "t": "Ezelden aldık aşkı biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mehmet'tir bugün adımız",
+     "c": []
+    },
+    {
+     "t": "Mutlaktandır kelamımız",
+     "c": []
+    },
+    {
+     "t": "Tanıyın bizi biz kimiz",
+     "c": []
+    },
+    {
+     "t": "Daim bizdeyiz bizle biz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "09.05.2000",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_57",
+   "title": "Nedir Tevhid",
+   "artist": "Mehmet Çelikçeken · nº 58",
+   "lines": [
+    {
+     "t": "Sorsalar bana var mıdır haberin",
+     "c": []
+    },
+    {
+     "t": "Nedir tevhit hakkındaki bildiğin",
+     "c": []
+    },
+    {
+     "t": "Derim tevhit bir sırrı ilahidir",
+     "c": []
+    },
+    {
+     "t": "Bu sırrı bilmektir tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu ulvi sır peygambere söylendi",
+     "c": []
+    },
+    {
+     "t": "İsmine de ilmi ledün denildi",
+     "c": []
+    },
+    {
+     "t": "Şeriat sandığına kilitlendi",
+     "c": []
+    },
+    {
+     "t": "Şeriat da gizli tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dünyaya gelmekte ki esas gaye",
+     "c": []
+    },
+    {
+     "t": "Hakikati yaşamaktır zevk ile",
+     "c": []
+    },
+    {
+     "t": "Zevkten hale, halden fena endere",
+     "c": []
+    },
+    {
+     "t": "Geçip yok olmaktır tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Seyyid Nesimi İbni Arabiler",
+     "c": []
+    },
+    {
+     "t": "Daim bu hakikati söylediler",
+     "c": []
+    },
+    {
+     "t": "Bu uğurda canlarını verdiler",
+     "c": []
+    },
+    {
+     "t": "Kadere rızadır tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Tevhidi bulan avam gibi olmaz",
+     "c": []
+    },
+    {
+     "t": "Hayvan gibi ısıranı ısırmaz",
+     "c": []
+    },
+    {
+     "t": "Sözüyle kimsenin kalbini kırmaz",
+     "c": []
+    },
+    {
+     "t": "Peygamber ahlakı tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah tecelli eder celaliyle",
+     "c": []
+    },
+    {
+     "t": "Celal cemal birdir aşık gözünde",
+     "c": []
+    },
+    {
+     "t": "Avamın zehri var kötü sözünde",
+     "c": []
+    },
+    {
+     "t": "Bu zehri içmektir tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gör tevhidi hazreti Hüseyin'de",
+     "c": []
+    },
+    {
+     "t": "Ehliyle kerbelâ cehenneminde",
+     "c": []
+    },
+    {
+     "t": "Her tecellide zevkle enfüsünde",
+     "c": []
+    },
+    {
+     "t": "Kerbela'yı tatmak tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nispet varlıkları ortadan Siler",
+     "c": []
+    },
+    {
+     "t": "İnsanı baştan ayağa nur eder",
+     "c": []
+    },
+    {
+     "t": "Allah kulundan böylece hükmeder",
+     "c": []
+    },
+    {
+     "t": "Hükmü Hakka vermek tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Meyvalı ağaç daima taşlanır",
+     "c": []
+    },
+    {
+     "t": "Taşlandıkça dervişler olgunlaşır",
+     "c": []
+    },
+    {
+     "t": "Kemalatla Allaha ulaşılır",
+     "c": []
+    },
+    {
+     "t": "Belaya hamd etmek tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yoktur tevhitte üzülmek sevinmek",
+     "c": []
+    },
+    {
+     "t": "Yoktur boş sözlerle zaman öldürmek",
+     "c": []
+    },
+    {
+     "t": "Edep ile hemen huzura girmek",
+     "c": []
+    },
+    {
+     "t": "Şu anda yaşanır tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cisme bakma öze bak, gel sen beri",
+     "c": []
+    },
+    {
+     "t": "Özden gelen söze bak, al sen hikmeti",
+     "c": []
+    },
+    {
+     "t": "Çeşit surette tecelli edeni",
+     "c": []
+    },
+    {
+     "t": "Her yüzden tanımak tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Tevhidi dil asla tarif edemez",
+     "c": []
+    },
+    {
+     "t": "Balı yemeyen tadını bilemez",
+     "c": []
+    },
+    {
+     "t": "Arif olanlar hiç itiraz etmez",
+     "c": []
+    },
+    {
+     "t": "Huzura erdirir tevhit dediğin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mehmet bu sözlerin tamamı sana",
+     "c": []
+    },
+    {
+     "t": "Öğüt alan alsa da almasa da",
+     "c": []
+    },
+    {
+     "t": "Kendin duy, kendin anla, kendin yaşa",
+     "c": []
+    },
+    {
+     "t": "Duyup yaşamaktır tevhit dediğin",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_58",
+   "title": "Ey âşık-ı dildâde",
+   "artist": "nº 59",
+   "lines": [
+    {
+     "t": "Ey âşık-ı dildâde",
+     "c": []
+    },
+    {
+     "t": "Gel nûş edelim bâde",
+     "c": []
+    },
+    {
+     "t": "Bir bâde gerek ammâ",
+     "c": []
+    },
+    {
+     "t": "Kim içile me'vâde",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Can Allah canan Allah",
+     "c": []
+    },
+    {
+     "t": "Canlar sana kurban Allah",
+     "c": []
+    },
+    {
+     "t": "Hay kalbi zikrullah",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illallah",
+     "c": []
+    },
+    {
+     "t": "Muhammedun Resûlullah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sâkisi ola Mevlâ",
+     "c": []
+    },
+    {
+     "t": "Ekdahı anın esmâ",
+     "c": []
+    },
+    {
+     "t": "Bir kez nûş eden kat'â",
+     "c": []
+    },
+    {
+     "t": "Gam görmeye dünyâda",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bir kez içen âşıkdır",
+     "c": []
+    },
+    {
+     "t": "Aşkında ol sâdıkdır",
+     "c": []
+    },
+    {
+     "t": "Aşk öğrete lâyıkdır",
+     "c": []
+    },
+    {
+     "t": "Mecnûn ile Ferhâd'e",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İşit bu Sezâî'den",
+     "c": []
+    },
+    {
+     "t": "Ne gördü Fenâîden",
+     "c": []
+    },
+    {
+     "t": "Dost vechini gösterdi",
+     "c": []
+    },
+    {
+     "t": "Mir'ati mücellâde",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_59",
+   "title": "Selatullah",
+   "artist": "nº 60",
+   "lines": [
+    {
+     "t": "Selatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleike ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Ya Mevlevi şeihen lillah ilallah Huuuuuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Selatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleike ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Ya Rüfai şeihen lillah ilallah Huuuuuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Selatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleike ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Ya Kadiri şeihen lillah ilallah Huuuuuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Selatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleike ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Ya Naqshbandi şeihen lillah ilallah Huuuuuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Selatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleike ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Ya Bektashi şeihen lillah ilallah Huuuuuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Selatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleike ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Ya Ushaqi şeihen lillah ilallah Huuuuuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Selatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleike ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Ya Cerahi şeihen lillah ilallah Huuuuuu",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Selatullah Selamullah",
+     "c": []
+    },
+    {
+     "t": "Aleike ya Resulallah",
+     "c": []
+    },
+    {
+     "t": "Ya Melamie şeihen lillah ilallah Huuuuuu",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_60",
+   "title": "Canım ol cananım ol",
+   "artist": "nº 61",
+   "lines": [
+    {
+     "t": "Bu can sana hayran",
+     "c": []
+    },
+    {
+     "t": "Bu can sana kurban",
+     "c": []
+    },
+    {
+     "t": "Canu canan eylersin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aşk elinden oldu bürîyan",
+     "c": []
+    },
+    {
+     "t": "Özge can neylersin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Canım ol cananım ol",
+     "c": []
+    },
+    {
+     "t": "Derdim ol dermanım ol",
+     "c": []
+    },
+    {
+     "t": "Gönlümün fermanı ol",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Budur aşkı meydan",
+     "c": []
+    },
+    {
+     "t": "Döner merdü merdan",
+     "c": []
+    },
+    {
+     "t": "Aşk ile yanan gelsin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yar elinden oldu giryan",
+     "c": []
+    },
+    {
+     "t": "Derdimi bilen gelsin",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Canım ol cananım ol",
+     "c": []
+    },
+    {
+     "t": "Derdim ol dermanım ol",
+     "c": []
+    },
+    {
+     "t": "Gönlümün fermanı ol",
+     "c": []
+    },
+    {
+     "t": "Gönlümün sultanı ol",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_61",
+   "title": "Bir Cemali Bin Cemale",
+   "artist": "Mehmet Çelikçeken · nº 62",
+   "lines": [
+    {
+     "t": "Bir cemali bin cemale",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Nasılda nakış eyledin",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Nakışlarım aynadır",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Zevkle seyredin dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Nakışlarım aynadır",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Zevkle seyredin dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Seyrettim aynalarda",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Hele hele insanda",
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "İnsan denilen n’ola",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Benim şeklimdir dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 20,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "İnsan denilen n’ola",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Benim şeklimdir dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 20,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ben senmiyim sen benmi?",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Çözemedim bu işi",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Bırak şu seni beni",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Hu ile seyret dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 18,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Bırak şu seni beni",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Hu ile seyret dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 18,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Türlü hikmetlerinle",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Göründün âlemlerde",
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Neden niçin deyince",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Elüstüyü söyledin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 15,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Neden niçin deyince",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Elüstüyü söyledin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 15,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "İstediğim hep sendin",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Daim seni gözledim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Arttı sana özlemim",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Özlemde benim dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Arttı sana özlemim",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Özlemde benim dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Seni çok seviyorum",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "İlanda ediyorum",
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Daim zikrediyorum",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Zikreden benim dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Daim zikrediyorum",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Zikreden benim dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Senin herseyin güzel",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Tevhidin bize özel",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Tevihid sırları çözer",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Sırrı çözenin dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Tevihid sırları çözer",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Sırrı çözenin dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mehmet şaştı bu işe",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Nefis sert geldi dişe",
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Nefsini sahiplenme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Hepsi benimdir dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 18,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Nefsini sahiplenme",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Hepsi benimdir dedin",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 18,
+       "n": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_62",
+   "title": "Şol Cennetin Irmakları",
+   "artist": "Yunus Emre · nº 63",
+   "lines": [
+    {
+     "t": "Şol cennetin ırmakları,",
+     "c": []
+    },
+    {
+     "t": "Akar Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "Çıkmış İslâm bülbülleri,",
+     "c": []
+    },
+    {
+     "t": "Öter Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Salınır tûbâ dalları,",
+     "c": []
+    },
+    {
+     "t": "Kur'an okur hem dilleri.",
+     "c": []
+    },
+    {
+     "t": "Cennet bağının gülleri,",
+     "c": []
+    },
+    {
+     "t": "Kokar Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kimi yiyip kimi içer,",
+     "c": []
+    },
+    {
+     "t": "Hep melekler rahmet saçar.",
+     "c": []
+    },
+    {
+     "t": "İdrîs nebî hulle biçer,",
+     "c": []
+    },
+    {
+     "t": "Diker Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Altındandır direkleri,",
+     "c": []
+    },
+    {
+     "t": "Gümüştendir yaprakları.",
+     "c": []
+    },
+    {
+     "t": "Uzandıkça budakları,",
+     "c": []
+    },
+    {
+     "t": "Biter Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Aydan arıdır yüzleri,",
+     "c": []
+    },
+    {
+     "t": "Misk-i amberdir sözleri.",
+     "c": []
+    },
+    {
+     "t": "Cennet'te hûrî kızları,",
+     "c": []
+    },
+    {
+     "t": "Gezer Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hakk'a âşık olan kişi,",
+     "c": []
+    },
+    {
+     "t": "Akar gözlerinin yaşı.",
+     "c": []
+    },
+    {
+     "t": "Pür nûr olur içi dışı,",
+     "c": []
+    },
+    {
+     "t": "Söyler Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ne dilersen Hak'tan dile,",
+     "c": []
+    },
+    {
+     "t": "Kılâvuzla gir bu yola.",
+     "c": []
+    },
+    {
+     "t": "Bülbül âşık olmuş güle,",
+     "c": []
+    },
+    {
+     "t": "Öter Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Açıldı gökler kapısı,",
+     "c": []
+    },
+    {
+     "t": "Rahmetle doldu hepisi.",
+     "c": []
+    },
+    {
+     "t": "Sekiz Cennet'in kapısı,",
+     "c": []
+    },
+    {
+     "t": "Açar Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Rıdvan-durur kapı açan,",
+     "c": []
+    },
+    {
+     "t": "İdrîs-durur hulle biçen.",
+     "c": []
+    },
+    {
+     "t": "Kevser şarabını içen,",
+     "c": []
+    },
+    {
+     "t": "Kanar Allah deyu deyu.",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Miskin Yûnus var yarına,",
+     "c": []
+    },
+    {
+     "t": "Koma bugünü yarına.",
+     "c": []
+    },
+    {
+     "t": "Yarın Hakk'ın dîvânına,",
+     "c": []
+    },
+    {
+     "t": "Varam Allah deyu deyu.",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_63",
+   "title": "Allah'a Aşk İle Ermiş Erenler",
+   "artist": "Sun’ullah Gaybi · nº 64",
+   "lines": [
+    {
+     "t": "(Refrão)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gelin Allah’a ‘âşık olanlar",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 15,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ‘aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "Cânı bezl eyleyüp sâdık olanlar",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 18,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Zâhirini pâk eylesin şerî’at",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 15,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Bed hûyların tebdîl etsin tarîkat",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 20,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "Hakk cemâlin görem dersen hakîkat",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 19,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "  Refrão:",
+     "c": []
+    },
+    {
+     "t": "  Gelin Allah’a ‘âşık olanlar",
+     "c": [
+      {
+       "p": 2,
+       "n": "Am"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "  Allah’a ‘aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 19,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "  Allah’a ‘aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "Dm"
+      },
+      {
+       "p": 18,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "  Allah’a ‘aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 19,
+       "n": "G"
+      },
+      {
+       "p": 26,
+       "n": "E/Ab"
+      },
+      {
+       "p": 33,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "’Aşkdan gayrı ne var fânîdir fânî",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 21,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "’Aşkdan bulur hayât cümlenin cânı",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 20,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "‘Aşkdan buldu bulan derde dermânı",
+     "c": [
+      {
+       "p": 1,
+       "n": "Am"
+      },
+      {
+       "p": 20,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 19,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 19,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "[Refrão]",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cümle enbiyânın ’aşkdır hep yolu",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 16,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Bütün evliyânın ’aşkdır hep hâli",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 16,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "‘Aşksız olmak yokdur bir kimse velî",
+     "c": [
+      {
+       "p": 1,
+       "n": "Am"
+      },
+      {
+       "p": 21,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 19,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 19,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "[Refrão]",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "“Kenz-i Mahfî” olan ’aşkdır âlemde",
+     "c": [
+      {
+       "p": 1,
+       "n": "Am"
+      },
+      {
+       "p": 20,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Döne döne yüz gösterdi âdemde",
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 17,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "‘Aşka ermeyenler Gaybî mâtemde",
+     "c": [
+      {
+       "p": 1,
+       "n": "Am"
+      },
+      {
+       "p": 17,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 19,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "Allah’a ’aşk ile ermiş erenler",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 19,
+       "n": "E7"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "[Refrão]",
+     "c": []
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_64",
+   "title": "Seni Ben Severim",
+   "artist": "Yunus Emre · nº 65",
+   "lines": [
+    {
+     "t": "Seni ben severim candan içeru",
+     "c": []
+    },
+    {
+     "t": "Yolum vardır bu erkandan içeru",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Şeriat, tarikat yoldur varana",
+     "c": []
+    },
+    {
+     "t": "Hakikat, marifet andan içeru",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dinin terk idenin küfürdür işi",
+     "c": []
+    },
+    {
+     "t": "Ol ne küfürdür imandan içerû",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sorma beni bana, ben bende değilem",
+     "c": []
+    },
+    {
+     "t": "Bir ben vardır bende benden içeru",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Interlúdio",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "\"Süleyman kuş dilin' bilir\" dediler",
+     "c": []
+    },
+    {
+     "t": "Süleyman var Süleyman'dan içeru",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kesildi takatim dizde dermân yok",
+     "c": []
+    },
+    {
+     "t": "Bu ne mezhep imiş dinden içerû",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yunus'un sözleri hundur, ateştir",
+     "c": []
+    },
+    {
+     "t": "Kapında kul var sultandan içeru",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Allah, Allah, Allah, Allah, Allah",
+     "c": []
+    },
+    {
+     "t": "Kapında kul var sultandan içeru",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "s1791590118691_65",
+   "title": "Tâc ma’rifet tâcıdır",
+   "artist": "Sun’ullah Gaybi · nº 66",
+   "lines": [
+    {
+     "t": "Tac ma'rifet tacıdır,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "sanma gayrı ola tac.",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Taklid ile tok olan,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "ledünnîden ola âc.",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Düşe duş olma sakın",
+     "c": [
+      {
+       "p": 0,
+       "n": "Bb"
+      },
+      {
+       "p": 12,
+       "n": "A"
+      }
+     ]
+    },
+    {
+     "t": "düşe aldanup kalma.",
+     "c": [
+      {
+       "p": 0,
+       "n": "Bb"
+      },
+      {
+       "p": 10,
+       "n": "A"
+      }
+     ]
+    },
+    {
+     "t": "Hak'dan gayrı ne vardır,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Bb"
+      },
+      {
+       "p": 14,
+       "n": "A"
+      }
+     ]
+    },
+    {
+     "t": "ta'bire ola muhtâc.",
+     "c": [
+      {
+       "p": 0,
+       "n": "Bb"
+      },
+      {
+       "p": 13,
+       "n": "A"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "  [Refrão]",
+     "c": []
+    },
+    {
+     "t": "  Sana âlem görünen,",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  hakikatte Allah'dur.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  Allah birdür, vallâhi;",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  sanma ki ola bir kâc.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 8,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "  Sana âlem görünen,",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  hakikatte Allah'dur.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  Allah birdür, vallâhi;",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 8,
+       "n": "C/E"
+      },
+      {
+       "p": 16,
+       "n": "Dm"
+      },
+      {
+       "p": 23,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  sanma ki ola bir kâc.",
+     "c": [
+      {
+       "p": 2,
+       "n": "Bb"
+      },
+      {
+       "p": 12,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bir ağaçdır bu âlem,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "mivesi olmuş Âdem.",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 10,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Mivedür maksud olan,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "sanma ki ola ağaç.",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu Âdem mivesinin",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "çekirdeği sözüdür.",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 10,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Sözsüz bu âlem-Âdem,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "bir demde ola tarâc.",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 12,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "  [Refrão]",
+     "c": []
+    },
+    {
+     "t": "  Sana âlem görünen,",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  hakikatte Allah'dur.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  Allah birdür, vallâhi;",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  sanma ki ola bir kâc.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 8,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "  Sana âlem görünen,",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  hakikatte Allah'dur.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  Allah birdür, vallâhi;",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 8,
+       "n": "C/E"
+      },
+      {
+       "p": 16,
+       "n": "Dm"
+      },
+      {
+       "p": 23,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  sanma ki ola bir kâc.",
+     "c": [
+      {
+       "p": 2,
+       "n": "Bb"
+      },
+      {
+       "p": 12,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu sözlerin me'âli,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "kişi kendin bilmektir.",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Kendi kendin bilene,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "hakikat ola mi'râc.",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 10,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hak denilen özündür,",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "özündeki sözündür.",
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 10,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Gaybî, özünü bilene",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Rubûbiyyet ola tac.",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "  [Refrão]",
+     "c": []
+    },
+    {
+     "t": "  Sana âlem görünen,",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  hakikatte Allah'dur.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  Allah birdür, vallâhi;",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  sanma ki ola bir kâc.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 8,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "  Sana âlem görünen,",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "  hakikatte Allah'dur.",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 7,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  Allah birdür, vallâhi;",
+     "c": [
+      {
+       "p": 2,
+       "n": "F"
+      },
+      {
+       "p": 8,
+       "n": "C/E"
+      },
+      {
+       "p": 16,
+       "n": "Dm"
+      },
+      {
+       "p": 23,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "  sanma ki ola bir kâc.",
+     "c": [
+      {
+       "p": 2,
+       "n": "Bb"
+      },
+      {
+       "p": 12,
+       "n": "Am"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s1791590118691_66",
+   "title": "Zât-ı Hakk’da mahrem-i",
+   "artist": "Niyazi Misri · nº 67",
+   "lines": [
+    {
+     "t": "Zât-ı Hakk'da mahrem-i irfân olan anlar bizi, (x1)",
+     "c": []
+    },
+    {
+     "t": "İlm-i sırda bahr-ı bî-pâyân olan anlar bizi. (x2)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Bu fenâ gülzârına bülbül olanlar anlamaz, (x1)",
+     "c": []
+    },
+    {
+     "t": "Vech-i bâkî hüsnüne hayrân olan anlar bizi. (x2)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Dünyâ vü ukbâyı ta'mir eylemekten geçmişiz, (x1)",
+     "c": []
+    },
+    {
+     "t": "Her taraftan yıkılıp vîrân olan anlar bizi. (x2)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Biz şol abdalız bıraktık eğnimizden şâlımız, (x1)",
+     "c": []
+    },
+    {
+     "t": "Varlığından soyunup üryân olan anlar bizi. (x2)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Zahidâ ayık dururken anlamazsın sen bizi, (x1)",
+     "c": []
+    },
+    {
+     "t": "Cur'ayı sâfi içüp mestân olan anlar bizi. (x2)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ârifin her bir sözünü duymaya insân gerek, (x1)",
+     "c": []
+    },
+    {
+     "t": "Bu cihânda sanmanız hayvân olan anlar bizi. (x2)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Kahr u lûtfü şey'i vâhid bilmeyen çeker azab, (x1)",
+     "c": []
+    },
+    {
+     "t": "Ol azabdan kurtulup sultan olan anlar bizi. (x2)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Ey Niyâzî katremiz deryâya saldık biz bugün, (x1)",
+     "c": []
+    },
+    {
+     "t": "Katre nice anlasın ummân olan anlar bizi. (x2)",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Halkı koyup lâ mekân ilinde menzil tutalı, (x1)",
+     "c": []
+    },
+    {
+     "t": "Mısrıyâ şol canlara canân olan anlar bizi. (x2)",
+     "c": []
+    }
+   ],
+   "u": 1791986371016
+  },
+  {
+   "id": "exemplo",
+   "title": "Ciranda, Cirandinha",
+   "artist": "Cantiga popular · Tom: C (exemplo)",
+   "lines": [
+    {
+     "t": "Ciranda, cirandinha",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 9,
+       "n": "G7"
+      }
+     ]
+    },
+    {
+     "t": "Vamos todos cirandar",
+     "c": [
+      {
+       "p": 13,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Vamos dar a meia volta",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 12,
+       "n": "G7"
+      }
+     ]
+    },
+    {
+     "t": "Volta e meia vamos dar",
+     "c": [
+      {
+       "p": 13,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "O anel que tu me deste",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 17,
+       "n": "G7"
+      }
+     ]
+    },
+    {
+     "t": "Era vidro e se quebrou",
+     "c": [
+      {
+       "p": 15,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "O amor que tu me tinhas",
+     "c": [
+      {
+       "p": 2,
+       "n": "C"
+      },
+      {
+       "p": 17,
+       "n": "G7"
+      }
+     ]
+    },
+    {
+     "t": "Era pouco e se acabou",
+     "c": [
+      {
+       "p": 14,
+       "n": "C"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "deleted": {}
+}
