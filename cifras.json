@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-14T13:59:31Z",
+ "saved": "2026-10-14T14:41:33.331Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -213,15 +213,58 @@
     },
     {
      "t": "Gündüz olalım sâim",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      },
+      {
+       "p": 17,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Gece olalım kaim",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 9,
+       "n": "G"
+      },
+      {
+       "p": 15,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Allah diyelim daim",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 11,
+       "n": "C"
+      },
+      {
+       "p": 14,
+       "n": "G"
+      },
+      {
+       "p": 17,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Mevla görelim n'eyler",
@@ -264,7 +307,7 @@
      "c": []
     }
    ],
-   "u": 1791986371016
+   "u": 1791988884731
   },
   {
    "id": "s1791590118691_1",
@@ -12307,105 +12350,6 @@
     }
    ],
    "u": 1791986371016
-  },
-  {
-   "id": "exemplo",
-   "title": "Ciranda, Cirandinha",
-   "artist": "Cantiga popular · Tom: C (exemplo)",
-   "lines": [
-    {
-     "t": "Ciranda, cirandinha",
-     "c": [
-      {
-       "p": 0,
-       "n": "C"
-      },
-      {
-       "p": 9,
-       "n": "G7"
-      }
-     ]
-    },
-    {
-     "t": "Vamos todos cirandar",
-     "c": [
-      {
-       "p": 13,
-       "n": "C"
-      }
-     ]
-    },
-    {
-     "t": "Vamos dar a meia volta",
-     "c": [
-      {
-       "p": 0,
-       "n": "C"
-      },
-      {
-       "p": 12,
-       "n": "G7"
-      }
-     ]
-    },
-    {
-     "t": "Volta e meia vamos dar",
-     "c": [
-      {
-       "p": 13,
-       "n": "C"
-      }
-     ]
-    },
-    {
-     "t": "",
-     "c": []
-    },
-    {
-     "t": "O anel que tu me deste",
-     "c": [
-      {
-       "p": 2,
-       "n": "C"
-      },
-      {
-       "p": 17,
-       "n": "G7"
-      }
-     ]
-    },
-    {
-     "t": "Era vidro e se quebrou",
-     "c": [
-      {
-       "p": 15,
-       "n": "C"
-      }
-     ]
-    },
-    {
-     "t": "O amor que tu me tinhas",
-     "c": [
-      {
-       "p": 2,
-       "n": "C"
-      },
-      {
-       "p": 17,
-       "n": "G7"
-      }
-     ]
-    },
-    {
-     "t": "Era pouco e se acabou",
-     "c": [
-      {
-       "p": 14,
-       "n": "C"
-      }
-     ]
-    }
-   ]
   }
  ],
  "deleted": {}
