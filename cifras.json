@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-14T17:45:09.986Z",
+ "saved": "2026-10-14T17:46:15.136Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -3641,19 +3641,47 @@
    "lines": [
     {
      "t": "Ervahi alemde saflar kuruldu",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 27,
+       "n": "E"
+      }
+     ]
     },
     {
      "t": "\"Elestü\" hitabı nida olundu",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Onda ikrar eden bunda bilindi",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Allah Allah daim Hu diyelim biz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      },
+      {
+       "p": 12,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Hak diyelim biz",
@@ -3804,7 +3832,7 @@
      "c": []
     }
    ],
-   "u": 1791986371016
+   "u": 1791999965579
   },
   {
    "id": "s1791590118691_8",
