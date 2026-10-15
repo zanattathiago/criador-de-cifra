@@ -49,7 +49,6 @@ select{background:var(--paper);border:1px solid var(--line);border-radius:10px;p
 .crow{position:relative;height:1.3em}
 .ch{position:absolute;top:0;left:calc(var(--x) * 1ch);font-weight:700;color:var(--chord);cursor:pointer;border-radius:3px;white-space:pre}
 .ch:hover{background:var(--chord-soft)}
-.ch.auto{font-weight:600;font-style:italic;opacity:.7;text-decoration:underline dotted;text-underline-offset:3px}
 .lrow span{cursor:pointer;border-radius:2px}
 .lrow span:hover,.lrow span.sel{background:var(--hover)}
 .lrow span.pad{opacity:.0}
@@ -271,7 +270,7 @@ function render(){
     const cr=document.createElement('div'); cr.className='crow';
     let maxEnd=0;
     layout(ln.c).forEach(({c,x})=>{
-      const sp=document.createElement('span'); sp.className='ch'+(c.a?' auto':''); sp.textContent=c.n; sp.style.setProperty('--x',x);
+      const sp=document.createElement('span'); sp.className='ch'; sp.textContent=c.n; sp.style.setProperty('--x',x);
       sp.dataset.i=i; sp.dataset.p=c.p; sp.dataset.chord='1'; cr.appendChild(sp); maxEnd=Math.max(maxEnd,x+c.n.length);
     });
     const lr=document.createElement('div'); lr.className='lrow';
@@ -698,12 +697,10 @@ function fillPattern(){
   const s=cur(); if(!s.lines.some(l=>l.c.length)){toast('Coloque os acordes da primeira estrofe e do refrão primeiro');return}
   const before=JSON.parse(JSON.stringify(s.lines));
   const {lines,stats}=FILL.fill(s.lines);
-  /* marca os acordes novos (aparecem em itálico até você conferir clicando neles) */
-  lines.forEach((l,i)=>{ if(!before[i].c.length&&l.c.length) l.c.forEach(c=>c.a=1) });
   const n=stats.block+stats.line+stats.verse;
   if(!n){toast(stats.left?'Não achei estrofe cifrada com o mesmo número de linhas para usar de modelo':'Não havia linhas sem acorde para completar');return}
   undoState={id:s.id,lines:before}; s.lines=lines; save(); render(); $('undoBtn').hidden=false;
-  toast(n+' linhas completadas'+(stats.left?', '+stats.left+' ficaram sem acorde':'')+'. As novas estão em itálico: confira.',6000);
+  toast(n+' linhas completadas'+(stats.left?', '+stats.left+' ficaram sem acorde':'')+'. Confira, e se precisar use Desfazer.',6000);
 }
 $('fillBtn').onclick=fillPattern;
 $('undoBtn').onclick=()=>{ if(!undoState)return; const s=songs.find(x=>x.id===undoState.id); if(s){s.lines=undoState.lines; curId=s.id; save(); renderSel(); render(); toast('Desfeito')} undoState=null; $('undoBtn').hidden=true; };
