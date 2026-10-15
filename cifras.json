@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-15T02:14:56.082Z",
+ "saved": "2026-10-15T02:15:41.606Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -8969,6 +8969,58 @@
       {
        "p": 0,
        "n": "D"
+      },
+      {
+       "p": 9,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Öğüt vermek ne haddime",
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
+    },
+    {
+     "t": "Benimki bir mukaddime",
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
+    },
+    {
+     "t": "Sığındım hoş görünüze",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
       }
      ]
     },
@@ -8981,7 +9033,37 @@
       },
       {
        "p": 11,
+       "n": "B"
+      }
+     ]
+    },
+    {
+     "t": "Sığındım hoş görünüze",
+     "c": [
+      {
+       "p": 0,
        "n": "D"
+      },
+      {
+       "p": 14,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
       }
      ]
     },
@@ -8990,56 +9072,74 @@
      "c": []
     },
     {
-     "t": "Öğüt vermek ne haddime",
-     "c": []
-    },
-    {
-     "t": "Benimki bir mukaddime",
-     "c": []
-    },
-    {
-     "t": "Sığındım hoş görünüze",
-     "c": []
-    },
-    {
-     "t": "Ehli tevhidim diyenler",
-     "c": []
-    },
-    {
-     "t": "Sığındım hoş görünüze",
-     "c": []
-    },
-    {
-     "t": "Ehli tevhidim diyenler",
-     "c": []
-    },
-    {
-     "t": "",
-     "c": []
-    },
-    {
      "t": "Nefsi mizana koymalı",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
     },
     {
      "t": "İrfaniyetle dolmalı",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Mert, doğru, dürüst olmalı",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "B"
+      }
+     ]
     },
     {
      "t": "Mert, doğru, dürüst olmalı",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 16,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "",
@@ -9047,27 +9147,73 @@
     },
     {
      "t": "Gurur kibirden geçmeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
     },
     {
      "t": "Tevazuyla yükselmeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Kendini aciz bilmeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "B"
+      }
+     ]
     },
     {
      "t": "Kendini aciz bilmeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 10,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "",
@@ -9075,27 +9221,73 @@
     },
     {
      "t": "Şeriat başının tacı",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
     },
     {
      "t": "Zikrullah gönlünün ilacı",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Hiçbir zaman olmaz acı",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "B"
+      }
+     ]
     },
     {
      "t": "Hiçbir zaman olmaz acı",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 14,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "",
@@ -9103,27 +9295,73 @@
     },
     {
      "t": "Sözlerinde samimidir",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
     },
     {
      "t": "Namazında daimidir",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Güzel ahlak sahibidir",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "B"
+      }
+     ]
     },
     {
      "t": "Güzel ahlak sahibidir",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 13,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "",
@@ -9131,27 +9369,73 @@
     },
     {
      "t": "Fenafillah ile solgun",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
     },
     {
      "t": "Hakkın benliğiyle dolgun",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Kemalatla olmuş olgun",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "B"
+      }
+     ]
     },
     {
      "t": "Kemalatla olmuş olgun",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 11,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "",
@@ -9159,27 +9443,73 @@
     },
     {
      "t": "Allah faildir diyorsan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
     },
     {
      "t": "Kimseyle çekişmiyorsan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Dostluğa layık olan can",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "B"
+      }
+     ]
     },
     {
      "t": "Dostluğa layık olan can",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 12,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "",
@@ -9187,27 +9517,73 @@
     },
     {
      "t": "Severken sevilir onlar",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
     },
     {
      "t": "Halden dilden anlar onlar",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Halk içinde gizli onlar",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "B"
+      }
+     ]
     },
     {
      "t": "Halk içinde gizli onlar",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 13,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "",
@@ -9215,30 +9591,76 @@
     },
     {
      "t": "Ölüm dirilmek demektir",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      }
+     ]
     },
     {
      "t": "Ölmeyen nefsle dirilir",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "Mehmet sözünde samimidir",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "B"
+      }
+     ]
     },
     {
      "t": "Mehmet sözünde samimidir",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      },
+      {
+       "p": 15,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ehli tevhidim diyenler",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "B"
+      },
+      {
+       "p": 11,
+       "n": "B7"
+      },
+      {
+       "p": 22,
+       "n": "C"
+      }
+     ]
     }
    ],
-   "u": 1792030487004
+   "u": 1792030532979
   },
   {
    "id": "s1791590118691_17",
