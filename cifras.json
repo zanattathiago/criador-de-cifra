@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-14T21:29:45.594Z",
+ "saved": "2026-10-15T01:48:09.734Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -5343,7 +5343,20 @@
    "lines": [
     {
      "t": "Vasıl olmaz kimse Hakka, cümleden dûr olmadan,",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Em"
+      },
+      {
+       "p": 12,
+       "n": "D"
+      },
+      {
+       "p": 25,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Kenz açılmaz şol gönülde, tâki pür nur olmadan",
@@ -5418,7 +5431,7 @@
      "c": []
     }
    ],
-   "u": 1791986371016
+   "u": 1792028889713
   },
   {
    "id": "s1791590118691_11",
