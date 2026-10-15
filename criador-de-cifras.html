@@ -49,6 +49,7 @@ select{background:var(--paper);border:1px solid var(--line);border-radius:10px;p
 .crow{position:relative;height:1.3em}
 .ch{position:absolute;top:0;left:calc(var(--x) * 1ch);font-weight:700;color:var(--chord);cursor:pointer;border-radius:3px;white-space:pre}
 .ch:hover{background:var(--chord-soft)}
+.ch.auto{font-weight:600;font-style:italic;opacity:.7;text-decoration:underline dotted;text-underline-offset:3px}
 .lrow span{cursor:pointer;border-radius:2px}
 .lrow span:hover,.lrow span.sel{background:var(--hover)}
 .lrow span.pad{opacity:.0}
@@ -133,6 +134,10 @@ textarea#editor{width:100%;min-height:420px;font-family:var(--mono);font-size:va
       <span class="lbl">Tom</span>
       <button id="tDown" aria-label="Baixar meio tom">−½</button>
       <button id="tUp" aria-label="Subir meio tom">+½</button>
+    </div>
+    <div class="group">
+      <button id="fillBtn" title="Copia os acordes das estrofes e do refrão que você já fez para o resto da música">Completar pelo padrão</button>
+      <button id="undoBtn" hidden>Desfazer</button>
     </div>
     <div class="group" title="Quando ligado, ao clicar numa sílaba o aplicativo já fica ouvindo o violão">
       <button id="autoHear">Ouvir violão ao clicar</button>
@@ -241,7 +246,7 @@ const cur=()=>songs.find(s=>s.id===curId)||songs[0];
 let saveT; function persist(){try{localStorage.setItem(KEY,JSON.stringify({songs,cur:curId,deleted}))}catch(e){}}
 /* save(false) = só guarda qual música está aberta; save() = a música atual mudou (marca a hora, para juntar com o GitHub) */
 function save(touch){ if(touch!==false){const c=cur(); if(c)c.u=Date.now(); if(window.ghChanged)window.ghChanged()} clearTimeout(saveT);saveT=setTimeout(persist,250)}
-function toast(m){const t=document.createElement('div');t.className='toast';t.textContent=m;document.body.appendChild(t);setTimeout(()=>t.remove(),1800)}
+function toast(m,ms){const t=document.createElement('div');t.className='toast';t.textContent=m;document.body.appendChild(t);setTimeout(()=>t.remove(),ms||1800)}
 
 /* posições de exibição (evita acordes encavalados) */
 function layout(chords){
@@ -266,7 +271,7 @@ function render(){
     const cr=document.createElement('div'); cr.className='crow';
     let maxEnd=0;
     layout(ln.c).forEach(({c,x})=>{
-      const sp=document.createElement('span'); sp.className='ch'; sp.textContent=c.n; sp.style.setProperty('--x',x);
+      const sp=document.createElement('span'); sp.className='ch'+(c.a?' auto':''); sp.textContent=c.n; sp.style.setProperty('--x',x);
       sp.dataset.i=i; sp.dataset.p=c.p; sp.dataset.chord='1'; cr.appendChild(sp); maxEnd=Math.max(maxEnd,x+c.n.length);
     });
     const lr=document.createElement('div'); lr.className='lrow';
@@ -361,8 +366,8 @@ function commit(){
   if(!target)return; const v=normalizeChord($('cin').value);
   if(!v){setStatus('Escreva um acorde, por exemplo G ou Em7.');$('cin').focus();return}
   const ln=cur().lines[target.i];
-  if(editing){editing.n=v}
-  else{const ex=ln.c.find(c=>c.p===target.p); if(ex)ex.n=v; else ln.c.push({p:target.p,n:v})}
+  if(editing){editing.n=v; delete editing.a}
+  else{const ex=ln.c.find(c=>c.p===target.p); if(ex){ex.n=v; delete ex.a} else ln.c.push({p:target.p,n:v})}
   save();closePop();render();
 }
 function removeChord(){if(!editing||!target)return;const ln=cur().lines[target.i];ln.c=ln.c.filter(c=>c!==editing);save();closePop();render()}
@@ -595,6 +600,114 @@ function bindDel(){const b=$('delBtn');b.onclick=()=>{const w=$('delWrap');w.inn
 
 
 
+
+/* ---------- completar acordes pelo padrão ---------- */
+/* Regras (nunca mexe em linha que já tem acorde nem em marcações como "Nakarat"):
+   1. Estrofe ou refrão repetido (mesmo texto de um bloco já cifrado): copia os acordes linha por linha.
+   2. Linha com o mesmo texto de uma linha já cifrada: copia os mesmos acordes.
+   3. Estrofe nova: usa como modelo a estrofe cifrada mais parecida com o MESMO número de linhas
+      (de preferência a anterior) e põe cada acorde na mesma sílaba do verso correspondente.
+   Estrofes sem modelo do mesmo tamanho ficam sem acorde, para você fazer à mão. */
+const FILL={
+  VOW:/[aeıioöuüâîûAEIİOÖUÜÂÎÛ]/, LET:/[A-Za-zÀ-ÿğĞıİşŞçÇ'’‘]/,
+  /* marcações e anotações: "Nakarat", "(Nakarat x2)", "[Refrão]", "Dm (batida tripla)" */
+  isMarker:t=>/^\s*[\(\[]?\s*(nakarat|refr[aã]o|chorus|refrain)\b/i.test(t)||/^\s*[A-G][#b]?[^\s(]*\s*\(/.test(t),
+  norm:t=>t.toLocaleLowerCase('tr').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9ıçğşöü]/g,''),
+  syl(t){ /* início de cada sílaba (aprox. turco/português: uma vogal por sílaba; consoante antes da vogal abre a sílaba) */
+    const st=[]; let ws=-1, first=true;
+    for(let i=0;i<t.length;i++){
+      const ch=t[i];
+      if(!FILL.LET.test(ch)){ws=-1;continue}
+      if(ws<0){ws=i;first=true}
+      if(FILL.VOW.test(ch)){
+        st.push(first?ws:(i>0&&FILL.LET.test(t[i-1])&&!FILL.VOW.test(t[i-1])?i-1:i)); first=false;
+      }
+    }
+    return st;
+  },
+  sylAt(st,p){ let k=0; for(let j=0;j<st.length;j++) if(st[j]<=p)k=j; return k },
+  /* leva os acordes de uma linha modelo para outra linha */
+  mapLine(src,dst){
+    const out=[], S=FILL.syl(src.t), D=FILL.syl(dst);
+    const same=FILL.norm(src.t)===FILL.norm(dst);
+    src.c.forEach(c=>{
+      let p;
+      if(same&&src.t===dst) p=c.p;
+      else if(c.p>=src.t.length&&src.t.length) p=dst.length+(c.p-src.t.length);
+      else if(!S.length||!D.length) p=Math.round(c.p*dst.length/Math.max(1,src.t.length));
+      else{
+        const k=FILL.sylAt(S,c.p), off=Math.max(0,c.p-S[k]);
+        const k2=S.length===D.length?k:Math.round(k*(D.length-1)/Math.max(1,S.length-1));
+        const kk=Math.min(k2,D.length-1), next=D[kk+1]??dst.length;
+        p=Math.min(D[kk]+(S.length===D.length?off:0),Math.max(D[kk],next-1));
+      }
+      while(out.some(o=>o.p===p))p++;
+      out.push({p,n:c.n});
+    });
+    return out;
+  },
+  fill(lines){
+    const L=lines.map(l=>({t:l.t,c:l.c.map(c=>({p:c.p,n:c.n}))}));
+    const isText=l=>l.t.trim()&&!FILL.isMarker(l.t);
+    /* blocos = grupos de linhas de texto separados por linha vazia ou marcação */
+    const blocks=[]; let b=null;
+    L.forEach((l,i)=>{ if(!isText(l)){b=null;return} if(!b){b={idx:[]};blocks.push(b)} b.idx.push(i) });
+    blocks.forEach(b=>{ b.key=b.idx.map(i=>FILL.norm(L[i].t)).join('|'); b.full=b.idx.every(i=>L[i].c.length) });
+    const done=new Set(), stats={block:0,line:0,verse:0,left:0};
+    const put=(i,c,kind)=>{ if(c.length){L[i].c=c; done.add(i); stats[kind]++} };
+    /* 1. bloco repetido */
+    blocks.forEach(B=>{ if(B.full)return; const src=blocks.find(A=>A!==B&&A.full&&A.key===B.key);
+      if(src)B.idx.forEach((i,j)=>{ if(!L[i].c.length) put(i,FILL.mapLine(L[src.idx[j]],L[i].t),'block') }); });
+    /* 2. linha com o mesmo texto (prefere a mesma posição dentro do bloco) */
+    const byText=new Map();
+    blocks.forEach(B=>B.idx.forEach((i,j)=>{ if(L[i].c.length&&!done.has(i)){const k=FILL.norm(L[i].t); if(!byText.has(k))byText.set(k,[]); byText.get(k).push({i,j,len:B.idx.length})} }));
+    blocks.forEach(B=>B.idx.forEach((i,j)=>{
+      if(L[i].c.length)return; const cand=byText.get(FILL.norm(L[i].t)); if(!cand)return;
+      const best=cand.find(x=>x.j===j&&x.len===B.idx.length)||(B.idx.length===1?cand[0]:null);
+      if(best)put(i,FILL.mapLine(L[best.i],L[i].t),'line');
+    }));
+    /* 3. estrofe nova pelo modelo */
+    const cnt=new Map(); L.forEach(l=>{if(isText(l)){const k=FILL.norm(l.t);cnt.set(k,(cnt.get(k)||0)+1)}});
+    const shared=new Set([...cnt].filter(([k,v])=>v>1).map(([k])=>k));
+    const models=blocks.filter(B=>B.idx.every(i=>L[i].c.length&&!done.has(i)));
+    const names=(M,j)=>L[M.idx[j]].c.map(c=>c.n).join(' ');
+    const alike=(A,B)=>A.idx.length===B.idx.length&&A.idx.filter((_,j)=>names(A,j)===names(B,j)).length*2>=A.idx.length;
+    const family=M=>models.findIndex(A=>alike(A,M));
+    blocks.forEach((B,bi)=>{
+      if(B.idx.every(i=>L[i].c.length))return;
+      const same=models.filter(M=>M.idx.length===B.idx.length);
+      if(!same.length){ B.idx.forEach(i=>{if(!L[i].c.length)stats.left++}); return }
+      /* parecido = mesmas linhas de refrão (texto que se repete na música) nas mesmas posições; empate: a primeira estrofe cifrada */
+      const score=M=>{ let s=0; B.idx.forEach((i,j)=>{ const mi=M.idx[j], a=shared.has(FILL.norm(L[i].t)), m=shared.has(FILL.norm(L[mi].t));
+          if(FILL.norm(L[i].t)===FILL.norm(L[mi].t))s+=6; else if(a===m)s+=2; else s-=3;
+          s-=0.2*Math.abs(FILL.syl(L[i].t).length-FILL.syl(L[mi].t).length);
+          /* acorde que você já pôs nesta estrofe escolhe o modelo: mesmo acorde na mesma linha do modelo */
+          if(L[i].c.length&&!done.has(i)) s+=L[i].c.map(c=>c.n).join(' ')===L[mi].c.map(c=>c.n).join(' ')?12:-12 });
+        /* empate: o padrão que você fez primeiro; dentro dele, a versão mais recente antes desta estrofe (você pode ter melhorado) */
+        const fam=family(M), mi=blocks.indexOf(M);
+        return s*10000-fam*100+(mi<bi?mi/100:-1) };
+      const M=same.reduce((a,m)=>score(m)>score(a)?m:a);
+      B.idx.forEach((i,j)=>{ if(!L[i].c.length) put(i,FILL.mapLine(L[M.idx[j]],L[i].t),'verse') });
+    });
+    return {lines:L,stats};
+  }
+};
+let undoState=null;
+function fillPattern(){
+  if(mode==='edit')setMode('chords');
+  const s=cur(); if(!s.lines.some(l=>l.c.length)){toast('Coloque os acordes da primeira estrofe e do refrão primeiro');return}
+  const before=JSON.parse(JSON.stringify(s.lines));
+  const {lines,stats}=FILL.fill(s.lines);
+  /* marca os acordes novos (aparecem em itálico até você conferir clicando neles) */
+  lines.forEach((l,i)=>{ if(!before[i].c.length&&l.c.length) l.c.forEach(c=>c.a=1) });
+  const n=stats.block+stats.line+stats.verse;
+  if(!n){toast(stats.left?'Não achei estrofe cifrada com o mesmo número de linhas para usar de modelo':'Não havia linhas sem acorde para completar');return}
+  undoState={id:s.id,lines:before}; s.lines=lines; save(); render(); $('undoBtn').hidden=false;
+  toast(n+' linhas completadas'+(stats.left?', '+stats.left+' ficaram sem acorde':'')+'. As novas estão em itálico: confira.',6000);
+}
+$('fillBtn').onclick=fillPattern;
+$('undoBtn').onclick=()=>{ if(!undoState)return; const s=songs.find(x=>x.id===undoState.id); if(s){s.lines=undoState.lines; curId=s.id; save(); renderSel(); render(); toast('Desfeito')} undoState=null; $('undoBtn').hidden=true; };
+$('songSel').addEventListener('change',()=>{undoState=null;$('undoBtn').hidden=true});
 
 /* ---------- backup do repertório ---------- */
 let dlCap=null;
