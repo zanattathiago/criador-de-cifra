@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-15T02:12:55.399Z",
+ "saved": "2026-10-15T02:14:17.394Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -8959,7 +8959,29 @@
       },
       {
        "p": 11,
-       "n": "B"
+       "n": "D"
+      }
+     ]
+    },
+    {
+     "t": "Öğütümü dinleyenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "D"
+      }
+     ]
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "D"
       }
      ]
     },
@@ -8973,6 +8995,14 @@
     },
     {
      "t": "Benimki bir mukaddime",
+     "c": []
+    },
+    {
+     "t": "Sığındım hoş görünüze",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
      "c": []
     },
     {
@@ -9004,6 +9034,14 @@
      "c": []
     },
     {
+     "t": "Mert, doğru, dürüst olmalı",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
      "t": "",
      "c": []
     },
@@ -9013,6 +9051,14 @@
     },
     {
      "t": "Tevazuyla yükselmeli",
+     "c": []
+    },
+    {
+     "t": "Kendini aciz bilmeli",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
      "c": []
     },
     {
@@ -9044,6 +9090,14 @@
      "c": []
     },
     {
+     "t": "Hiçbir zaman olmaz acı",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
      "t": "",
      "c": []
     },
@@ -9053,6 +9107,14 @@
     },
     {
      "t": "Namazında daimidir",
+     "c": []
+    },
+    {
+     "t": "Güzel ahlak sahibidir",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
      "c": []
     },
     {
@@ -9084,6 +9146,14 @@
      "c": []
     },
     {
+     "t": "Kemalatla olmuş olgun",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
      "t": "",
      "c": []
     },
@@ -9093,6 +9163,14 @@
     },
     {
      "t": "Kimseyle çekişmiyorsan",
+     "c": []
+    },
+    {
+     "t": "Dostluğa layık olan can",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
      "c": []
     },
     {
@@ -9124,6 +9202,14 @@
      "c": []
     },
     {
+     "t": "Halk içinde gizli onlar",
+     "c": []
+    },
+    {
+     "t": "Ehli tevhidim diyenler",
+     "c": []
+    },
+    {
      "t": "",
      "c": []
     },
@@ -9144,19 +9230,15 @@
      "c": []
     },
     {
-     "t": "",
+     "t": "Mehmet sözünde samimidir",
      "c": []
     },
     {
-     "t": "26.09.2016",
-     "c": []
-    },
-    {
-     "t": "Mehmet Çelikçeken",
+     "t": "Ehli tevhidim diyenler",
      "c": []
     }
    ],
-   "u": 1792030366474
+   "u": 1792030448721
   },
   {
    "id": "s1791590118691_17",
