@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-15T02:42:06.915Z",
+ "saved": "2026-10-15T02:43:59.727Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -11211,11 +11211,21 @@
    "lines": [
     {
      "t": "Kuranda derki Allah",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Hem dahi resülullah",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Kuranda derki Allah",
@@ -11227,6 +11237,14 @@
     },
     {
      "t": "",
+     "c": []
+    },
+    {
+     "t": "Zikrin alâsı budur",
+     "c": []
+    },
+    {
+     "t": "La ilâhe illâllah",
      "c": []
     },
     {
@@ -11250,6 +11268,26 @@
      "c": []
     },
     {
+     "t": "Keder bununla gider",
+     "c": []
+    },
+    {
+     "t": "Zulmetler nura döner",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cennete dahil eder",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
      "t": "Cennete dahil eder",
      "c": []
     },
@@ -11267,6 +11305,26 @@
     },
     {
      "t": "Şirk etmeyin dediği",
+     "c": []
+    },
+    {
+     "t": "Allah'ın istediği",
+     "c": []
+    },
+    {
+     "t": "Şirk etmeyin dediği",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Nebilerin tebliği",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
      "c": []
     },
     {
@@ -11290,6 +11348,26 @@
      "c": []
     },
     {
+     "t": "Vallahi budur iman",
+     "c": []
+    },
+    {
+     "t": "Zerrece kalmaz güman",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mümin olursun inan",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
      "t": "Mümin olursun inan",
      "c": []
     },
@@ -11307,6 +11385,26 @@
     },
     {
      "t": "Vahdet gülünü dermek",
+     "c": []
+    },
+    {
+     "t": "Gayemiz Hakka ermek",
+     "c": []
+    },
+    {
+     "t": "Vahdet gülünü dermek",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Canını vermek gerek",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
      "c": []
     },
     {
@@ -11330,6 +11428,26 @@
      "c": []
     },
     {
+     "t": "Görünen Hak değil mi",
+     "c": []
+    },
+    {
+     "t": "Aç gözünü yeter ki",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Cümle kâinat der ki",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
      "t": "Cümle kâinat der ki",
      "c": []
     },
@@ -11347,6 +11465,26 @@
     },
     {
      "t": "Sakın sanma ben yaptım",
+     "c": []
+    },
+    {
+     "t": "Bütün fiiller Hakkın",
+     "c": []
+    },
+    {
+     "t": "Sakın sanma ben yaptım",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Sana senden çok yakın",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
      "c": []
     },
     {
@@ -11370,6 +11508,26 @@
      "c": []
     },
     {
+     "t": "Sen bilmezsin vallahi",
+     "c": []
+    },
+    {
+     "t": "Bilen Haktır billahi",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Çeker aradan seni",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
      "t": "Çeker aradan seni",
      "c": []
     },
@@ -11387,6 +11545,26 @@
     },
     {
      "t": "Vücut mutlak Allah'ın",
+     "c": []
+    },
+    {
+     "t": "Denizde bir damlasın",
+     "c": []
+    },
+    {
+     "t": "Vücut mutlak Allah'ın",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hiç varlığın kalmasın",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
      "c": []
     },
     {
@@ -11410,6 +11588,26 @@
      "c": []
     },
     {
+     "t": "Büyüktür yüce Allah",
+     "c": []
+    },
+    {
+     "t": "Ondan gayrı yok ilah",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Muhammed resulullah",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah",
+     "c": []
+    },
+    {
      "t": "Muhammed resulullah",
      "c": []
     },
@@ -11430,6 +11628,26 @@
      "c": []
     },
     {
+     "t": "Demircinin isteği",
+     "c": []
+    },
+    {
+     "t": "Fenafillah gayesi",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Yoktur başka sohbeti",
+     "c": []
+    },
+    {
+     "t": "Lâ ilâhe illâllah,",
+     "c": []
+    },
+    {
      "t": "Yoktur başka sohbeti",
      "c": []
     },
@@ -11440,21 +11658,9 @@
     {
      "t": "Muhammedün resullullah",
      "c": []
-    },
-    {
-     "t": "",
-     "c": []
-    },
-    {
-     "t": "08.09.2007",
-     "c": []
-    },
-    {
-     "t": "Mehmet Çelikçeken",
-     "c": []
     }
    ],
-   "u": 1792032126450
+   "u": 1792032231193
   },
   {
    "id": "s1791590118691_20",
