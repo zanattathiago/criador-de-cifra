@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-15T02:15:41.606Z",
+ "saved": "2026-10-15T02:18:53.145Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -9668,11 +9668,54 @@
    "artist": "Mehmet Çelikçeken · nº 18",
    "lines": [
     {
-     "t": "Muhlis olan himmet bulur",
+     "t": "",
      "c": []
     },
     {
+     "t": "Muhlis olan himmet bulur",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
      "t": "Gider riya, haset, gurur",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
+    },
+    {
+     "t": "Muhlis olan himmet bulur",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 12,
+       "n": "C/B"
+      }
+     ]
+    },
+    {
+     "t": "Gider riya, haset, gurur",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Hak mürşide teslim olan",
+     "c": []
+    },
+    {
+     "t": "İnsan gibi irşad olur",
      "c": []
     },
     {
@@ -9696,6 +9739,26 @@
      "c": []
     },
     {
+     "t": "Bu meclise dahil olan",
+     "c": []
+    },
+    {
+     "t": "Geçer sırattan mizandan",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Gönül olur ona mekân",
+     "c": []
+    },
+    {
+     "t": "Allah ondan razı olur",
+     "c": []
+    },
+    {
      "t": "Gönül olur ona mekân",
      "c": []
     },
@@ -9713,6 +9776,26 @@
     },
     {
      "t": "Kesrette vahdeti gören",
+     "c": []
+    },
+    {
+     "t": "Halkı seven Hakkı seven",
+     "c": []
+    },
+    {
+     "t": "Kesrette vahdeti gören",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Mürşidin gönlüne giren",
+     "c": []
+    },
+    {
+     "t": "Kalbi huzurlu şad olur",
      "c": []
     },
     {
@@ -9736,6 +9819,26 @@
      "c": []
     },
     {
+     "t": "Gaflet varsa sende eğer",
+     "c": []
+    },
+    {
+     "t": "Halkın yüzü perde meğer",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Tevhit hicabı refeder",
+     "c": []
+    },
+    {
+     "t": "Her gördüğü cemal olur",
+     "c": []
+    },
+    {
      "t": "Tevhit hicabı refeder",
      "c": []
     },
@@ -9753,6 +9856,26 @@
     },
     {
      "t": "Neden niçin dememeli",
+     "c": []
+    },
+    {
+     "t": "Bu işlerin var hikmeti",
+     "c": []
+    },
+    {
+     "t": "Neden niçin dememeli",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Her işe beli demeli",
+     "c": []
+    },
+    {
+     "t": "Şerler hayra tebdil olur",
      "c": []
     },
     {
@@ -9776,6 +9899,26 @@
      "c": []
     },
     {
+     "t": "Kelamı Haktan duyamaz",
+     "c": []
+    },
+    {
+     "t": "Kalbini şirkten yuyamaz",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
+     "t": "Tecelliye erenler az",
+     "c": []
+    },
+    {
+     "t": "Bu işin sonu ne olur",
+     "c": []
+    },
+    {
      "t": "Tecelliye erenler az",
      "c": []
     },
@@ -9796,6 +9939,18 @@
      "c": []
     },
     {
+     "t": "Hakkın muradı isteği",
+     "c": []
+    },
+    {
+     "t": "Seçmiş demirci Mehmet'i",
+     "c": []
+    },
+    {
+     "t": "",
+     "c": []
+    },
+    {
      "t": "Hak benliğinin bedeli",
      "c": []
     },
@@ -9804,19 +9959,15 @@
      "c": []
     },
     {
-     "t": "",
+     "t": "Hak benliğinin bedeli",
      "c": []
     },
     {
-     "t": "12.10.2001",
-     "c": []
-    },
-    {
-     "t": "Mehmet Çelikçeken",
+     "t": "Ölüm ile tamam olur",
      "c": []
     }
    ],
-   "u": 1791986371016
+   "u": 1792030724517
   },
   {
    "id": "s1791590118691_18",
