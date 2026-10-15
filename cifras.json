@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-15T13:17:23.324Z",
+ "saved": "2026-10-15T13:17:43.582Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -14089,6 +14089,10 @@
      "c": []
     },
     {
+     "t": "Cevher bulunmaz her bir nehirde",
+     "c": []
+    },
+    {
      "t": "",
      "c": []
     },
@@ -14102,6 +14106,10 @@
     },
     {
      "t": "Uçur şâd eyle murg-ı rûhunu",
+     "c": []
+    },
+    {
+     "t": "Seyrân eylesin enfûs âfak ta",
      "c": []
     },
     {
@@ -14129,6 +14137,10 @@
      "c": []
     },
     {
+     "t": "Akıl kalır mı dâr-ı mahbûbda?",
+     "c": []
+    },
+    {
      "t": "",
      "c": []
     },
@@ -14142,6 +14154,10 @@
     },
     {
      "t": "Mecnûn'a bir şey suâl olunmaz",
+     "c": []
+    },
+    {
+     "t": "Yamadı kalem, levh-i mahfûzda",
      "c": []
     },
     {
@@ -14167,9 +14183,13 @@
     {
      "t": "Tavhîd hançerin duymadı cânda",
      "c": []
+    },
+    {
+     "t": "Tavhîd hançerin duymadı cânda",
+     "c": []
     }
    ],
-   "u": 1792070234720
+   "u": 1792070255041
   },
   {
    "id": "s1791590118691_23",
