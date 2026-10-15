@@ -624,6 +624,7 @@ const FILL={
     }
     return st;
   },
+  names:l=>[...l.c].sort((a,b)=>a.p-b.p).map(c=>c.n),
   sylAt(st,p){ let k=0; for(let j=0;j<st.length;j++) if(st[j]<=p)k=j; return k },
   /* leva os acordes de uma linha modelo para outra linha */
   mapLine(src,dst){
@@ -668,6 +669,9 @@ const FILL={
     /* 3. estrofe nova pelo modelo */
     const cnt=new Map(); L.forEach(l=>{if(isText(l)){const k=FILL.norm(l.t);cnt.set(k,(cnt.get(k)||0)+1)}});
     const shared=new Set([...cnt].filter(([k,v])=>v>1).map(([k])=>k));
+    /* refrão = bloco com alguma linha que aparece também em outro bloco */
+    const inBlocks=new Map(); blocks.forEach((A,ai)=>A.idx.forEach(i=>{const k=FILL.norm(L[i].t); if(!inBlocks.has(k))inBlocks.set(k,new Set()); inBlocks.get(k).add(ai)}));
+    const refrain=A=>A.idx.some(i=>inBlocks.get(FILL.norm(L[i].t)).size>1);
     const models=blocks.filter(B=>B.idx.every(i=>L[i].c.length&&!done.has(i)));
     const names=(M,j)=>L[M.idx[j]].c.map(c=>c.n).join(' ');
     const alike=(A,B)=>A.idx.length===B.idx.length&&A.idx.filter((_,j)=>names(A,j)===names(B,j)).length*2>=A.idx.length;
@@ -677,16 +681,37 @@ const FILL={
       const same=models.filter(M=>M.idx.length===B.idx.length);
       if(!same.length){ B.idx.forEach(i=>{if(!L[i].c.length)stats.left++}); return }
       /* parecido = mesmas linhas de refrão (texto que se repete na música) nas mesmas posições; empate: a primeira estrofe cifrada */
-      const score=M=>{ let s=0; B.idx.forEach((i,j)=>{ const mi=M.idx[j], a=shared.has(FILL.norm(L[i].t)), m=shared.has(FILL.norm(L[mi].t));
+      const sameLen=blocks.filter(A=>A.idx.length===B.idx.length&&!refrain(A)), k=sameLen.indexOf(B);
+      const seq=[]; for(const A of sameLen){ if(!same.includes(A))break; seq.push(family(A)) }
+      let want=-1;
+      if(seq.length>=2&&new Set(seq).size>1&&k>=seq.length){
+        let p=1; while(p<seq.length&&!seq.every((f,j)=>f===seq[j%p]))p++;
+        if(p<seq.length||new Set(seq).size===seq.length)want=seq[k%p];
+      }
+      const score=M=>{ let s=0; const fam=family(M); B.idx.forEach((i,j)=>{ const mi=M.idx[j], a=shared.has(FILL.norm(L[i].t)), m=shared.has(FILL.norm(L[mi].t));
           if(FILL.norm(L[i].t)===FILL.norm(L[mi].t))s+=6; else if(a===m)s+=2; else s-=3;
           s-=0.2*Math.abs(FILL.syl(L[i].t).length-FILL.syl(L[mi].t).length);
           /* acorde que você já pôs nesta estrofe escolhe o modelo: mesmo acorde na mesma linha do modelo */
-          if(L[i].c.length&&!done.has(i)) s+=L[i].c.map(c=>c.n).join(' ')===L[mi].c.map(c=>c.n).join(' ')?12:-12 });
+          /* basta o primeiro acorde (ou os primeiros) bater com o começo da linha do modelo */
+          if(L[i].c.length&&!done.has(i)){ const a=FILL.names(L[i]), m=FILL.names(L[mi]);
+            s+=a.join(' ')===m.join(' ')?12:a.every((n,k)=>n===m[k])?10:-12 } });
+        /* estrofes que se revezam (A, B, A, B...): segue a ordem que você usou nas primeiras estrofes */
+        if(fam===want)s+=3;
         /* empate: o padrão que você fez primeiro; dentro dele, a versão mais recente antes desta estrofe (você pode ter melhorado) */
-        const fam=family(M), mi=blocks.indexOf(M);
+        const mi=blocks.indexOf(M);
         return s*10000-fam*100+(mi<bi?mi/100:-1) };
       const M=same.reduce((a,m)=>score(m)>score(a)?m:a);
-      B.idx.forEach((i,j)=>{ if(!L[i].c.length) put(i,FILL.mapLine(L[M.idx[j]],L[i].t),'verse') });
+      B.idx.forEach((i,j)=>{
+        const src=L[M.idx[j]];
+        if(!L[i].c.length){ put(i,FILL.mapLine(src,L[i].t),'verse'); return }
+        /* linha em que você só pôs o começo (ex.: o primeiro acorde): completa o resto dela pelo modelo, sem mexer no que você pôs */
+        const a=FILL.names(L[i]), m=FILL.names(src);
+        if(a.length<m.length&&a.every((n,k)=>n===m[k])){
+          const mine=[...L[i].c].sort((x,y)=>x.p-y.p), last=mine[mine.length-1].p;
+          const add=[...FILL.mapLine(src,L[i].t)].sort((x,y)=>x.p-y.p).slice(a.length).filter(c=>c.p>last);
+          if(add.length){ L[i].c=mine.concat(add); done.add(i); stats.verse++ }
+        }
+      });
     });
     return {lines:L,stats};
   }
