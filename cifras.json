@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-15T12:46:52.921Z",
+ "saved": "2026-10-15T12:48:08.861Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -12523,24 +12523,116 @@
      ]
     },
     {
+     "t": "Yarabbi çevir yönümü",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 15,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Döndür hak peygamberime",
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 15,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
      "t": "",
      "c": []
     },
     {
      "t": "Elest bezmi sardı bizi",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Anladım mürşidin telkinini",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 8,
+       "n": "C"
+      },
+      {
+       "p": 13,
+       "n": "Bb"
+      },
+      {
+       "p": 24,
+       "n": "A"
+      }
+     ]
     },
     {
      "t": "Ezelden vermişim sözü",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 14,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Sözüm hak peygamberime",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Ezelden vermişim sözü",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 14,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Sözüm hak peygamberime",
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "",
@@ -12548,19 +12640,85 @@
     },
     {
      "t": "Mürşit aynadır resule",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Aldı harem ismetine",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 6,
+       "n": "C"
+      },
+      {
+       "p": 12,
+       "n": "Bb"
+      },
+      {
+       "p": 18,
+       "n": "A"
+      }
+     ]
     },
     {
      "t": "Geldik göz göze değdi hem",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 17,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Dizim Hak peygamberime",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Geldik göz göze değdi hem",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 17,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Dizim Hak peygamberime",
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "",
@@ -12568,19 +12726,85 @@
     },
     {
      "t": "Dünya ukbâ yok olmadan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Olamaz hak nuru ayan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 4,
+       "n": "C"
+      },
+      {
+       "p": 12,
+       "n": "Bb"
+      },
+      {
+       "p": 18,
+       "n": "A"
+      }
+     ]
     },
     {
      "t": "Olsun sevdiklerim kurban",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 15,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Canım Hak peygamberime",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Olsun sevdiklerim kurban",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 15,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Canım Hak peygamberime",
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "",
@@ -12588,19 +12812,85 @@
     },
     {
      "t": "Bildim, anladım özümü",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Özden gelen sözümü",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 6,
+       "n": "C"
+      },
+      {
+       "p": 8,
+       "n": "Bb"
+      },
+      {
+       "p": 16,
+       "n": "A"
+      }
+     ]
     },
     {
      "t": "Kalmadı varlığım döndü",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 14,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Özüm Hak peygamberime",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 13,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Kalmadı varlığım döndü",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 14,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Özüm Hak peygamberime",
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 13,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "",
@@ -12608,19 +12898,85 @@
     },
     {
      "t": "Aşık olan didar bulur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Her neye baksan hep odur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 7,
+       "n": "C"
+      },
+      {
+       "p": 13,
+       "n": "Bb"
+      },
+      {
+       "p": 22,
+       "n": "A"
+      }
+     ]
     },
     {
      "t": "Bakmam gayrıya artık ben",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 16,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Döndüm Hak peygamberime",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 15,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Bakmam gayrıya artık ben",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 16,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Döndüm Hak peygamberime",
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 15,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "",
@@ -12628,19 +12984,85 @@
     },
     {
      "t": "Seni sevmeyen mümin olmaz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Hiçbir dem huzur bulamaz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 8,
+       "n": "C"
+      },
+      {
+       "p": 14,
+       "n": "Bb"
+      },
+      {
+       "p": 22,
+       "n": "A"
+      }
+     ]
     },
     {
      "t": "Misafir olsun açıktır",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 14,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Gönlüm Hak peygamberime",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 15,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Misafir olsun açıktır",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 14,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Gönlüm Hak peygamberime",
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 15,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "",
@@ -12648,22 +13070,88 @@
     },
     {
      "t": "Mehmet peygamberi sever",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Akseder nuru gönülde",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 5,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "Bb"
+      },
+      {
+       "p": 19,
+       "n": "A"
+      }
+     ]
     },
     {
      "t": "Hem tertemiz bir aynadır",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 18,
+       "n": "F"
+      }
+     ]
     },
     {
      "t": "Yüzüm hak peygamberime",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      }
+     ]
+    },
+    {
+     "t": "Hem tertemiz bir aynadır",
+     "c": [
+      {
+       "p": 0,
+       "n": "Gm"
+      },
+      {
+       "p": 18,
+       "n": "F"
+      }
+     ]
+    },
+    {
+     "t": "Yüzüm hak peygamberime",
+     "c": [
+      {
+       "p": 0,
+       "n": "C/E"
+      },
+      {
+       "p": 14,
+       "n": "Dm"
+      }
+     ]
     }
    ],
-   "u": 1792068404495
+   "u": 1792068479318
   },
   {
    "id": "s1791590118691_21",
