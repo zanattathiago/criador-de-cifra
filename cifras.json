@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-15T02:19:47.418Z",
+ "saved": "2026-10-15T02:20:27.285Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -9721,19 +9721,47 @@
     },
     {
      "t": "Hak mürşide teslim olan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 12,
+       "n": "C/E"
+      }
+     ]
     },
     {
      "t": "İnsan gibi irşad olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "Hak mürşide teslim olan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "F"
+      },
+      {
+       "p": 12,
+       "n": "C/E"
+      }
+     ]
     },
     {
      "t": "İnsan gibi irşad olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      }
+     ]
     },
     {
      "t": "",
@@ -9741,19 +9769,47 @@
     },
     {
      "t": "Bu meclise dahil olan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Geçer sırattan mizandan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Bu meclise dahil olan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Geçer sırattan mizandan",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9761,19 +9817,47 @@
     },
     {
      "t": "Gönül olur ona mekân",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Allah ondan razı olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Gönül olur ona mekân",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Allah ondan razı olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9781,19 +9865,47 @@
     },
     {
      "t": "Halkı seven Hakkı seven",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Kesrette vahdeti gören",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Halkı seven Hakkı seven",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 12,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Kesrette vahdeti gören",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9801,19 +9913,47 @@
     },
     {
      "t": "Mürşidin gönlüne giren",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Kalbi huzurlu şad olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Mürşidin gönlüne giren",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 12,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Kalbi huzurlu şad olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 11,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9821,19 +9961,47 @@
     },
     {
      "t": "Gaflet varsa sende eğer",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Halkın yüzü perde meğer",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Gaflet varsa sende eğer",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 13,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Halkın yüzü perde meğer",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9841,19 +10009,47 @@
     },
     {
      "t": "Tevhit hicabı refeder",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Her gördüğü cemal olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Tevhit hicabı refeder",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Her gördüğü cemal olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9861,19 +10057,47 @@
     },
     {
      "t": "Bu işlerin var hikmeti",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Neden niçin dememeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Bu işlerin var hikmeti",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Neden niçin dememeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9881,19 +10105,47 @@
     },
     {
      "t": "Her işe beli demeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Şerler hayra tebdil olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Her işe beli demeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 10,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Şerler hayra tebdil olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 13,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9901,19 +10153,47 @@
     },
     {
      "t": "Kelamı Haktan duyamaz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Kalbini şirkten yuyamaz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Kelamı Haktan duyamaz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 10,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Kalbini şirkten yuyamaz",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9921,19 +10201,47 @@
     },
     {
      "t": "Tecelliye erenler az",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Bu işin sonu ne olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Tecelliye erenler az",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 10,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Bu işin sonu ne olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 10,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9941,19 +10249,47 @@
     },
     {
      "t": "Hakkın muradı isteği",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Seçmiş demirci Mehmet'i",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Hakkın muradı isteği",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Seçmiş demirci Mehmet'i",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 12,
+       "n": "G"
+      }
+     ]
     },
     {
      "t": "",
@@ -9961,22 +10297,50 @@
     },
     {
      "t": "Hak benliğinin bedeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Ölüm ile tamam olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      }
+     ]
     },
     {
      "t": "Hak benliğinin bedeli",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 11,
+       "n": "C/B"
+      }
+     ]
     },
     {
      "t": "Ölüm ile tamam olur",
-     "c": []
+     "c": [
+      {
+       "p": 0,
+       "n": "Am"
+      },
+      {
+       "p": 9,
+       "n": "G"
+      }
+     ]
     }
    ],
-   "u": 1792030778900
+   "u": 1792030818660
   },
   {
    "id": "s1791590118691_18",
