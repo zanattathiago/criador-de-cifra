@@ -1,7 +1,7 @@
 {
  "app": "criador-de-cifras",
  "version": 1,
- "saved": "2026-10-15T02:06:01.938Z",
+ "saved": "2026-10-15T02:07:45.016Z",
  "songs": [
   {
    "id": "s1791590118691_0",
@@ -8266,6 +8266,40 @@
      ]
     },
     {
+     "t": "Senden geldim sana giderim",
+     "c": [
+      {
+       "p": 0,
+       "n": "C"
+      },
+      {
+       "p": 15,
+       "n": "C/B"
+      },
+      {
+       "p": 20,
+       "n": "Am"
+      }
+     ]
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
+     "c": [
+      {
+       "p": 0,
+       "n": "Dm"
+      },
+      {
+       "p": 15,
+       "n": "G"
+      },
+      {
+       "p": 21,
+       "n": "C"
+      }
+     ]
+    },
+    {
      "t": "",
      "c": []
     },
@@ -8275,6 +8309,14 @@
     },
     {
      "t": "Huzur ile vardık secdeye",
+     "c": []
+    },
+    {
+     "t": "İbadet ettik şükür ile",
+     "c": []
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
      "c": []
     },
     {
@@ -8306,6 +8348,14 @@
      "c": []
     },
     {
+     "t": "Bizler olmak isteriz hemen",
+     "c": []
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
+     "c": []
+    },
+    {
      "t": "",
      "c": []
     },
@@ -8315,6 +8365,14 @@
     },
     {
      "t": "Arzu eder cennete girmek",
+     "c": []
+    },
+    {
+     "t": "Bizler isteriz seni görmek",
+     "c": []
+    },
+    {
+     "t": "Sadece seninle Allah'ım",
      "c": []
     },
     {
@@ -8346,19 +8404,15 @@
      "c": []
     },
     {
-     "t": "",
+     "t": "Mehmet derki canım ve tenim",
      "c": []
     },
     {
-     "t": "29.11.1987",
-     "c": []
-    },
-    {
-     "t": "Mehmet Çelikçeken",
+     "t": "Sadece seninle Allah'ım",
      "c": []
     }
    ],
-   "u": 1792029953346
+   "u": 1792030056463
   },
   {
    "id": "s1791590118691_15",
